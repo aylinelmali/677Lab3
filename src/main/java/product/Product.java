@@ -4,19 +4,10 @@ import java.util.List;
 import java.util.Random;
 
 public enum Product {
-    FISH(2),
-    SALT(1),
-    BOARS(3);
+    FISH,
+    SALT,
+    BOARS;
 
-    private final int price;
-
-    Product(int price) {
-        this.price = price;
-    }
-
-    public int getPrice() {
-        return price;
-    }
 
     private static final List<Product> VALUES = List.of(values());
     private static final int SIZE = VALUES.size();
