@@ -46,6 +46,7 @@ public class Warehouse {
         }
         else {
             inventory.put(product, currentStock - quantity);
+            logger.log(Messages.getWarehouseBuyMessage(product, quantity));
             updateInventoryFile();
         }
 
@@ -54,6 +55,7 @@ public class Warehouse {
     public synchronized void sell(Product product, int quantity) throws IOException {
         // Increment the count of itemType in the inventory file.
         inventory.put(product, inventory.getOrDefault(product, 0) + quantity);
+        logger.log(Messages.getWarehouseSellMessage(product, quantity));
         updateInventoryFile();
     }
 
