@@ -7,11 +7,17 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class Logger {
-    private static final String LOG_FILE = "trading_post_log.txt"; // Path to the log file
     private static final String STATS_FILE = "trading_post_stats.txt";
+
+    // Instance-specific log file
+    private static String logFile = "";
 
     // Date and time formatter
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy HH:mm:ss.SSS");
+
+    public Logger(String logFileName) {
+        logFile = logFileName;
+    }
 
     // Method to log messages with a timestamp
     public synchronized static void log(String message) {
@@ -22,7 +28,7 @@ public class Logger {
         System.out.println(logMessage);
 
         // Append the message to the log file
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(LOG_FILE, true))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(logFile, true))) {
             writer.write(logMessage);
             writer.newLine();
         } catch (IOException e) {

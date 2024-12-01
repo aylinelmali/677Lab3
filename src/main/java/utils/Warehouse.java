@@ -6,15 +6,20 @@ import java.util.Map;
 import java.util.List;
 import java.util.ArrayList;
 import product.Product;
+import utils.Logger;
+import utils.Messages;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 
 public class Warehouse {
     private static final String INVENTORY_FILE = "warehouse_inventory.txt";
+    private static final String LOG_FILE = "warehouse_log.txt";
     private final Map<Product, Integer> inventory;
+    private final Logger logger;
 
     public Warehouse() throws IOException {
         this.inventory = new EnumMap<>(Product.class);
+        this.logger = new Logger(LOG_FILE);
         loadInventory();
     }
 
@@ -37,7 +42,7 @@ public class Warehouse {
         // Decrement the count of itemType in the inventory file.
         int currentStock = inventory.getOrDefault(product, 0);
         if (currentStock < quantity) {
-
+            logger.log(Messages.getOversoldMessage());
         }
         else {
             inventory.put(product, currentStock - quantity);
