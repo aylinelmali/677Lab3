@@ -12,6 +12,22 @@ import java.util.List;
 
 public class Messages {
 
+    public static String getElectionDoneMessage(int[] traderIDs) {
+        return "Election done. New coordinators are peers " +  Arrays.toString(traderIDs) + ".";
+    }
+
+    public static String getPeerDoingElectionMessage(int peerID, int[] newTags) {
+        return "Peer " + peerID + " is doing election. Tags: " + Arrays.toString(newTags) + ".";
+    }
+
+    public static String getPeerDoesNotRespondMessage(int peerID) {
+        return "Peer " + peerID + " doesn't respond.";
+    }
+
+    public static String getPeerUpdatesCoordinatorMessage(int peerID, int[] traderIDs) {
+        return "Peer " + peerID + " sets coordinators to " + Arrays.toString(traderIDs) + ".";
+    }
+
     public static String getNoInventoryMessage(int buyerID, int traderID, Product product){
         return "Trader " + traderID + " informed buyer " + buyerID + " that no " + product + " was available.";
     }

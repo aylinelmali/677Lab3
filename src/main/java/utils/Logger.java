@@ -7,20 +7,13 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class Logger {
-    private static final String STATS_FILE = "trading_post_stats.txt";
-
-    // Instance-specific log file
-    private static String logFile = "";
+    public static final String STATS_FILE = "trading_post_stats.txt";
 
     // Date and time formatter
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy HH:mm:ss.SSS");
 
-    public Logger(String logFileName) {
-        logFile = logFileName;
-    }
-
     // Method to log messages with a timestamp
-    public synchronized static void log(String message) {
+    public synchronized static void log(String message, String logFile) {
         String timestamp = LocalDateTime.now().format(formatter);
         String logMessage = timestamp + " " + message;
 
