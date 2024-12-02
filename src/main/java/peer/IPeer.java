@@ -35,14 +35,14 @@ public interface IPeer extends Remote {
      * @param product Product to buy.
      * @param amount Amount to buy.
      */
-    Status buy(Product product, int amount) throws RemoteException;
+    ReplyStatus buy(Product product, int amount) throws RemoteException;
 
     /**
      * Make a sell request to the warehouse.
      * @param product Product to sell.
      * @param amount Amount to sell.
      */
-    Status sell(Product product, int amount) throws RemoteException;
+    ReplyStatus sell(Product product, int amount) throws RemoteException;
 
     /**
      * @return The ID of the peer.

@@ -28,7 +28,7 @@ public class Messages {
         return "Peer " + peerID + " sets coordinators to " + Arrays.toString(traderIDs) + ".";
     }
 
-    public static String getNoInventoryMessage(int buyerID, int traderID, Product product){
+    public static String getNoInventoryMessage(int buyerID, int traderID, Product product) {
         return "Trader " + traderID + " informed buyer " + buyerID + " that no " + product + " was available.";
     }
 
@@ -36,11 +36,25 @@ public class Messages {
         return "Warehouse rejected buy request because inventory was oversold.";
     }
 
-    public static String getWarehouseSellMessage(Product product, int quantity){
-        return "Sell request processed: Added " + quantity + " of " + product + " to the inventory.";
+    public static String getWarehouseSellMessage(Product product, int quantity) {
+        return "Sell request processed by warehouse: Added " + quantity + " of " + product + " to the inventory.";
     }
 
-    public static String getWarehouseBuyMessage(Product product, int quantity){
-        return "Buy request processed: Removed " + quantity + " of " + product + " from the inventory.";
+    public static String getWarehouseBuyMessage(Product product, int quantity) {
+        return "Buy request processed by warehouse: Removed " + quantity + " of " + product + " from the inventory.";
+    }
+
+    public static String getBuySuccessfulMessage(int peerID, Product product, int quantity) {
+        return "Peer " + peerID + " successful bought " + quantity + " piece(s) of " + product + ".";
+    }
+
+    public static String getBuyUnsuccessfulMessage(int peerID, Product product, int quantity, boolean retry) {
+        String msg = "Peer " + peerID + " couldn't buy " + quantity + " piece(s) of " + product + ".";
+        msg += retry ? "Retrying." : "Picking new product.";
+        return msg;
+    }
+
+    public static String getNotATraderMessage(int peerID, int traderID) {
+        return "Peer " + peerID + " contacted peer " + traderID + ". Peer " + traderID + " is not a trader.";
     }
 }

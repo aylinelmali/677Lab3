@@ -9,7 +9,7 @@ import java.rmi.server.UnicastRemoteObject;
 import java.util.EnumMap;
 import java.util.Map;
 
-import peer.Status;
+import peer.ReplyStatus;
 import product.Product;
 import utils.Logger;
 import utils.Messages;
@@ -55,33 +55,33 @@ public class Warehouse extends UnicastRemoteObject implements Remote {
         return inventory.getOrDefault(product, 0);
     }
 
-    public synchronized Status buy(Product product, int quantity) throws RemoteException {
+    public synchronized ReplyStatus buy(Product product, int quantity) throws RemoteException {
         // Decrement the count of itemType in the inventory file.
         int currentStock = inventory.getOrDefault(product, 0);
         if (currentStock < quantity) {
             Logger.log(Messages.getOversoldMessage(), WAREHOUSE_LOG_FILE);
-            return Status.UNSUCCESSFUL;
+            return ReplyStatus.UNSUCCESSFUL;
         }
         inventory.put(product, currentStock - quantity);
         Logger.log(Messages.getWarehouseBuyMessage(product, quantity), WAREHOUSE_LOG_FILE);
         try {
             updateInventoryFile();
         } catch (IOException e) {
-            return Status.UNSUCCESSFUL;
+            return ReplyStatus.UNSUCCESSFUL;
         }
-        return Status.SUCCESSFUL;
+        return ReplyStatus.SUCCESSFUL;
     }
 
-    public synchronized Status sell(Product product, int quantity) throws RemoteException {
+    public synchronized ReplyStatus sell(Product product, int quantity) throws RemoteException {
         // Increment the count of itemType in the inventory file.
         inventory.put(product, inventory.getOrDefault(product, 0) + quantity);
         Logger.log(Messages.getWarehouseSellMessage(product, quantity), WAREHOUSE_LOG_FILE);
         try {
             updateInventoryFile();
         } catch (IOException e) {
-            return Status.UNSUCCESSFUL;
+            return ReplyStatus.UNSUCCESSFUL;
         }
-        return Status.SUCCESSFUL;
+        return ReplyStatus.SUCCESSFUL;
     }
 
     // Update the inventory file to reflect the current state

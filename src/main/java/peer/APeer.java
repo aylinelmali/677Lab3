@@ -9,16 +9,18 @@ import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
+import java.rmi.server.UnicastRemoteObject;
+import java.util.Random;
 
-public abstract class APeer implements IPeer {
+public abstract class APeer extends UnicastRemoteObject implements IPeer {
 
     public static final int REGISTRY_PORT = 1099;
 
     public boolean trader;
     protected int peerID;
-    public int[] traderIDs;
+    protected int[] traderIDs;
     public IPeer[] peers;
-
+    public int traderPosition;
 
     protected Warehouse warehouse;
 
@@ -28,6 +30,8 @@ public abstract class APeer implements IPeer {
 
         Registry registry = LocateRegistry.getRegistry("127.0.0.1", REGISTRY_PORT);
         this.warehouse = (Warehouse) registry.lookup(Warehouse.WAREHOUSE_NAME);
+
+        this.traderPosition = new Random().nextInt(0, 2);
     }
 
     @Override
@@ -69,17 +73,17 @@ public abstract class APeer implements IPeer {
     }
 
     @Override
-    public Status buy(Product product, int amount) throws RemoteException {
+    public ReplyStatus buy(Product product, int amount) throws RemoteException {
         if (!this.trader) {
-            return Status.NOT_A_TRADER;
+            return ReplyStatus.NOT_A_TRADER;
         }
         return this.warehouse.buy(product, amount);
     }
 
     @Override
-    public Status sell(Product product, int amount) throws RemoteException {
+    public ReplyStatus sell(Product product, int amount) throws RemoteException {
         if (!this.trader) {
-            return Status.NOT_A_TRADER;
+            return ReplyStatus.NOT_A_TRADER;
         }
         return warehouse.sell(product, amount);
     }
@@ -129,8 +133,12 @@ public abstract class APeer implements IPeer {
         return new int[] { largestA, largestB };
     }
 
-    private String getPeerLogFile() {
+    protected String getPeerLogFile() {
         return "peer" + peerID + "_log.txt";
+    }
+
+    protected IPeer getCurrentTrader() {
+        return this.peers[this.traderIDs[traderPosition]];
     }
 
     public void setPeers(IPeer[] peers) {
