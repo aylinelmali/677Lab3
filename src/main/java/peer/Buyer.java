@@ -6,7 +6,6 @@ import utils.Messages;
 
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
-import java.util.Random;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
@@ -56,22 +55,31 @@ public class Buyer extends APeer{
                 case SUCCESSFUL -> {
                     // reset retries to pick a new product
                     this.retries = 0;
-                    Logger.log(Messages.getBuySuccessfulMessage(this.peerID, this.product, this.amount), getPeerLogFile());
+                    Logger.log(
+                            Messages.getBuySuccessfulMessage(
+                                    this.peerID,
+                                    getCurrentTrader().getPeerID(),
+                                    this.product,
+                                    this.amount),
+                            getPeerLogFile());
                 }
                 case UNSUCCESSFUL -> {
                     // buy unsuccessful, increment reset counter
                     this.retries++;
-                    Logger.log(Messages.getBuyUnsuccessfulMessage(this.peerID, this.product, this.amount, this.retries < MAX_ATTEMPTS), getPeerLogFile());
+                    Logger.log(
+                            Messages.getBuyUnsuccessfulMessage(
+                                this.peerID,
+                                getCurrentTrader().getPeerID(),
+                                this.product,
+                                this.amount,
+                                this.retries < MAX_ATTEMPTS),
+                            getPeerLogFile());
                 }
-                case NOT_A_TRADER -> {
-                    // recipient is not a trader, do logging
-                    Logger.log(Messages.getNotATraderMessage(this.peerID, getCurrentTrader().getPeerID()), getPeerLogFile());
-                    return;
-                }
+                case NOT_A_TRADER -> // recipient is not a trader, do logging
+                        Logger.log(Messages.getNotATraderMessage(this.peerID, getCurrentTrader().getPeerID()), getPeerLogFile());
             }
         } catch (RemoteException e) {
-            // TODO: Proper logging
-            throw new RuntimeException(e);
+            Logger.log(e.getMessage(), getPeerLogFile());
         }
     }
 }
