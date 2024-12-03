@@ -41,7 +41,7 @@ public class Warehouse extends UnicastRemoteObject implements Remote {
     private void loadInventory() {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(INVENTORY_FILE))) {
             for (Product product : Product.values()) {
-                inventory.put(product, 0); //Start with zero stock
+                inventory.put(product, 0); // start with zero stock
                 writer.write(product + ",0");
                 writer.newLine();
             }
@@ -51,12 +51,12 @@ public class Warehouse extends UnicastRemoteObject implements Remote {
     }
 
     public synchronized int lookup(Product product) throws RemoteException {
-        // Read inventory file and return the count of itemType.
+        // read inventory file and return the count of itemType.
         return inventory.getOrDefault(product, 0);
     }
 
     public synchronized ReplyStatus buy(Product product, int quantity) throws RemoteException {
-        // Decrement the count of itemType in the inventory file.
+        // decrement the count of itemType in the inventory file.
         int currentStock = inventory.getOrDefault(product, 0);
         if (currentStock < quantity) {
             Logger.log(Messages.getOversoldMessage(), WAREHOUSE_LOG_FILE);
@@ -73,7 +73,7 @@ public class Warehouse extends UnicastRemoteObject implements Remote {
     }
 
     public synchronized ReplyStatus sell(Product product, int quantity) throws RemoteException {
-        // Increment the count of itemType in the inventory file.
+        // increment the count of itemType in the inventory file.
         inventory.put(product, inventory.getOrDefault(product, 0) + quantity);
         Logger.log(Messages.getWarehouseSellMessage(product, quantity), WAREHOUSE_LOG_FILE);
         try {
@@ -84,7 +84,7 @@ public class Warehouse extends UnicastRemoteObject implements Remote {
         return ReplyStatus.SUCCESSFUL;
     }
 
-    // Update the inventory file to reflect the current state
+    // update the inventory file to reflect the current state
     private void updateInventoryFile() throws IOException {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(INVENTORY_FILE))) {
             for (Map.Entry<Product, Integer> entry : inventory.entrySet()) {

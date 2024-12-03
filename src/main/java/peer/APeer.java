@@ -1,5 +1,8 @@
 package peer;
 
+import cache.CacheUpdateMessage;
+import cache.FIFOWarehouseCache;
+import cache.IWarehouseCache;
 import product.Product;
 import utils.Logger;
 import utils.Messages;
@@ -21,17 +24,18 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
     protected int[] traderIDs;
     public IPeer[] peers;
     public int traderPosition;
-
     protected Warehouse warehouse;
+    protected IWarehouseCache warehouseCache;
+    protected int sequenceNumber;
 
     public APeer(int peerID) throws RemoteException, NotBoundException {
         this.trader = false;
         this.peerID = peerID;
-
+        this.traderPosition = new Random().nextInt(0, 2);
         Registry registry = LocateRegistry.getRegistry("127.0.0.1", REGISTRY_PORT);
         this.warehouse = (Warehouse) registry.lookup(Warehouse.WAREHOUSE_NAME);
-
-        this.traderPosition = new Random().nextInt(0, 2);
+        this.warehouseCache = new FIFOWarehouseCache(this.warehouse);
+        sequenceNumber = 0;
     }
 
     @Override
@@ -73,19 +77,42 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
     }
 
     @Override
-    public ReplyStatus buy(Product product, int amount) throws RemoteException {
+    public synchronized ReplyStatus buy(Product product, int amount) throws RemoteException {
         if (!this.trader) {
             return ReplyStatus.NOT_A_TRADER;
         }
-        return this.warehouse.buy(product, amount);
+
+        ReplyStatus replyStatus = this.warehouseCache.buy(product, amount);
+
+        if (replyStatus == ReplyStatus.SUCCESSFUL) {
+            this.sequenceNumber++;
+            int newStock = this.warehouseCache.lookup(product);
+            updateAllTraderCaches(new CacheUpdateMessage(this.sequenceNumber, this.peerID, product, newStock));
+        }
+
+        return replyStatus;
     }
 
     @Override
-    public ReplyStatus sell(Product product, int amount) throws RemoteException {
+    public synchronized ReplyStatus sell(Product product, int amount) throws RemoteException {
         if (!this.trader) {
             return ReplyStatus.NOT_A_TRADER;
         }
-        return warehouse.sell(product, amount);
+
+        ReplyStatus replyStatus = this.warehouseCache.sell(product, amount);
+
+        if (replyStatus == ReplyStatus.SUCCESSFUL) {
+            this.sequenceNumber++;
+            int newStock = this.warehouseCache.lookup(product);
+            updateAllTraderCaches(new CacheUpdateMessage(this.sequenceNumber, this.peerID, product, newStock));
+        }
+
+        return replyStatus;
+    }
+
+    @Override
+    public void updateCache(CacheUpdateMessage cacheUpdateMessage) throws RemoteException {
+        warehouseCache.updateCache(cacheUpdateMessage);
     }
 
     @Override
@@ -143,5 +170,12 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
 
     public void setPeers(IPeer[] peers) {
         this.peers = peers;
+    }
+
+    public void updateAllTraderCaches(CacheUpdateMessage cacheUpdateMessage) throws RemoteException {
+        for (int traderID : this.traderIDs) {
+            IPeer peer = this.peers[traderID];
+            peer.updateCache(cacheUpdateMessage);
+        }
     }
 }

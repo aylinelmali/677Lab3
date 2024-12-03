@@ -1,5 +1,6 @@
 package peer;
 
+import cache.CacheUpdateMessage;
 import product.Product;
 
 import java.rmi.Remote;
@@ -24,7 +25,6 @@ public interface IPeer extends Remote {
 
     // communication
 
-
     /**
      * Initializes and starts the peer.
      */
@@ -43,6 +43,16 @@ public interface IPeer extends Remote {
      * @param amount Amount to sell.
      */
     ReplyStatus sell(Product product, int amount) throws RemoteException;
+
+    // caching
+
+    /**
+     * Update cache of the peer.
+     * @param cacheUpdateMessage The update message that contains the data necessary for the update.
+     */
+    void updateCache(CacheUpdateMessage cacheUpdateMessage) throws RemoteException;
+
+    // getters
 
     /**
      * @return The ID of the peer.
