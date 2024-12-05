@@ -59,4 +59,12 @@ public interface IPeer extends Remote {
      * @return The ID of the peer.
      */
     int getPeerID() throws RemoteException;
+
+    // heartbeat for fault tolerance
+
+    /**
+     * Sends a heartbeat message to check if the peer is alive.
+     * @throws RemoteException if the peer is not reachable.
+     */
+    void heartbeat() throws RemoteException;
 }

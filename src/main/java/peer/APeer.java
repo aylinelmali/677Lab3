@@ -13,22 +13,30 @@ import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
 import java.util.Arrays;
 import java.util.Random;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.TimeUnit;
 
 public abstract class APeer extends UnicastRemoteObject implements IPeer {
 
     public static final int REGISTRY_PORT = 1099;
+    private static final int HEARTBEAT_INTERVAL = 2000; // in milliseconds
+    private static final int HEARTBEAT_TIMEOUT = 4000; // in milliseconds
+    private boolean isAlive = true;
 
     protected int peerID;
     public int[] traderIDs;
     public IPeer[] peers;
     public int traderPosition;
     protected IWarehouseCache warehouseCache;
+    private ScheduledExecutorService heartbeatExecutor;
 
     public APeer(int peerID, IWarehouseCache warehouseCache, int peersAmt) throws RemoteException {
         this.peerID = peerID;
         this.warehouseCache = warehouseCache;
         this.traderPosition = 0;
         peers = new IPeer[peersAmt];
+        heartbeatExecutor = Executors.newScheduledThreadPool(1);
     }
 
     @Override
@@ -146,6 +154,11 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         return newSearchPath;
     }
 
+    @Override
+    public void heartbeat() throws RemoteException {
+        // Heartbeat response
+    }
+
     /**
      * Retrieves index of this peer id in tags array.
      * @param tags Tags array containing all peer indices.
@@ -190,5 +203,42 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         }
 
         return trader;
+    }
+
+    // Start heartbeat
+    public void startHeartbeat() {
+        if (!isTrader()) return; // Only traders need heartbeat
+
+        heartbeatExecutor.scheduleAtFixedRate(() -> {
+            int partnerTraderID = traderIDs[(traderPosition + 1) % 2];
+            try {
+                IPeer partnerTrader = peers[partnerTraderID];
+                partnerTrader.heartbeat(); // send ping
+            } catch (RemoteException e) {
+                Logger.log("Trader " + partnerTraderID + " not responding. Taking over as sole trader.", getPeerLogFile());
+                handleTraderFailure();
+            }
+        }, HEARTBEAT_INTERVAL, HEARTBEAT_INTERVAL, TimeUnit.MILLISECONDS);
+    }
+
+    private void handleTraderFailure() {
+        traderIDs = new int[]{peerID}; // Become the sole trader
+        traderPosition = 0;
+
+        // Notify all peers about the change
+        for (IPeer peer : peers) {
+            if (peer != null) {
+                try {
+                    peer.coordinator(traderIDs, new int[]{peerID});
+                } catch (RemoteException e) {
+
+                }
+            }
+        }
+    }
+
+    public void simulateFailure() {
+        isAlive = false;
+        heartbeatExecutor.shutdown();
     }
 }
