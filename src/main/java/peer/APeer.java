@@ -1,51 +1,66 @@
 package peer;
 
 import cache.CacheUpdateMessage;
-import cache.FIFOWarehouseCache;
 import cache.IWarehouseCache;
 import product.Product;
 import utils.Logger;
 import utils.Messages;
-import warehouse.Warehouse;
 
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
+import java.util.Arrays;
 import java.util.Random;
 
 public abstract class APeer extends UnicastRemoteObject implements IPeer {
 
     public static final int REGISTRY_PORT = 1099;
 
-    public boolean trader;
     protected int peerID;
-    protected int[] traderIDs;
+    public int[] traderIDs;
     public IPeer[] peers;
     public int traderPosition;
-    protected Warehouse warehouse;
     protected IWarehouseCache warehouseCache;
-    protected int sequenceNumber;
 
-    public APeer(int peerID) throws RemoteException, NotBoundException {
-        this.trader = false;
+    public APeer(int peerID, IWarehouseCache warehouseCache, int peersAmt) throws RemoteException {
         this.peerID = peerID;
-        this.traderPosition = new Random().nextInt(0, 2);
-        Registry registry = LocateRegistry.getRegistry("127.0.0.1", REGISTRY_PORT);
-        this.warehouse = (Warehouse) registry.lookup(Warehouse.WAREHOUSE_NAME);
-        this.warehouseCache = new FIFOWarehouseCache(this.warehouse);
-        sequenceNumber = 0;
+        this.warehouseCache = warehouseCache;
+        this.traderPosition = 0;
+        peers = new IPeer[peersAmt];
     }
 
     @Override
-    public final void election(int[] tags) throws RemoteException {
+    public void start() throws RemoteException {
+        // get all other peers from the registry
+        Registry registry = LocateRegistry.getRegistry("127.0.0.1", REGISTRY_PORT);
+        for (int i = 0; i < this.peers.length; i++) {
+            try {
+                peers[i] = (IPeer) registry.lookup("" + i);
+            } catch (NotBoundException e) {
+                throw new RuntimeException(e);
+            }
+        }
+    }
+
+    @Override
+    public final void election(int[] tags, int n) throws RemoteException {
+
         // check if election has reached every peer
         for (int tag : tags) {
             if (tag == peerID) { // election has reached every peer
-                int[] max = getTwoLargestPeerIDs(tags); // find max peer
-                Logger.log(Messages.getElectionDoneMessage(max), getPeerLogFile());
-                coordinator(max, tags);
+
+                if (n > tags.length) {
+                    throw new IllegalArgumentException("Number of traders is greater than the number of peers.");
+                }
+
+                // elect traders
+                Arrays.sort(tags);
+                int[] traderIDs = Arrays.copyOfRange(tags, tags.length - n, tags.length);
+
+                Logger.log(Messages.getElectionDoneMessage(traderIDs), getPeerLogFile());
+                coordinator(traderIDs, tags);
                 return;
             }
         }
@@ -56,9 +71,9 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         for (int i = 1; i <= peers.length; i++) {
             int nextPeer = (i + peerID) % peers.length;
             try { // check if next peer is alive, else try next peer.
-                peers[nextPeer].election(newTags);
+                peers[nextPeer].election(newTags, n);
                 break;
-            } catch (Exception e) {
+            } catch (RemoteException | NullPointerException e) {
                 Logger.log(Messages.getPeerDoesNotRespondMessage(nextPeer), getPeerLogFile());
             }
         }
@@ -70,6 +85,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         // forward coordinator message to next peer in the tags array.
         Logger.log(Messages.getPeerUpdatesCoordinatorMessage(this.peerID, traderIDs), getPeerLogFile());
         this.traderIDs = traderIDs; // update coordinator
+        this.traderPosition = new Random().nextInt(0, traderIDs.length); // update trader position
         int tagIndex = getPeerTagIndex(tags);
         if (tagIndex != -1 && tagIndex < tags.length-1) {
             peers[tags[tagIndex + 1]].coordinator(traderIDs, tags); // forward message
@@ -78,16 +94,15 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
 
     @Override
     public synchronized ReplyStatus buy(Product product, int amount) throws RemoteException {
-        if (!this.trader) {
+        if (!this.isTrader()) {
             return ReplyStatus.NOT_A_TRADER;
         }
 
         ReplyStatus replyStatus = this.warehouseCache.buy(product, amount);
 
         if (replyStatus == ReplyStatus.SUCCESSFUL) {
-            this.sequenceNumber++;
-            int newStock = this.warehouseCache.lookup(product);
-            updateAllTraderCaches(new CacheUpdateMessage(this.sequenceNumber, this.peerID, product, newStock));
+            int sequenceNumber = this.warehouseCache.getNextSequenceNumber(this.peerID);
+            updateAllTraderCaches(new CacheUpdateMessage(sequenceNumber, this.peerID, product, -amount));
         }
 
         return replyStatus;
@@ -95,16 +110,15 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
 
     @Override
     public synchronized ReplyStatus sell(Product product, int amount) throws RemoteException {
-        if (!this.trader) {
+        if (!this.isTrader()) {
             return ReplyStatus.NOT_A_TRADER;
         }
 
         ReplyStatus replyStatus = this.warehouseCache.sell(product, amount);
 
         if (replyStatus == ReplyStatus.SUCCESSFUL) {
-            this.sequenceNumber++;
-            int newStock = this.warehouseCache.lookup(product);
-            updateAllTraderCaches(new CacheUpdateMessage(this.sequenceNumber, this.peerID, product, newStock));
+            int sequenceNumber = this.warehouseCache.getNextSequenceNumber(this.peerID);
+            updateAllTraderCaches(new CacheUpdateMessage(sequenceNumber, this.peerID, product, amount));
         }
 
         return replyStatus;
@@ -146,20 +160,6 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         return -1;
     }
 
-    private int[] getTwoLargestPeerIDs(int[] peerIDs) {
-        int largestA = Integer.MIN_VALUE, largestB = Integer.MIN_VALUE;
-
-        for (int value : peerIDs) {
-            if (value > largestA) {
-                largestB = largestA;
-                largestA = value;
-            } else if (value > largestB) {
-                largestB = value;
-            }
-        }
-        return new int[] { largestA, largestB };
-    }
-
     protected String getPeerLogFile() {
         return "peer" + peerID + "_log.txt";
     }
@@ -177,5 +177,18 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
             IPeer peer = this.peers[traderID];
             peer.updateCache(cacheUpdateMessage);
         }
+    }
+
+    public boolean isTrader() {
+        boolean trader = false;
+
+        for (int id : this.traderIDs) {
+            if (this.peerID == id) {
+                trader = true;
+                break;
+            }
+        }
+
+        return trader;
     }
 }

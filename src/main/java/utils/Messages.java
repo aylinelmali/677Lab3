@@ -44,14 +44,30 @@ public class Messages {
         return "Buy request processed by warehouse: Removed " + quantity + " of " + product + " from the inventory.";
     }
 
-    public static String getBuySuccessfulMessage(int peerID, int traderID, Product product, int quantity) {
-        return "Peer " + peerID + " successful bought " + quantity + " piece(s) of " + product + " from trader " + traderID + ".";
+    public static String getBuyAttemptMessage(int buyerID, int traderID, Product product, int quantity) {
+        return "Peer " + buyerID + " attempts buying " + quantity + " piece(s) of " + product + " from trader " + traderID + ".";
     }
 
-    public static String getBuyUnsuccessfulMessage(int peerID, int traderID, Product product, int quantity, boolean retry) {
-        String msg = "Peer " + peerID + " couldn't buy " + quantity + " piece(s) of " + product + " from trader " + traderID + ".";
+    public static String getBuySuccessfulMessage(int buyerID, int traderID, Product product, int quantity) {
+        return "Peer " + buyerID + " successful bought " + quantity + " piece(s) of " + product + " from trader " + traderID + ".";
+    }
+
+    public static String getBuyUnsuccessfulMessage(int buyerID, int traderID, Product product, int quantity, boolean retry) {
+        String msg = "Peer " + buyerID + " couldn't buy " + quantity + " piece(s) of " + product + " from trader " + traderID + ". ";
         msg += retry ? "Retrying." : "Picking new product.";
         return msg;
+    }
+
+    public static String getSellAttemptMessage(int sellerID, int traderID, Product product, int quantity) {
+        return "Peer " + sellerID + " attempts selling " + quantity + " piece(s) of " + product + " to trader " + traderID + ".";
+    }
+
+    public static String getSellSuccessfulMessage(int sellerID, int traderID, Product product, int quantity) {
+        return "Peer " + sellerID + " successful sold " + quantity + " piece(s) of " + product + " to trader " + traderID + ".";
+    }
+
+    public static String getSellUnsuccessfulMessage(int sellerID, int traderID, Product product, int quantity) {
+        return "Peer " + sellerID + " couldn't sell " + quantity + " piece(s) of " + product + " to trader " + traderID + ".";
     }
 
     public static String getNotATraderMessage(int peerID, int traderID) {

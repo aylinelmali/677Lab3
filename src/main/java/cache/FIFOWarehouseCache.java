@@ -2,6 +2,7 @@ package cache;
 
 import peer.ReplyStatus;
 import product.Product;
+import warehouse.IWarehouse;
 import warehouse.Warehouse;
 
 import java.rmi.RemoteException;
@@ -12,12 +13,12 @@ import java.util.Map;
 
 public class FIFOWarehouseCache implements IWarehouseCache {
 
-    private final Warehouse warehouse;
+    private final IWarehouse warehouse;
     private final Map<Product, Integer> inventoryCache;
     private final List<CacheUpdateMessage> cacheUpdateMessages;
     private final Map<Integer, Integer> peerIDToSequenceNumber;
 
-    public FIFOWarehouseCache(Warehouse warehouse) {
+    public FIFOWarehouseCache(IWarehouse warehouse) {
         this.warehouse = warehouse;
         this.inventoryCache = new HashMap<>();
         this.cacheUpdateMessages = new ArrayList<>();
@@ -48,14 +49,14 @@ public class FIFOWarehouseCache implements IWarehouseCache {
 
     @Override
     public synchronized void updateCache(CacheUpdateMessage cacheUpdateMessage) {
-        if (peerIDToSequenceNumber.get(cacheUpdateMessage.peerID()) == cacheUpdateMessage.sequenceNumber() - 1) {
+        if (peerIDToSequenceNumber.getOrDefault(cacheUpdateMessage.peerID(), 0) == cacheUpdateMessage.sequenceNumber() - 1) {
             update(cacheUpdateMessage);
             boolean found = true;
             while (found) {
                 found = false;
                 for (CacheUpdateMessage queuedMessage : cacheUpdateMessages) {
                     if (peerIDToSequenceNumber.get(cacheUpdateMessage.peerID()) == queuedMessage.sequenceNumber() - 1) {
-                        update(cacheUpdateMessage);
+                        update(queuedMessage);
                         cacheUpdateMessages.remove(queuedMessage);
                         found = true;
                         break;
@@ -63,13 +64,19 @@ public class FIFOWarehouseCache implements IWarehouseCache {
                 }
             }
 
-        } else if (peerIDToSequenceNumber.get(cacheUpdateMessage.peerID()) < cacheUpdateMessage.sequenceNumber() - 1) {
+        } else if (peerIDToSequenceNumber.getOrDefault(cacheUpdateMessage.peerID(), 0) < cacheUpdateMessage.sequenceNumber() - 1) {
             cacheUpdateMessages.add(cacheUpdateMessage);
         }
     }
 
+    @Override
+    public int getNextSequenceNumber(int peerID) {
+        return peerIDToSequenceNumber.getOrDefault(peerID, 0) + 1;
+    }
+
     private void update(CacheUpdateMessage cacheUpdateMessage) {
-        this.inventoryCache.put(cacheUpdateMessage.product(), cacheUpdateMessage.stock());
+        int stock = this.inventoryCache.getOrDefault(cacheUpdateMessage.product(), 0);
+        this.inventoryCache.put(cacheUpdateMessage.product(), stock + cacheUpdateMessage.amount());
         peerIDToSequenceNumber.put(cacheUpdateMessage.peerID(), cacheUpdateMessage.sequenceNumber());
     }
 }

@@ -1,0 +1,248 @@
+04.12.2024 16:01:46.342 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:01:46.342 Election done. New coordinators are peers [0].
+04.12.2024 16:01:46.343 Peer 0 sets coordinators to [0].
+04.12.2024 16:01:46.344 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:01:46.344 Election done. New coordinators are peers [0].
+04.12.2024 16:01:46.344 Peer 0 sets coordinators to [0].
+04.12.2024 16:01:46.346 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:01:46.346 Election done. New coordinators are peers [0, 1, 2].
+04.12.2024 16:01:46.346 Peer 0 sets coordinators to [0, 1, 2].
+04.12.2024 16:01:46.350 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:01:46.350 Election done. New coordinators are peers [0, 1, 2, 3].
+04.12.2024 16:01:46.350 Peer 0 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:01:46.352 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:01:46.352 Peer 1 doesn't respond.
+04.12.2024 16:01:46.353 Election done. New coordinators are peers [2].
+04.12.2024 16:01:46.353 Peer 0 sets coordinators to [2].
+04.12.2024 16:01:46.355 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:01:46.356 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:01:46.356 Election done. New coordinators are peers [3].
+04.12.2024 16:01:46.357 Peer 0 sets coordinators to [3].
+04.12.2024 16:01:46.358 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:01:46.358 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:01:46.358 Peer 0 sets coordinators to [2, 3].
+04.12.2024 16:01:46.359 Peer 0 is doing election. Tags: [2, 3, 0].
+04.12.2024 16:10:05.065 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:10:05.065 Election done. New coordinators are peers [0].
+04.12.2024 16:10:05.065 Peer 0 sets coordinators to [0].
+04.12.2024 16:10:05.067 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:10:05.067 Election done. New coordinators are peers [0].
+04.12.2024 16:10:05.067 Peer 0 sets coordinators to [0].
+04.12.2024 16:10:05.068 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:10:05.069 Election done. New coordinators are peers [0, 1, 2].
+04.12.2024 16:10:05.069 Peer 0 sets coordinators to [0, 1, 2].
+04.12.2024 16:10:05.072 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:10:05.072 Election done. New coordinators are peers [0, 1, 2, 3].
+04.12.2024 16:10:05.072 Peer 0 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:10:05.074 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:10:05.074 Peer 1 doesn't respond.
+04.12.2024 16:10:05.074 Election done. New coordinators are peers [2].
+04.12.2024 16:10:05.074 Peer 0 sets coordinators to [2].
+04.12.2024 16:10:05.076 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:10:05.077 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:10:05.077 Election done. New coordinators are peers [3].
+04.12.2024 16:10:05.077 Peer 0 sets coordinators to [3].
+04.12.2024 16:10:05.078 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:10:05.079 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:10:05.079 Peer 0 sets coordinators to [2, 3].
+04.12.2024 16:10:05.079 Peer 0 is doing election. Tags: [2, 3, 0].
+04.12.2024 16:12:19.598 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:12:19.599 Election done. New coordinators are peers [0].
+04.12.2024 16:12:19.599 Peer 0 sets coordinators to [0].
+04.12.2024 16:12:19.600 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:12:19.600 Election done. New coordinators are peers [0].
+04.12.2024 16:12:19.600 Peer 0 sets coordinators to [0].
+04.12.2024 16:12:19.602 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:12:19.602 Election done. New coordinators are peers [0, 1, 2].
+04.12.2024 16:12:19.602 Peer 0 sets coordinators to [0, 1, 2].
+04.12.2024 16:12:19.605 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:12:19.605 Election done. New coordinators are peers [0, 1, 2, 3].
+04.12.2024 16:12:19.606 Peer 0 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:12:19.607 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:12:19.607 Peer 1 doesn't respond.
+04.12.2024 16:12:19.607 Election done. New coordinators are peers [2].
+04.12.2024 16:12:19.608 Peer 0 sets coordinators to [2].
+04.12.2024 16:12:19.609 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:12:19.610 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:12:19.611 Election done. New coordinators are peers [3].
+04.12.2024 16:12:19.611 Peer 0 sets coordinators to [3].
+04.12.2024 16:12:19.612 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:12:19.612 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:12:19.612 Peer 0 sets coordinators to [2, 3].
+04.12.2024 16:12:19.613 Peer 0 is doing election. Tags: [2, 3, 0].
+04.12.2024 16:54:06.632 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:54:06.632 Election done. New coordinators are peers [0].
+04.12.2024 16:54:06.632 Peer 0 sets coordinators to [0].
+04.12.2024 16:54:06.634 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:54:06.634 Election done. New coordinators are peers [0].
+04.12.2024 16:54:06.634 Peer 0 sets coordinators to [0].
+04.12.2024 16:54:06.635 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:54:06.636 Election done. New coordinators are peers [0, 1, 2].
+04.12.2024 16:54:06.636 Peer 0 sets coordinators to [0, 1, 2].
+04.12.2024 16:54:06.639 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:54:06.639 Election done. New coordinators are peers [0, 1, 2, 3].
+04.12.2024 16:54:06.640 Peer 0 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:54:06.641 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:54:06.641 Peer 1 doesn't respond.
+04.12.2024 16:54:06.641 Election done. New coordinators are peers [2].
+04.12.2024 16:54:06.642 Peer 0 sets coordinators to [2].
+04.12.2024 16:54:06.643 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:54:06.644 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:54:06.644 Election done. New coordinators are peers [3].
+04.12.2024 16:54:06.645 Peer 0 sets coordinators to [3].
+04.12.2024 16:54:06.646 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:54:06.646 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:54:06.646 Peer 0 sets coordinators to [2, 3].
+04.12.2024 16:54:06.647 Peer 0 is doing election. Tags: [2, 3, 0].
+04.12.2024 16:57:48.904 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:57:48.905 Election done. New coordinators are peers [0].
+04.12.2024 16:57:48.905 Peer 0 sets coordinators to [0].
+04.12.2024 16:57:48.906 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:57:48.906 Election done. New coordinators are peers [0].
+04.12.2024 16:57:48.906 Peer 0 sets coordinators to [0].
+04.12.2024 16:57:48.908 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:57:48.908 Election done. New coordinators are peers [0, 1, 2].
+04.12.2024 16:57:48.908 Peer 0 sets coordinators to [0, 1, 2].
+04.12.2024 16:57:48.911 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:57:48.912 Election done. New coordinators are peers [0, 1, 2, 3].
+04.12.2024 16:57:48.912 Peer 0 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:57:48.913 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:57:48.914 Peer 1 doesn't respond.
+04.12.2024 16:57:48.914 Election done. New coordinators are peers [2].
+04.12.2024 16:57:48.914 Peer 0 sets coordinators to [2].
+04.12.2024 16:57:48.916 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:57:48.917 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:57:48.918 Election done. New coordinators are peers [3].
+04.12.2024 16:57:48.918 Peer 0 sets coordinators to [3].
+04.12.2024 16:57:48.919 Peer 0 is doing election. Tags: [0].
+04.12.2024 16:57:48.919 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:57:48.919 Peer 0 sets coordinators to [2, 3].
+04.12.2024 16:57:48.920 Peer 0 is doing election. Tags: [2, 3, 0].
+04.12.2024 17:02:59.443 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:02:59.443 Election done. New coordinators are peers [0].
+04.12.2024 17:02:59.443 Peer 0 sets coordinators to [0].
+04.12.2024 17:02:59.445 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:02:59.445 Election done. New coordinators are peers [0].
+04.12.2024 17:02:59.445 Peer 0 sets coordinators to [0].
+04.12.2024 17:02:59.446 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:02:59.447 Election done. New coordinators are peers [0, 1, 2].
+04.12.2024 17:02:59.447 Peer 0 sets coordinators to [0, 1, 2].
+04.12.2024 17:02:59.450 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:02:59.450 Election done. New coordinators are peers [0, 1, 2, 3].
+04.12.2024 17:02:59.451 Peer 0 sets coordinators to [0, 1, 2, 3].
+04.12.2024 17:02:59.452 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:02:59.452 Peer 1 doesn't respond.
+04.12.2024 17:02:59.453 Election done. New coordinators are peers [2].
+04.12.2024 17:02:59.453 Peer 0 sets coordinators to [2].
+04.12.2024 17:02:59.454 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:02:59.455 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:02:59.456 Election done. New coordinators are peers [3].
+04.12.2024 17:02:59.456 Peer 0 sets coordinators to [3].
+04.12.2024 17:02:59.457 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:02:59.458 Election done. New coordinators are peers [2, 3].
+04.12.2024 17:02:59.458 Peer 0 sets coordinators to [2, 3].
+04.12.2024 17:02:59.458 Peer 0 is doing election. Tags: [2, 3, 0].
+04.12.2024 17:03:11.633 Peer 0 (Buyer) started.
+04.12.2024 17:03:11.679 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:04:11.572 Peer 0 (Buyer) started.
+04.12.2024 17:04:11.616 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.527 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.528 Election done. New coordinators are peers [0].
+04.12.2024 17:12:16.528 Peer 0 sets coordinators to [0].
+04.12.2024 17:12:16.529 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.529 Election done. New coordinators are peers [0].
+04.12.2024 17:12:16.529 Peer 0 sets coordinators to [0].
+04.12.2024 17:12:16.531 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.531 Election done. New coordinators are peers [0, 1, 2].
+04.12.2024 17:12:16.532 Peer 0 sets coordinators to [0, 1, 2].
+04.12.2024 17:12:16.534 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.535 Election done. New coordinators are peers [0, 1, 2, 3].
+04.12.2024 17:12:16.535 Peer 0 sets coordinators to [0, 1, 2, 3].
+04.12.2024 17:12:16.536 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.537 Peer 1 doesn't respond.
+04.12.2024 17:12:16.537 Election done. New coordinators are peers [2].
+04.12.2024 17:12:16.537 Peer 0 sets coordinators to [2].
+04.12.2024 17:12:16.539 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.540 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.541 Election done. New coordinators are peers [3].
+04.12.2024 17:12:16.541 Peer 0 sets coordinators to [3].
+04.12.2024 17:12:16.542 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:12:16.542 Election done. New coordinators are peers [2, 3].
+04.12.2024 17:12:16.542 Peer 0 sets coordinators to [2, 3].
+04.12.2024 17:12:16.543 Peer 0 is doing election. Tags: [2, 3, 0].
+04.12.2024 17:13:22.658 Peer 0 (Buyer) started.
+04.12.2024 17:13:22.703 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.359 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.360 Election done. New coordinators are peers [0].
+04.12.2024 17:25:20.360 Peer 0 sets coordinators to [0].
+04.12.2024 17:25:20.361 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.361 Election done. New coordinators are peers [0].
+04.12.2024 17:25:20.362 Peer 0 sets coordinators to [0].
+04.12.2024 17:25:20.363 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.364 Election done. New coordinators are peers [0, 1, 2].
+04.12.2024 17:25:20.364 Peer 0 sets coordinators to [0, 1, 2].
+04.12.2024 17:25:20.367 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.367 Election done. New coordinators are peers [0, 1, 2, 3].
+04.12.2024 17:25:20.367 Peer 0 sets coordinators to [0, 1, 2, 3].
+04.12.2024 17:25:20.369 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.369 Peer 1 doesn't respond.
+04.12.2024 17:25:20.369 Election done. New coordinators are peers [2].
+04.12.2024 17:25:20.369 Peer 0 sets coordinators to [2].
+04.12.2024 17:25:20.370 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.372 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.373 Election done. New coordinators are peers [3].
+04.12.2024 17:25:20.373 Peer 0 sets coordinators to [3].
+04.12.2024 17:25:20.374 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:25:20.375 Election done. New coordinators are peers [2, 3].
+04.12.2024 17:25:20.375 Peer 0 sets coordinators to [2, 3].
+04.12.2024 17:25:20.375 Peer 0 is doing election. Tags: [2, 3, 0].
+04.12.2024 17:26:46.952 Peer 0 (Buyer) started.
+04.12.2024 17:26:47.011 Peer 0 is doing election. Tags: [0].
+04.12.2024 17:26:47.015 Election done. New coordinators are peers [2, 3].
+04.12.2024 17:26:47.015 Peer 0 sets coordinators to [2, 3].
+04.12.2024 17:26:51.972 Peer 0 attempts buying 3 piece(s) of BOARS from trader 3.
+04.12.2024 17:26:51.980 Peer 0 couldn't buy 3 piece(s) of BOARS from trader 3.Retrying.
+04.12.2024 17:26:56.962 Peer 0 attempts buying 3 piece(s) of BOARS from trader 3.
+04.12.2024 17:26:56.964 Peer 0 couldn't buy 3 piece(s) of BOARS from trader 3.Retrying.
+04.12.2024 17:27:01.958 Peer 0 attempts buying 3 piece(s) of BOARS from trader 3.
+04.12.2024 17:27:01.969 Peer 0 successful bought 3 piece(s) of BOARS from trader 3.
+04.12.2024 17:27:06.959 Peer 0 attempts buying 4 piece(s) of SALT from trader 3.
+04.12.2024 17:27:06.961 Peer 0 couldn't buy 4 piece(s) of SALT from trader 3.Retrying.
+04.12.2024 17:27:11.958 Peer 0 attempts buying 4 piece(s) of SALT from trader 3.
+04.12.2024 17:27:11.969 Peer 0 successful bought 4 piece(s) of SALT from trader 3.
+04.12.2024 17:27:16.961 Peer 0 attempts buying 5 piece(s) of FISH from trader 3.
+04.12.2024 17:27:16.967 Peer 0 couldn't buy 5 piece(s) of FISH from trader 3.Retrying.
+04.12.2024 17:27:21.960 Peer 0 attempts buying 5 piece(s) of FISH from trader 3.
+04.12.2024 17:27:21.968 Peer 0 successful bought 5 piece(s) of FISH from trader 3.
+04.12.2024 17:27:26.963 Peer 0 attempts buying 5 piece(s) of FISH from trader 3.
+04.12.2024 17:27:26.968 Peer 0 couldn't buy 5 piece(s) of FISH from trader 3.Retrying.
+04.12.2024 17:27:31.962 Peer 0 attempts buying 5 piece(s) of FISH from trader 3.
+04.12.2024 17:27:31.965 Peer 0 couldn't buy 5 piece(s) of FISH from trader 3.Retrying.
+04.12.2024 17:27:36.959 Peer 0 attempts buying 5 piece(s) of FISH from trader 3.
+04.12.2024 17:27:36.962 Peer 0 couldn't buy 5 piece(s) of FISH from trader 3.Picking new product.
+04.12.2024 17:27:41.960 Peer 0 attempts buying 3 piece(s) of FISH from trader 3.
+04.12.2024 17:27:41.962 Peer 0 couldn't buy 3 piece(s) of FISH from trader 3.Picking new product.
+04.12.2024 17:27:46.961 Peer 0 attempts buying 2 piece(s) of SALT from trader 3.
+04.12.2024 17:27:46.973 Peer 0 successful bought 2 piece(s) of SALT from trader 3.
+04.12.2024 17:27:51.962 Peer 0 attempts buying 1 piece(s) of BOARS from trader 3.
+04.12.2024 17:27:51.971 Peer 0 successful bought 1 piece(s) of BOARS from trader 3.
+04.12.2024 17:27:56.960 Peer 0 attempts buying 3 piece(s) of BOARS from trader 3.
+04.12.2024 17:27:56.965 Peer 0 successful bought 3 piece(s) of BOARS from trader 3.
+04.12.2024 17:28:01.961 Peer 0 attempts buying 3 piece(s) of FISH from trader 3.
+04.12.2024 17:28:01.971 Peer 0 successful bought 3 piece(s) of FISH from trader 3.
+04.12.2024 17:28:06.959 Peer 0 attempts buying 1 piece(s) of BOARS from trader 3.
+04.12.2024 17:28:06.970 Peer 0 successful bought 1 piece(s) of BOARS from trader 3.
+04.12.2024 17:28:11.962 Peer 0 attempts buying 5 piece(s) of SALT from trader 3.
+04.12.2024 17:28:11.966 Peer 0 couldn't buy 5 piece(s) of SALT from trader 3.Retrying.
+04.12.2024 17:28:16.962 Peer 0 attempts buying 5 piece(s) of SALT from trader 3.
+04.12.2024 17:28:16.966 Peer 0 couldn't buy 5 piece(s) of SALT from trader 3.Retrying.
+04.12.2024 17:28:21.960 Peer 0 attempts buying 5 piece(s) of SALT from trader 3.
+04.12.2024 17:28:21.967 Peer 0 successful bought 5 piece(s) of SALT from trader 3.
+04.12.2024 17:28:26.960 Peer 0 attempts buying 3 piece(s) of BOARS from trader 3.
+04.12.2024 17:28:26.969 Peer 0 successful bought 3 piece(s) of BOARS from trader 3.
+04.12.2024 17:28:31.963 Peer 0 attempts buying 5 piece(s) of FISH from trader 3.
+04.12.2024 17:28:31.968 Peer 0 couldn't buy 5 piece(s) of FISH from trader 3.Retrying.
+04.12.2024 17:28:36.960 Peer 0 attempts buying 5 piece(s) of FISH from trader 3.
+04.12.2024 17:28:36.964 Peer 0 couldn't buy 5 piece(s) of FISH from trader 3.Retrying.
+04.12.2024 17:28:41.962 Peer 0 attempts buying 5 piece(s) of FISH from trader 3.
+04.12.2024 17:28:41.965 Peer 0 couldn't buy 5 piece(s) of FISH from trader 3.Picking new product.

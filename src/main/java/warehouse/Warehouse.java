@@ -16,7 +16,7 @@ import utils.Messages;
 
 import java.io.BufferedWriter;
 
-public class Warehouse extends UnicastRemoteObject implements Remote {
+public class Warehouse extends UnicastRemoteObject implements IWarehouse {
 
     public static final int REGISTRY_PORT = 1099;
     private static final String INVENTORY_FILE = "warehouse_inventory.txt";
@@ -32,7 +32,7 @@ public class Warehouse extends UnicastRemoteObject implements Remote {
 
     private final Map<Product, Integer> inventory;
 
-    private Warehouse() throws RemoteException {
+    public Warehouse() throws RemoteException {
         super();
         this.inventory = new EnumMap<>(Product.class);
         loadInventory();
@@ -45,9 +45,7 @@ public class Warehouse extends UnicastRemoteObject implements Remote {
                 writer.write(product + ",0");
                 writer.newLine();
             }
-        } catch (IOException e) {
-            // TODO: Do proper logging.
-        }
+        } catch (IOException ignored) {}
     }
 
     public synchronized int lookup(Product product) throws RemoteException {

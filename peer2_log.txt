@@ -1,0 +1,126 @@
+04.12.2024 16:01:46.346 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:01:46.347 Peer 2 sets coordinators to [0, 1, 2].
+04.12.2024 16:01:46.350 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:01:46.351 Peer 2 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:01:46.352 Peer 2 is doing election. Tags: [0, 2].
+04.12.2024 16:01:46.353 Peer 3 doesn't respond.
+04.12.2024 16:01:46.353 Peer 2 sets coordinators to [2].
+04.12.2024 16:01:46.355 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:01:46.356 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:01:46.357 Peer 2 sets coordinators to [3].
+04.12.2024 16:01:46.358 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:01:46.358 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:01:46.359 Peer 2 is doing election. Tags: [2].
+04.12.2024 16:01:46.359 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:01:46.359 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:10:05.069 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:10:05.069 Peer 2 sets coordinators to [0, 1, 2].
+04.12.2024 16:10:05.072 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:10:05.073 Peer 2 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:10:05.074 Peer 2 is doing election. Tags: [0, 2].
+04.12.2024 16:10:05.074 Peer 3 doesn't respond.
+04.12.2024 16:10:05.074 Peer 2 sets coordinators to [2].
+04.12.2024 16:10:05.076 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:10:05.077 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:10:05.077 Peer 2 sets coordinators to [3].
+04.12.2024 16:10:05.079 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:10:05.079 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:10:05.079 Peer 2 is doing election. Tags: [2].
+04.12.2024 16:10:05.080 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:10:05.080 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:12:19.602 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:12:19.602 Peer 2 sets coordinators to [0, 1, 2].
+04.12.2024 16:12:19.605 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:12:19.606 Peer 2 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:12:19.607 Peer 2 is doing election. Tags: [0, 2].
+04.12.2024 16:12:19.607 Peer 3 doesn't respond.
+04.12.2024 16:12:19.608 Peer 2 sets coordinators to [2].
+04.12.2024 16:12:19.609 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:12:19.610 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:12:19.611 Peer 2 sets coordinators to [3].
+04.12.2024 16:12:19.612 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:12:19.612 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:12:19.613 Peer 2 is doing election. Tags: [2].
+04.12.2024 16:12:19.613 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:12:19.613 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:54:06.636 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:54:06.636 Peer 2 sets coordinators to [0, 1, 2].
+04.12.2024 16:54:06.639 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:54:06.640 Peer 2 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:54:06.641 Peer 2 is doing election. Tags: [0, 2].
+04.12.2024 16:54:06.641 Peer 3 doesn't respond.
+04.12.2024 16:54:06.642 Peer 2 sets coordinators to [2].
+04.12.2024 16:54:06.643 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:54:06.644 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:54:06.645 Peer 2 sets coordinators to [3].
+04.12.2024 16:54:06.646 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:54:06.646 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:54:06.647 Peer 2 is doing election. Tags: [2].
+04.12.2024 16:54:06.647 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:54:06.647 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:57:48.908 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:57:48.909 Peer 2 sets coordinators to [0, 1, 2].
+04.12.2024 16:57:48.912 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:57:48.912 Peer 2 sets coordinators to [0, 1, 2, 3].
+04.12.2024 16:57:48.914 Peer 2 is doing election. Tags: [0, 2].
+04.12.2024 16:57:48.914 Peer 3 doesn't respond.
+04.12.2024 16:57:48.914 Peer 2 sets coordinators to [2].
+04.12.2024 16:57:48.916 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:57:48.917 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:57:48.918 Peer 2 sets coordinators to [3].
+04.12.2024 16:57:48.919 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 16:57:48.919 Peer 2 sets coordinators to [2, 3].
+04.12.2024 16:57:48.920 Peer 2 is doing election. Tags: [2].
+04.12.2024 16:57:48.920 Election done. New coordinators are peers [2, 3].
+04.12.2024 16:57:48.920 Peer 2 sets coordinators to [2, 3].
+04.12.2024 17:02:59.446 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:02:59.447 Peer 2 sets coordinators to [0, 1, 2].
+04.12.2024 17:02:59.450 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:02:59.451 Peer 2 sets coordinators to [0, 1, 2, 3].
+04.12.2024 17:02:59.452 Peer 2 is doing election. Tags: [0, 2].
+04.12.2024 17:02:59.453 Peer 3 doesn't respond.
+04.12.2024 17:02:59.453 Peer 2 sets coordinators to [2].
+04.12.2024 17:02:59.454 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:02:59.456 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:02:59.456 Peer 2 sets coordinators to [3].
+04.12.2024 17:02:59.457 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:02:59.458 Peer 2 sets coordinators to [2, 3].
+04.12.2024 17:02:59.458 Peer 2 is doing election. Tags: [2].
+04.12.2024 17:02:59.458 Election done. New coordinators are peers [2, 3].
+04.12.2024 17:02:59.458 Peer 2 sets coordinators to [2, 3].
+04.12.2024 17:03:11.663 Peer 2 (Buyer) started.
+04.12.2024 17:04:11.601 Peer 2 (Buyer) started.
+04.12.2024 17:12:16.531 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:12:16.532 Peer 2 sets coordinators to [0, 1, 2].
+04.12.2024 17:12:16.535 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:12:16.535 Peer 2 sets coordinators to [0, 1, 2, 3].
+04.12.2024 17:12:16.537 Peer 2 is doing election. Tags: [0, 2].
+04.12.2024 17:12:16.537 Peer 3 doesn't respond.
+04.12.2024 17:12:16.537 Peer 2 sets coordinators to [2].
+04.12.2024 17:12:16.539 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:12:16.541 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:12:16.541 Peer 2 sets coordinators to [3].
+04.12.2024 17:12:16.542 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:12:16.543 Peer 2 sets coordinators to [2, 3].
+04.12.2024 17:12:16.543 Peer 2 is doing election. Tags: [2].
+04.12.2024 17:12:16.543 Election done. New coordinators are peers [2, 3].
+04.12.2024 17:12:16.543 Peer 2 sets coordinators to [2, 3].
+04.12.2024 17:13:22.687 Peer 2 (Buyer) started.
+04.12.2024 17:25:20.363 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:25:20.364 Peer 2 sets coordinators to [0, 1, 2].
+04.12.2024 17:25:20.367 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:25:20.367 Peer 2 sets coordinators to [0, 1, 2, 3].
+04.12.2024 17:25:20.369 Peer 2 is doing election. Tags: [0, 2].
+04.12.2024 17:25:20.369 Peer 3 doesn't respond.
+04.12.2024 17:25:20.369 Peer 2 sets coordinators to [2].
+04.12.2024 17:25:20.371 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:25:20.373 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:25:20.373 Peer 2 sets coordinators to [3].
+04.12.2024 17:25:20.375 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:25:20.375 Peer 2 sets coordinators to [2, 3].
+04.12.2024 17:25:20.375 Peer 2 is doing election. Tags: [2].
+04.12.2024 17:25:20.376 Election done. New coordinators are peers [2, 3].
+04.12.2024 17:25:20.376 Peer 2 sets coordinators to [2, 3].
+04.12.2024 17:26:46.991 Peer 2 (Buyer) started.
+04.12.2024 17:26:47.013 Peer 2 is doing election. Tags: [0, 1, 2].
+04.12.2024 17:26:47.017 Peer 2 sets coordinators to [2, 3].

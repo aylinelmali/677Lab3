@@ -1,0 +1,3 @@
+FISH,2
+SALT,9
+BOARS,14

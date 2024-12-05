@@ -31,4 +31,9 @@ public class NoWarehouseCache implements IWarehouseCache {
 
     @Override
     public void updateCache(CacheUpdateMessage cacheUpdateMessage) {}
+
+    @Override
+    public int getNextSequenceNumber(int peerID) throws RemoteException {
+        return 0;
+    }
 }

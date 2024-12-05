@@ -13,8 +13,9 @@ public interface IPeer extends Remote {
     /**
      * Sends an election message to the next peer.
      * @param tags Contains the ID's of the election.
+     * @param n Number of traders to elect.
      */
-    void election(int[] tags) throws RemoteException;
+    void election(int[] tags, int n) throws RemoteException;
 
     /**
      * Sends a coordinator to the next peer to tell the new coordinator.
