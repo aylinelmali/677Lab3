@@ -31,6 +31,7 @@ public class Seller extends APeer {
 
     public static final int ACCRUAL_PERIOD = 10000; // Tg: time interval for accruing goods (in ms)
     public static final int GOODS_PER_PERIOD = 5; // Ng: number of goods accrued per period
+    public static final int MAX_ATTEMPTS = 3;
 
     private Product currentProduct;
     private int inventory; // Seller's local inventory of goods
@@ -68,20 +69,24 @@ public class Seller extends APeer {
     }
 
     private void initiateSell() {
+        String transactionID = peerID + "-SELL-" + System.currentTimeMillis();
         try {
             // Attempt to sell the entire inventory to the current trader
             Logger.log(Messages.getSellAttemptMessage(this.peerID, this.getCurrentTrader().getPeerID(), currentProduct, inventory), getPeerLogFile());
             ReplyStatus status = getCurrentTrader().sell(currentProduct, inventory);
 
             if (status == ReplyStatus.SUCCESSFUL) {
+                transactionRetries.remove(transactionID);
                 Logger.log(Messages.getSellSuccessfulMessage(this.peerID, this.getCurrentTrader().getPeerID(), currentProduct, inventory), getPeerLogFile());
                 inventory = 0; // Reset inventory after successful sell
                 // Optionally, pick a new product after selling
                 currentProduct = Product.pickRandomProduct();
             } else {
+                retryTransaction(transactionID, this::initiateSell, ACCRUAL_PERIOD, MAX_ATTEMPTS);
                 Logger.log(Messages.getSellUnsuccessfulMessage(this.peerID, this.getCurrentTrader().getPeerID(), currentProduct, inventory), getPeerLogFile());
             }
         } catch (RemoteException e) {
+            retryTransaction(transactionID, this::initiateSell, ACCRUAL_PERIOD, MAX_ATTEMPTS);
             throw new RuntimeException(e);
         }
     }

@@ -65,6 +65,7 @@ public class Buyer extends APeer{
     }
 
     public void initiateBuy() {
+        String transactionID = peerID + "-BUY-" + System.currentTimeMillis();
         try {
             // attempt to buy product
             Logger.log(Messages.getBuyAttemptMessage(this.peerID, this.getCurrentTrader().getPeerID(), this.product, this.amount), getPeerLogFile());
@@ -73,6 +74,7 @@ public class Buyer extends APeer{
             switch (status) {
                 case SUCCESSFUL -> {
                     // reset retries to pick a new product
+                    transactionRetries.remove(transactionID);
                     this.retries = 0;
                     Logger.log(Messages.getBuySuccessfulMessage(this.peerID, getCurrentTrader().getPeerID(), this.product, this.amount), getPeerLogFile());
                 }
@@ -80,12 +82,14 @@ public class Buyer extends APeer{
                     // buy unsuccessful, increment reset counter
                     this.retries++;
                     Logger.log(Messages.getBuyUnsuccessfulMessage(this.peerID, getCurrentTrader().getPeerID(), this.product, this.amount, this.retries < MAX_ATTEMPTS), getPeerLogFile());
+                    retryTransaction(transactionID, this::initiateBuy, BUY_PERIOD, MAX_ATTEMPTS);
                 }
                 case NOT_A_TRADER -> // recipient is not a trader, do logging
                         Logger.log(Messages.getNotATraderMessage(this.peerID, getCurrentTrader().getPeerID()), getPeerLogFile());
             }
         } catch (RemoteException e) {
             Logger.log(e.getMessage(), getPeerLogFile());
+            retryTransaction(transactionID, this::initiateBuy, BUY_PERIOD, MAX_ATTEMPTS);
         }
     }
 }

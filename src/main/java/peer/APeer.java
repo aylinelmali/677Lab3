@@ -13,6 +13,7 @@ import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
 import java.util.Arrays;
 import java.util.Random;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
@@ -23,6 +24,8 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
     private static final int HEARTBEAT_INTERVAL = 2000; // in milliseconds
     private static final int HEARTBEAT_TIMEOUT = 4000; // in milliseconds
     private boolean isAlive = true;
+    protected final ConcurrentHashMap<String, Integer> transactionRetries = new ConcurrentHashMap<>();
+    protected final ScheduledExecutorService retryExecutor = Executors.newScheduledThreadPool(1);
 
     protected int peerID;
     public int[] traderIDs;
@@ -231,7 +234,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
                 try {
                     peer.coordinator(traderIDs, new int[]{peerID});
                 } catch (RemoteException e) {
-
+                    throw new RuntimeException(e);
                 }
             }
         }
@@ -240,5 +243,18 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
     public void simulateFailure() {
         isAlive = false;
         heartbeatExecutor.shutdown();
+    }
+
+    public void retryTransaction(String transactionID, Runnable retryTask, int delay, int maxAttempts) {
+        int attempts = transactionRetries.getOrDefault(transactionID, 0);
+        if (attempts < maxAttempts) {
+            retryExecutor.schedule(() -> {
+                transactionRetries.put(transactionID, attempts + 1);
+                retryTask.run();
+            }, delay, TimeUnit.MILLISECONDS);
+        } else {
+            Logger.log("Transaction " + transactionID + " failed after " + maxAttempts + " attempts.", getPeerLogFile());
+            transactionRetries.remove(transactionID);
+        }
     }
 }
