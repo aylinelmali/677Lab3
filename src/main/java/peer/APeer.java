@@ -160,6 +160,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
     @Override
     public void heartbeat() throws RemoteException {
         // Heartbeat response
+        isAlive = true;
     }
 
     /**
@@ -218,8 +219,10 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
             try {
                 IPeer partnerTrader = peers[partnerTraderID];
                 partnerTrader.heartbeat(); // send ping
+                isAlive = true; // Reset upon successful ping
             } catch (RemoteException e) {
                 Logger.log("Trader " + partnerTraderID + " not responding. Taking over as sole trader.", getPeerLogFile());
+                isAlive = false; // Mark the peer as dead
                 handleTraderFailure();
             }
         }, HEARTBEAT_INTERVAL, HEARTBEAT_INTERVAL, TimeUnit.MILLISECONDS);
