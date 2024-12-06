@@ -209,6 +209,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
     }
 
     // Start heartbeat
+    @Override
     public void startHeartbeat() {
         if (!isTrader()) return; // Only traders need heartbeat
 

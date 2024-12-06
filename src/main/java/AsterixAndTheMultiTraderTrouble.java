@@ -73,6 +73,11 @@ public class AsterixAndTheMultiTraderTrouble {
         // do initial election
         peers[0].election(new int[] {}, t);
 
+        // only starts heartbeat for Traders
+        for (int i = 0; i < n; i++){
+            peers[i].startHeartbeat();
+        }
+
         // don't exit program
         for (int i = 0; i < n; i++) {
             processes[i].waitFor();

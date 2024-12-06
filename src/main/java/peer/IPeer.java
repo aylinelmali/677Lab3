@@ -67,4 +67,9 @@ public interface IPeer extends Remote {
      * @throws RemoteException if the peer is not reachable.
      */
     void heartbeat() throws RemoteException;
+
+    /**
+     * Starts heartbeat only in Traders.
+     */
+    void startHeartbeat() throws RemoteException;
 }
