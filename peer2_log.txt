@@ -8557,3 +8557,2665 @@
 07.12.2024 20:29:08.741 Peer 3 responded to heartbeat message from peer 2.
 07.12.2024 20:29:10.740 Peer 2 sends heartbeat message to 3.
 07.12.2024 20:29:10.741 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:12.736 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:12.738 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:14.738 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:14.739 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:16.737 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:16.738 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:18.736 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:18.738 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:20.733 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:20.733 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:22.732 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:22.732 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:24.732 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:24.735 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:26.733 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:26.735 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:28.736 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:29:28.739 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:30.732 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:29:30.733 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:46:13.014 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:46:13.015 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:46:15.008 Peer 2 sends heartbeat message to 3.
+07.12.2024 20:46:15.010 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:46:17.014 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 20:46:17.016 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:02:12.734 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:02:12.735 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:02:14.732 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:02:14.737 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:17:18.520 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:17:18.587 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:17:20.466 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:17:20.466 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:17:22.459 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:17:22.462 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:32:50.197 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:32:50.198 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:32:52.195 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:32:52.196 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:32:54.183 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:32:54.188 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:11.907 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:11.907 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:13.903 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:13.905 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:15.899 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:15.900 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:17.892 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:17.896 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:19.884 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:19.890 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:21.887 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:21.888 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:23.881 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:23.883 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:25.878 Peer 2 sends heartbeat message to 3.
+07.12.2024 21:48:25.889 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:27.882 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 21:48:27.885 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:04:41.384 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:04:41.392 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:04:43.392 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:04:43.395 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:04:45.389 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:04:45.397 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:21:06.116 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:21:06.120 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:21:08.118 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:21:08.119 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:30:25.851 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:30:25.852 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:30:27.851 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:30:27.852 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:30:29.851 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:30:29.852 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:30:31.853 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:30:31.855 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:30:33.854 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:30:33.856 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:30:35.858 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:30:35.860 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:48:11.027 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:48:11.028 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:48:13.030 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:48:13.035 Peer 2 sends heartbeat message to 3.
+07.12.2024 22:48:15.031 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 22:48:15.033 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:04:58.779 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:04:58.780 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:05:00.777 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:05:00.782 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:21:49.476 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:21:49.522 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:21:51.484 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:21:51.484 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:21:53.478 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:21:53.486 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:31:26.218 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:31:26.219 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:31:28.223 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:31:28.225 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:31:30.223 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:31:30.230 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:31:32.227 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:31:32.228 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:47:10.933 Peer 3 responded to heartbeat message from peer 2.
+07.12.2024 23:47:10.937 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:47:12.937 Peer 2 sends heartbeat message to 3.
+07.12.2024 23:47:12.938 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:02:44.662 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:02:44.663 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:02:46.663 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:02:46.664 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:02:48.661 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:02:48.665 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:18:13.390 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:18:13.391 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:18:15.391 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:18:15.392 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:18:17.385 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:18:17.386 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:32:27.119 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:32:27.120 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:32:29.118 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:32:29.120 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:32:31.111 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:32:31.114 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:32:33.110 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:32:33.116 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:32:35.108 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:32:35.115 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:49:51.995 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:49:51.996 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:49:53.996 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:49:53.997 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 00:49:55.995 Peer 2 sends heartbeat message to 3.
+08.12.2024 00:49:55.996 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:05:28.728 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:05:28.729 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:05:30.732 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:05:30.733 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:22:31.447 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:22:31.499 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:22:33.447 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:22:33.448 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:22:35.437 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:22:35.438 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:37:47.156 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:37:47.157 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:37:49.152 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:37:49.160 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:37:51.158 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:37:51.160 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:55:06.869 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:55:06.870 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 01:55:08.869 Peer 2 sends heartbeat message to 3.
+08.12.2024 01:55:08.872 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 02:11:56.610 Peer 2 sends heartbeat message to 3.
+08.12.2024 02:11:56.611 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 02:11:58.607 Peer 2 sends heartbeat message to 3.
+08.12.2024 02:11:58.611 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 02:12:00.613 Peer 2 sends heartbeat message to 3.
+08.12.2024 02:12:00.616 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 02:28:15.349 Peer 2 sends heartbeat message to 3.
+08.12.2024 02:28:15.350 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 02:28:17.359 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 02:28:17.359 Peer 2 sends heartbeat message to 3.
+08.12.2024 02:28:19.361 Peer 2 sends heartbeat message to 3.
+08.12.2024 02:28:19.362 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 02:45:46.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 02:45:46.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 02:45:48.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 02:45:48.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:02:23.813 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:02:23.814 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:02:25.819 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:02:25.820 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:02:27.816 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:02:27.817 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:18:45.530 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:18:45.531 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:18:47.534 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:18:47.535 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:18:49.535 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:18:49.536 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:34:04.259 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:34:04.260 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:34:06.256 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:34:06.259 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:50:37.994 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:50:37.994 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:50:39.984 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 03:50:39.987 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:50:41.986 Peer 2 sends heartbeat message to 3.
+08.12.2024 03:50:41.991 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:08:03.711 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:08:03.712 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:08:05.705 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:08:05.706 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:22:59.441 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:22:59.442 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:23:01.427 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:23:01.427 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:23:03.429 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:23:03.431 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:23:05.425 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:23:05.428 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:23:07.421 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:23:07.425 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:23:09.420 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:23:09.422 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:38:24.929 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:38:24.930 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:38:26.927 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:38:26.929 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:38:28.929 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:38:28.929 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:53:27.665 Peer 2 sends heartbeat message to 3.
+08.12.2024 04:53:27.666 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:53:29.665 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 04:53:29.666 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:09:05.407 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:09:05.417 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:09:07.407 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:09:07.408 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:09:09.415 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:09:09.416 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:24:41.145 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:24:41.149 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:24:43.150 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:24:43.154 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:24:45.153 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:24:45.154 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:40:20.897 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:40:20.898 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:40:22.898 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:40:22.904 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:55:49.625 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:55:49.626 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:55:51.630 Peer 2 sends heartbeat message to 3.
+08.12.2024 05:55:51.635 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:55:53.635 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 05:55:53.636 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:01:11.374 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:01:11.375 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:01:13.376 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:01:13.379 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:01:15.379 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:01:15.380 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:01:17.374 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:01:17.375 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:18:12.903 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:18:12.905 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:18:14.906 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:18:14.911 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:18:16.906 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:18:16.914 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:00.646 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:00.655 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:02.651 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:02.652 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:04.649 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:04.652 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:06.648 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:06.655 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:08.652 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:08.655 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:10.655 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:10.658 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:12.650 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:12.652 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:14.652 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:14.654 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:16.654 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:16.654 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:18.658 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:18.659 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:24:20.661 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:24:20.663 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:40:32.146 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:40:32.147 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:40:34.138 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:40:34.140 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:55:55.853 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:55:55.854 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:55:57.847 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:55:57.851 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 06:55:59.846 Peer 2 sends heartbeat message to 3.
+08.12.2024 06:55:59.847 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:12:23.576 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:12:23.577 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:12:25.571 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:12:25.576 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:24:59.358 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:24:59.420 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:25:01.293 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:25:01.293 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:25:03.287 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:25:03.288 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:25:05.277 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:25:05.285 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:41:47.848 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:41:47.849 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:41:49.846 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:41:49.846 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:41:51.848 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:41:51.852 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:57:35.595 Peer 2 sends heartbeat message to 3.
+08.12.2024 07:57:35.597 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:57:37.593 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 07:57:37.597 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:15:06.333 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:15:06.396 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:15:08.338 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:15:08.339 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:15:10.329 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:15:10.332 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:26:00.038 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:26:00.039 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:26:02.036 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:26:02.042 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:26:04.034 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:26:04.041 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:26:06.032 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:26:06.039 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:43:19.383 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:43:19.385 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:43:21.384 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:43:21.386 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:43:23.387 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:43:23.389 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:00.317 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:00.319 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:02.321 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:02.323 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:04.327 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:04.330 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:06.326 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:06.328 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:08.332 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:08.334 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:10.331 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:10.336 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:12.330 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:12.331 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:43.106 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:43.107 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:45.108 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:45.110 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:47.109 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:47.112 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:49.109 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:49.110 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:51.111 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:51.112 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:53.113 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:53.120 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:55.114 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:55.120 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:57.114 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:57.115 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:57:59.114 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:57:59.115 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:01.115 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:01.120 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:03.116 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:03.119 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:05.121 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:05.122 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:07.120 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:07.121 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:09.121 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:09.122 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:11.123 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:11.124 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:13.121 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:13.123 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:15.118 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:15.119 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:17.120 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:17.121 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:19.123 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:19.124 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:21.118 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:21.121 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:23.121 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:23.123 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:25.115 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:25.121 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:27.119 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:27.119 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:29.122 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:29.123 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:31.109 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:31.111 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:33.107 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:33.109 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:35.099 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:35.102 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:37.096 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:37.098 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:39.093 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:39.095 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:41.092 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:41.093 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:43.089 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:43.091 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:45.084 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:45.086 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:47.082 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:47.084 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:49.082 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:49.084 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:51.080 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:51.083 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:53.081 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:53.082 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:55.075 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:55.079 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:57.076 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:58:57.078 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:59.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:58:59.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:01.076 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:01.077 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:03.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:03.075 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:05.075 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:05.076 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:07.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:07.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:09.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:09.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:11.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:11.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:13.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:13.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:15.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:15.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:17.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:17.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:19.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:19.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:21.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:21.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:23.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:23.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:25.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:25.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:27.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:27.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:29.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:29.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:31.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:31.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:33.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:33.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:35.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:35.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:37.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:37.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:39.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:39.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:41.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:41.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:43.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:43.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:45.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:45.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:47.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:47.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:49.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:49.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:51.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:51.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:53.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:53.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:55.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:55.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:57.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 08:59:57.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:59.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 08:59:59.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:01.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:01.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:03.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:03.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:05.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:05.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:07.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:07.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:09.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:09.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:11.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:11.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:13.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:13.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:15.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:15.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:17.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:17.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:19.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:19.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:21.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:21.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:23.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:23.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:25.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:25.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:27.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:27.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:29.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:29.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:31.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:31.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:33.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:33.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:35.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:35.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:37.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:37.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:39.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:39.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:41.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:41.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:43.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:43.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:45.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:45.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:47.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:47.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:49.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:49.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:51.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:51.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:53.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:53.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:55.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:55.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:57.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:57.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:00:59.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:00:59.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:01.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:01.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:03.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:03.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:05.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:05.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:07.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:07.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:09.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:09.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:11.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:11.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:13.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:13.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:15.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:15.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:17.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:17.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:19.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:19.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:21.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:21.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:23.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:23.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:25.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:25.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:27.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:27.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:29.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:29.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:31.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:31.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:33.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:33.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:35.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:35.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:37.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:37.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:39.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:39.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:41.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:41.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:43.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:43.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:45.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:45.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:47.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:47.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:49.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:49.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:51.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:51.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:53.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:53.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:55.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:55.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:57.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:01:57.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:59.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:01:59.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:01.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:01.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:03.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:03.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:05.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:05.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:07.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:07.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:09.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:09.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:11.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:11.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:13.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:13.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:15.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:15.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:17.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:17.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:19.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:19.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:21.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:21.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:23.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:23.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:25.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:25.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:27.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:27.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:29.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:29.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:31.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:31.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:33.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:33.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:35.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:35.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:37.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:37.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:39.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:39.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:41.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:41.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:43.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:43.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:45.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:45.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:47.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:47.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:49.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:49.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:51.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:51.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:53.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:53.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:55.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:55.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:57.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:57.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:02:59.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:02:59.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:01.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:01.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:03.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:03.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:05.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:05.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:07.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:07.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:09.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:09.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:11.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:11.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:13.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:13.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:15.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:15.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:17.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:17.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:19.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:19.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:21.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:21.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:23.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:23.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:25.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:25.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:27.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:27.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:29.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:29.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:31.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:31.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:33.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:33.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:35.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:35.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:37.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:37.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:39.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:39.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:41.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:41.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:43.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:43.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:45.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:45.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:47.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:47.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:49.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:49.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:51.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:51.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:53.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:53.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:55.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:55.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:57.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:57.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:03:59.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:03:59.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:01.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:01.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:03.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:03.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:05.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:05.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:07.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:07.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:09.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:09.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:11.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:11.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:13.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:13.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:15.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:15.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:17.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:17.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:19.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:19.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:21.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:21.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:23.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:23.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:25.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:25.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:27.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:27.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:29.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:29.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:31.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:31.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:33.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:33.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:35.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:35.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:37.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:37.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:39.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:39.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:41.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:41.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:43.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:43.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:45.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:45.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:47.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:47.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:49.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:49.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:51.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:51.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:53.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:53.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:55.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:55.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:57.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:04:57.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:59.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:04:59.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:01.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:01.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:03.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:03.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:05.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:05.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:07.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:07.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:09.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:09.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:11.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:11.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:13.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:13.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:15.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:15.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:17.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:17.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:19.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:19.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:21.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:21.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:23.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:23.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:25.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:25.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:27.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:27.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:29.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:29.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:31.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:31.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:33.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:33.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:35.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:35.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:37.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:37.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:39.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:39.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:41.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:41.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:43.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:43.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:45.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:45.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:47.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:47.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:49.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:49.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:51.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:51.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:53.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:53.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:55.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:55.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:57.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:05:57.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:59.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:05:59.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:01.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:01.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:03.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:03.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:05.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:05.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:07.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:07.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:09.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:09.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:11.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:11.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:13.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:13.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:15.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:15.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:17.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:17.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:19.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:19.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:21.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:21.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:23.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:23.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:25.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:25.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:27.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:27.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:29.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:29.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:31.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:31.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:33.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:33.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:35.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:35.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:37.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:37.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:39.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:39.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:41.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:41.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:43.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:43.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:45.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:45.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:47.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:47.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:49.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:49.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:51.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:51.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:53.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:53.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:55.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:55.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:57.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:06:57.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:59.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:06:59.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:01.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:01.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:03.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:03.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:05.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:05.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:07.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:07.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:09.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:09.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:11.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:11.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:13.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:13.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:15.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:15.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:17.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:17.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:19.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:19.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:21.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:21.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:23.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:23.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:25.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:25.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:27.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:27.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:29.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:29.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:31.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:31.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:33.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:33.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:35.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:35.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:37.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:37.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:39.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:39.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:41.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:41.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:43.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:43.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:45.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:45.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:47.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:47.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:49.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:49.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:51.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:51.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:53.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:53.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:55.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:55.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:57.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:57.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:07:59.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:07:59.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:01.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:01.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:03.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:03.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:05.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:05.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:07.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:07.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:09.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:09.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:11.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:11.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:13.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:13.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:15.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:15.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:17.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:17.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:19.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:19.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:21.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:21.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:23.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:23.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:25.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:25.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:27.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:27.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:29.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:29.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:31.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:31.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:33.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:33.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:35.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:35.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:37.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:37.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:39.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:39.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:41.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:41.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:43.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:43.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:45.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:45.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:47.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:47.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:49.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:49.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:51.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:51.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:53.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:53.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:55.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:55.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:57.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:57.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:08:59.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:08:59.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:01.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:01.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:03.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:03.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:05.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:05.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:07.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:07.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:09.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:09.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:11.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:11.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:13.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:13.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:15.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:15.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:17.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:17.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:19.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:19.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:21.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:21.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:23.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:23.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:25.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:25.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:27.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:27.064 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:29.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:29.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:31.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:31.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:33.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:33.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:35.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:35.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:37.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:37.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:39.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:39.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:41.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:41.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:43.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:43.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:45.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:45.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:47.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:47.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:49.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:49.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:51.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:51.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:53.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:53.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:55.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:55.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:57.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:09:57.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:59.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:09:59.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:01.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:01.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:03.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:03.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:05.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:05.064 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:07.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:07.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:09.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:09.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:11.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:11.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:13.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:13.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:15.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:15.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:17.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:17.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:19.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:19.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:21.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:21.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:23.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:23.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:25.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:25.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:27.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:27.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:29.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:29.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:31.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:31.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:33.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:33.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:35.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:35.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:37.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:37.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:39.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:39.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:41.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:41.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:43.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:43.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:45.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:45.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:47.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:47.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:49.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:49.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:51.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:51.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:53.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:53.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:55.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:55.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:57.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:10:57.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:59.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:10:59.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:01.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:01.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:03.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:03.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:05.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:05.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:07.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:07.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:09.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:09.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:11.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:11.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:13.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:13.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:15.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:15.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:17.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:17.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:19.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:19.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:21.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:21.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:23.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:23.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:25.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:25.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:27.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:27.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:29.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:29.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:31.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:31.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:33.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:33.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:35.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:35.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:37.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:37.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:39.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:39.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:41.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:41.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:43.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:43.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:45.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:45.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:47.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:47.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:49.062 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:49.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:51.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:51.063 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:53.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:53.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:55.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:55.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:57.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:57.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:11:59.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:11:59.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:01.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:01.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:03.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:03.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:05.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:05.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:07.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:07.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:09.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:09.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:11.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:11.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:13.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:13.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:15.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:15.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:17.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:17.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:19.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:19.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:21.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:21.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:23.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:23.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:25.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:25.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:27.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:27.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:29.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:29.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:31.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:31.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:33.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:33.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:35.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:35.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:37.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:37.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:39.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:39.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:41.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:41.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:43.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:43.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:45.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:45.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:47.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:47.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:49.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:49.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:51.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:51.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:53.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:53.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:55.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:55.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:57.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:12:57.062 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:59.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:12:59.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:01.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:01.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:03.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:03.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:05.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:05.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:07.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:07.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:09.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:09.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:11.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:11.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:13.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:13.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:15.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:15.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:17.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:17.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:19.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:19.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:21.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:21.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:23.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:23.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:25.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:25.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:27.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:27.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:29.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:29.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:31.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:31.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:33.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:33.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:35.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:35.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:37.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:37.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:39.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:39.061 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:41.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:41.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:43.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:43.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:45.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:45.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:47.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:47.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:49.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:49.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:51.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:51.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:53.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:53.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:55.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:55.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:57.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:57.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:13:59.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:13:59.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:01.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:01.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:03.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:03.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:05.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:05.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:07.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:07.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:09.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:09.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:11.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:11.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:13.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:13.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:15.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:15.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:17.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:17.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:19.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:19.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:21.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:21.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:23.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:23.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:25.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:25.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:27.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:27.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:29.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:29.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:31.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:31.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:33.060 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:33.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:35.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:35.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:37.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:37.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:39.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:39.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:41.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:41.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:43.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:43.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:45.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:45.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:47.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:47.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:49.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:49.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:51.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:51.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:53.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:53.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:55.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:55.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:57.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:14:57.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:59.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:14:59.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:01.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:01.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:03.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:03.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:05.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:05.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:07.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:07.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:09.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:09.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:11.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:11.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:13.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:13.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:15.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:15.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:17.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:17.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:19.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:19.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:21.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:21.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:23.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:23.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:25.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:25.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:27.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:27.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:29.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:29.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:31.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:31.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:33.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:33.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:35.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:35.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:37.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:37.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:39.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:39.060 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:41.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:41.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:43.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:43.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:45.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:45.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:47.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:47.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:49.059 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:49.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:51.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:51.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:53.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:53.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:55.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:55.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:57.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:15:57.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:59.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:15:59.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:01.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:01.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:03.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:03.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:05.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:05.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:07.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:07.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:09.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:09.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:11.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:11.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:13.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:13.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:15.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:15.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:17.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:17.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:19.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:19.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:21.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:21.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:23.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:23.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:25.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:25.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:27.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:27.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:29.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:29.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:31.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:31.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:33.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:33.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:35.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:35.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:37.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:37.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:39.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:39.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:41.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:41.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:43.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:43.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:45.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:45.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:47.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:47.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:49.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:49.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:51.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:51.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:53.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:53.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:55.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:55.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:57.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:57.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:16:59.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:16:59.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:01.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:01.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:03.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:03.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:05.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:05.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:07.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:07.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:09.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:09.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:11.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:11.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:13.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:13.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:15.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:15.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:17.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:17.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:19.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:19.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:21.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:21.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:23.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:23.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:25.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:25.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:27.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:27.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:29.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:29.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:31.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:31.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:33.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:33.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:35.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:35.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:37.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:37.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:39.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:39.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:41.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:41.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:43.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:43.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:45.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:45.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:47.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:47.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:49.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:49.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:51.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:51.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:53.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:53.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:55.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:55.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:57.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:57.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:17:59.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:17:59.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:01.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:01.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:03.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:03.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:05.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:05.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:07.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:07.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:09.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:09.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:11.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:11.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:13.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:13.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:15.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:15.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:17.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:17.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:19.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:19.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:21.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:21.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:23.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:23.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:25.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:25.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:27.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:27.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:29.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:29.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:31.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:31.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:33.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:33.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:35.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:35.058 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:37.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:37.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:39.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:39.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:41.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:41.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:43.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:43.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:45.057 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:45.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:47.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:47.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:49.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:49.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:51.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:51.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:53.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:53.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:55.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:55.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:57.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:18:57.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:59.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:18:59.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:01.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:01.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:03.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:03.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:05.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:05.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:07.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:07.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:09.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:09.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:11.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:11.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:13.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:13.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:15.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:15.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:17.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:17.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:19.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:19.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:21.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:21.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:23.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:23.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:25.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:25.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:27.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:27.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:29.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:29.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:31.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:31.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:33.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:33.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:35.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:35.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:37.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:37.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:39.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:39.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:41.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:41.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:43.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:43.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:45.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:45.057 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:47.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:47.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:49.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:49.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:51.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:51.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:53.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:53.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:55.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:55.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:57.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:57.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:19:59.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:19:59.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:01.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:01.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:03.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:03.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:05.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:05.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:07.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:07.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:09.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:09.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:11.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:11.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:13.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:13.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:15.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:15.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:17.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:17.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:19.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:19.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:21.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:21.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:23.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:23.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:25.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:25.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:27.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:27.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:29.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:29.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:31.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:31.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:33.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:33.056 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:35.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:35.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:37.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:37.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:39.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:39.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:41.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:41.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:43.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:43.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:45.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:45.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:47.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:47.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:49.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:49.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:51.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:51.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:53.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:53.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:55.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:55.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:57.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:57.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:20:59.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:20:59.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:01.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:01.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:03.050 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:03.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:05.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:05.056 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:07.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:07.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:09.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:09.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:11.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:11.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:13.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:13.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:15.050 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:15.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:17.055 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:17.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:19.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:19.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:21.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:21.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:23.050 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:23.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:25.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:25.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:27.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:27.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:29.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:29.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:31.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:31.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:33.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:33.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:35.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:35.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:37.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:37.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:39.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:39.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:41.050 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:41.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:43.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:43.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:45.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:45.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:47.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:47.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:49.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:49.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:51.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:51.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:53.049 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:53.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:55.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:55.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:57.050 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:57.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:21:59.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:21:59.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:01.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:01.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:03.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:03.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:05.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:05.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:07.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:07.052 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:09.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:09.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:11.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:11.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:13.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:13.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:15.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:15.055 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:17.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:17.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:19.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:19.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:21.052 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:21.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:23.051 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:23.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:25.053 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:25.054 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:27.050 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:27.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:29.050 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:29.053 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:31.051 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:31.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:33.049 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:33.050 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:35.050 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:35.054 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:37.058 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:37.059 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:39.061 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:39.063 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:41.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:41.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:43.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:43.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:45.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:45.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:47.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:47.077 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:49.076 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:49.080 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:51.082 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:51.083 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:53.081 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:53.082 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:55.082 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:55.083 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:57.084 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:22:57.084 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:59.088 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:22:59.089 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:01.087 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:01.090 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:03.087 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:03.089 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:05.088 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:05.089 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:07.092 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:07.093 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:09.089 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:09.093 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:11.090 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:11.093 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:13.093 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:13.094 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:15.094 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:15.094 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:17.091 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:17.092 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:19.096 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:19.096 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:21.092 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:21.096 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:23.093 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:23.096 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:25.096 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:25.097 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:27.092 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:27.094 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:29.094 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:29.094 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:31.094 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:31.097 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:33.094 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:33.097 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:35.094 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:35.094 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:37.093 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:37.097 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:39.095 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:39.097 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:41.098 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:41.098 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:43.093 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:43.094 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:45.094 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:45.097 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:47.097 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:47.099 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:49.094 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:49.097 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:51.095 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:51.098 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:53.095 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:53.096 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:55.098 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:55.098 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:57.095 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:57.098 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:23:59.093 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:23:59.095 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:01.096 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:01.098 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:14.447 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:14.480 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:16.450 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:16.451 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:18.441 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:18.444 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:20.443 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:20.447 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:22.446 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:22.446 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:24.435 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:24.440 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:26.443 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:26.444 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:28.434 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:28.436 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:30.439 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:30.442 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:32.437 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:32.441 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:34.433 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:34.434 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:36.434 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:36.440 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:38.432 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:38.433 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:40.437 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:40.439 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:42.439 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:42.439 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:44.431 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:44.438 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:46.428 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:46.429 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:48.429 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:48.433 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:50.429 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:50.429 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:52.437 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:52.438 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:54.431 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:54.437 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:56.430 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:56.431 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:24:58.428 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:24:58.437 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:25:00.429 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:25:00.431 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:12.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:12.075 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:14.075 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:14.075 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:16.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:16.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:18.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:18.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:20.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:20.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:22.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:22.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:24.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:24.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:26.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:26.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:28.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:28.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:30.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:30.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:32.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:32.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:34.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:34.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:36.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:36.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:38.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:38.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:40.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:40.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:42.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:42.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:44.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:44.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:46.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:46.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:48.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:48.075 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:50.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:50.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:52.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:52.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:54.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:54.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:56.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:56.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:30:58.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:30:58.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:00.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:00.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:02.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:02.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:04.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:04.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:06.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:06.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:08.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:08.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:10.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:10.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:12.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:12.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:14.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:14.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:16.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:16.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:18.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:18.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:20.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:20.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:22.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:22.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:24.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:24.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:26.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:26.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:28.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:28.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:30.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:30.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:32.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:32.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:34.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:34.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:36.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:36.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:38.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:38.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:40.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:40.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:42.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:42.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:44.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:44.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:46.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:46.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:48.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:48.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:50.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:50.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:52.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:52.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:54.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:54.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:56.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:56.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:31:58.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:31:58.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:00.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:00.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:02.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:02.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:04.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:04.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:06.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:06.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:08.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:08.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:10.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:10.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:12.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:12.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:14.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:14.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:16.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:16.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:18.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:18.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:20.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:20.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:22.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:22.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:24.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:24.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:26.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:26.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:28.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:28.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:30.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:30.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:32.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:32.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:34.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:34.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:36.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:36.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:38.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:38.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:40.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:40.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:42.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:42.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:44.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:44.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:46.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:46.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:48.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:48.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:50.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:50.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:52.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:52.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:54.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:54.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:56.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:56.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:32:58.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:32:58.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:00.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:00.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:02.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:02.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:04.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:04.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:06.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:06.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:08.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:08.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:10.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:10.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:12.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:12.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:14.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:14.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:16.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:16.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:18.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:18.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:20.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:20.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:22.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:22.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:24.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:24.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:26.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:26.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:28.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:28.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:30.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:30.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:32.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:32.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:34.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:34.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:36.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:36.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:38.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:38.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:40.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:40.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:42.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:42.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:44.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:44.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:46.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:46.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:48.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:48.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:50.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:50.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:52.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:52.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:54.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:54.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:56.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:56.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:33:58.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:33:58.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:00.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:00.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:02.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:02.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:04.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:04.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:06.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:06.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:08.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:08.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:10.079 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:10.083 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:12.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:12.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:14.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:14.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:16.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:16.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:18.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:18.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:20.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:20.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:22.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:22.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:24.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:24.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:26.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:26.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:28.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:28.073 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:30.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:30.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:32.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:32.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:34.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:34.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:36.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:36.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:38.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:38.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:40.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:40.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:42.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:42.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:44.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:44.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:46.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:46.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:48.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:48.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:50.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:50.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:52.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:52.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:54.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:54.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:56.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:34:56.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:58.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:34:58.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:00.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:00.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:02.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:02.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:04.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:04.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:06.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:06.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:08.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:08.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:10.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:10.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:12.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:12.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:14.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:14.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:16.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:16.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:18.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:18.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:20.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:20.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:22.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:22.075 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:24.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:24.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:26.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:26.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:28.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:28.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:30.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:30.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:32.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:32.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:34.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:34.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:36.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:36.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:38.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:38.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:40.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:40.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:42.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:42.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:44.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:44.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:46.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:46.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:48.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:48.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:50.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:50.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:52.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:52.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:54.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:54.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:56.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:56.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:35:58.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:35:58.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:00.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:00.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:02.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:02.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:04.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:04.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:06.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:06.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:08.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:08.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:10.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:10.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:12.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:12.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:14.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:14.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:16.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:16.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:18.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:18.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:20.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:20.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:22.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:22.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:24.072 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:24.081 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:26.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:26.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:28.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:28.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:30.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:30.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:32.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:32.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:34.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:34.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:36.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:36.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:38.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:38.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:40.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:40.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:42.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:42.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:44.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:44.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:46.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:46.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:48.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:48.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:50.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:50.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:52.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:52.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:54.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:54.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:56.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:36:56.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:58.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:36:58.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:00.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:00.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:02.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:02.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:04.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:04.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:06.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:06.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:08.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:08.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:10.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:10.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:12.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:12.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:14.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:14.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:16.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:16.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:18.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:18.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:20.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:20.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:22.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:22.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:24.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:24.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:26.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:26.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:28.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:28.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:30.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:30.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:32.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:32.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:34.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:34.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:36.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:36.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:38.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:38.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:40.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:40.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:42.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:42.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:44.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:44.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:46.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:46.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:48.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:48.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:50.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:50.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:52.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:52.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:54.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:54.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:56.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:37:56.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:58.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:37:58.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:00.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:00.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:02.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:02.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:04.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:04.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:06.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:06.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:08.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:08.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:10.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:10.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:12.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:12.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:14.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:14.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:16.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:16.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:18.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:18.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:20.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:20.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:22.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:22.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:24.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:24.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:26.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:26.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:28.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:28.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:30.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:30.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:32.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:32.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:34.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:34.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:36.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:36.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:38.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:38.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:40.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:40.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:42.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:42.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:44.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:44.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:46.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:46.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:48.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:48.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:50.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:50.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:52.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:52.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:54.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:54.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:56.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:38:56.072 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:58.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:38:58.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:00.073 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:00.074 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:02.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:02.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:04.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:04.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:06.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:06.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:08.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:08.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:10.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:10.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:12.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:12.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:14.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:14.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:16.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:16.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:18.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:18.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:20.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:20.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:22.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:22.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:24.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:24.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:26.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:26.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:28.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:28.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:30.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:30.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:32.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:32.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:34.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:34.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:36.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:36.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:38.074 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:38.078 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:40.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:40.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:42.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:42.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:44.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:44.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:46.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:46.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:48.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:48.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:50.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:50.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:52.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:52.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:54.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:54.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:56.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:56.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:39:58.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:39:58.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:00.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:00.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:02.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:02.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:04.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:04.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:06.071 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:06.082 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:08.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:08.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:10.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:10.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:12.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:12.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:14.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:14.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:16.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:16.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:18.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:18.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:20.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:20.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:22.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:22.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:24.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:24.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:26.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:26.070 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:28.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:28.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:30.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:30.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:32.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:32.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:34.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:34.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:36.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:36.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:38.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:38.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:40.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:40.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:42.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:42.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:44.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:44.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:46.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:46.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:48.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:48.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:50.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:50.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:52.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:52.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:54.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:54.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:56.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:40:56.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:58.065 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:40:58.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:00.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:00.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:02.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:02.071 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:04.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:04.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:06.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:06.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:08.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:08.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:10.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:10.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:12.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:12.067 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:14.065 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:14.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:16.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:16.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:18.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:18.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:20.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:20.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:22.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:22.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:24.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:24.067 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:26.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:26.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:28.066 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:28.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:30.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:30.070 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:32.066 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:32.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:34.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:34.068 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:36.068 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:36.069 Peer 3 responded to heartbeat message from peer 2.
+08.12.2024 09:41:38.069 Peer 2 sends heartbeat message to 3.
+08.12.2024 09:41:38.070 Peer 3 responded to heartbeat message from peer 2.
