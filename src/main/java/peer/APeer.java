@@ -175,6 +175,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         return this.peerID;
     }
 
+    // Sends heartbeat ping for fault tolerance
     @Override
     public void sendHeartbeat() throws RemoteException {
 
@@ -187,6 +188,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         this.peers[getOtherTraderID()].respondToHeartbeat();
     }
 
+    // Sends response to heartbeat message
     @Override
     public void respondToHeartbeat() throws RemoteException {
 
@@ -199,6 +201,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         this.receivedHeartbeatResponse = true;
     }
 
+    // Starts heartbeat in traders
     @Override
     public void startHeartbeat() throws RemoteException {
 
@@ -206,7 +209,8 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         if (crashed) {
             throw new RemoteException();
         }
-
+        
+        // Only traders need heartbeat
         if (!isTrader()) {
             return;
         }
@@ -253,6 +257,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         }, HEARTBEAT_TIMEOUT, HEARTBEAT_TIMEOUT, TimeUnit.MILLISECONDS);
     }
 
+    // Updates trader in case of crash
     @Override
     public void updateTrader(int traderID) throws RemoteException {
 
@@ -307,18 +312,22 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         return -1;
     }
 
+    // Gets the log file of a peer
     protected String getPeerLogFile() {
         return "peer" + peerID + "_log.txt";
     }
 
+    // Gets single trader
     protected IPeer getCurrentTrader() {
         return this.peers[this.traderIDs[traderPosition]];
     }
 
+    // Initializes peers
     public void setPeers(IPeer[] peers) {
         this.peers = peers;
     }
 
+    // Updates the cache for all traders
     public void updateAllTraderCaches(UpdateMessage cacheUpdateMessage) {
         for (int traderID : this.traderIDs) {
             IPeer peer = this.peers[traderID];
@@ -328,6 +337,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         }
     }
 
+    // Checks if peer is trader
     public boolean isTrader() {
         boolean trader = false;
         for (int id : this.traderIDs) {
@@ -339,16 +349,21 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         return trader;
     }
 
+    // Gets other trader ID
     private int getOtherTraderID() {
+        // There should be two traders
         if (this.traderIDs.length < 2) {
             throw new IllegalStateException("This is the only trader.");
         }
         return this.peerID == this.traderIDs[0] ? this.traderIDs[1] : this.traderIDs[0];
     }
 
+    // Sends message to all peers about trader update
     private void sendUpdateTraderMessage() {
+        // Loop through all peers
         for (IPeer peer : peers) {
             try {
+                // Don't send message to self
                 if (peer.getPeerID() == this.peerID) {
                     continue;
                 }
