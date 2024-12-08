@@ -1,11 +1,13 @@
 import peer.IPeer;
-import warehouse.IWarehouse;
-import warehouse.Warehouse;
 
 import java.io.IOException;
 import java.rmi.NotBoundException;
+import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.TimeUnit;
 
 public class AsterixAndTheMultiTraderTrouble {
 
@@ -14,6 +16,9 @@ public class AsterixAndTheMultiTraderTrouble {
     public static String BUYER_CLASS = "peer.Buyer";
     public static String SELLER_CLASS = "peer.Seller";
     public static String WAREHOUSE_CLASS = "warehouse.Warehouse";
+
+    public static boolean SEND_HEARTBEATS = true;
+    public static int TRADER_CRASH_TIME = 20000; // set higher than zero to simulate crash.
 
     public static void main(String[] args) throws IOException, InterruptedException, NotBoundException {
 
@@ -74,8 +79,22 @@ public class AsterixAndTheMultiTraderTrouble {
         peers[0].election(new int[] {}, t);
 
         // only starts heartbeat for Traders
-        for (int i = 0; i < n; i++){
-            peers[i].startHeartbeat();
+        if (SEND_HEARTBEATS) {
+            for (int i = 0; i < n; i++){
+                peers[i].startHeartbeat();
+            }
+        }
+
+        // crash behavior
+        if (TRADER_CRASH_TIME > 0) {
+            ScheduledExecutorService crashExecutor = Executors.newScheduledThreadPool(1);
+            crashExecutor.schedule(() -> {
+                try {
+                    peers[peers.length - 1].crash();
+                } catch (RemoteException e) {
+                    throw new RuntimeException(e);
+                }
+            }, TRADER_CRASH_TIME, TimeUnit.MILLISECONDS);
         }
 
         // don't exit program

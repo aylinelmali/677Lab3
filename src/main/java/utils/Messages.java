@@ -52,10 +52,16 @@ public class Messages {
         return "Peer " + buyerID + " successful bought " + quantity + " piece(s) of " + product + " from trader " + traderID + ".";
     }
 
-    public static String getBuyUnsuccessfulMessage(int buyerID, int traderID, Product product, int quantity, boolean retry) {
-        String msg = "Peer " + buyerID + " couldn't buy " + quantity + " piece(s) of " + product + " from trader " + traderID + ". ";
-        msg += retry ? "Retrying." : "Picking new product.";
-        return msg;
+    public static String getOutOfStockMessage(int buyerID, int traderID, Product product, int quantity) {
+        return "Peer " + buyerID + " couldn't buy " + quantity + " piece(s) of " + product + " from trader " + traderID + ". Item out of stock.";
+    }
+
+    public static String getBuyLowSequenceNumberMessage(int buyerID, int traderID, Product product, int quantity) {
+        return "Peer " + buyerID + " couldn't buy " + quantity + " piece(s) of " + product + " from trader " + traderID + ". Sequence number too low .";
+    }
+
+    public static String getBuyErrorMessage(int buyerID, int traderID, Product product, int quantity) {
+        return "Peer " + buyerID + " couldn't buy " + quantity + " piece(s) of " + product + " from trader " + traderID + ". Error during write.";
     }
 
     public static String getSellAttemptMessage(int sellerID, int traderID, Product product, int quantity) {
@@ -66,11 +72,31 @@ public class Messages {
         return "Peer " + sellerID + " successful sold " + quantity + " piece(s) of " + product + " to trader " + traderID + ".";
     }
 
-    public static String getSellUnsuccessfulMessage(int sellerID, int traderID, Product product, int quantity) {
-        return "Peer " + sellerID + " couldn't sell " + quantity + " piece(s) of " + product + " to trader " + traderID + ".";
+    public static String getSellLowSequenceNumberMessage(int sellerID, int traderID, Product product, int quantity) {
+        return "Peer " + sellerID + " couldn't sell " + quantity + " piece(s) of " + product + " to trader " + traderID + ". Sequence number too low.";
+    }
+
+    public static String getSellErrorMessage(int buyerID, int traderID, Product product, int quantity) {
+        return "Peer " + buyerID + " couldn't sell " + quantity + " piece(s) of " + product + " from trader " + traderID + ". Error during write.";
     }
 
     public static String getNotATraderMessage(int peerID, int traderID) {
         return "Peer " + peerID + " contacted peer " + traderID + ". Peer " + traderID + " is not a trader.";
+    }
+
+    public static String getSendHeartbeatMessage(int senderID, int receiverID) {
+        return "Peer " + senderID + " sends heartbeat message to " + receiverID + ".";
+    }
+
+    public static String getHeartbeatResponseMessage(int senderID, int receiverID) {
+        return "Peer " + receiverID + " responded to heartbeat message from peer " + senderID + ".";
+    }
+
+    public static String getHeartbeatTimeoutMessage(int senderID, int receiverID) {
+        return "Peer " + senderID + " didn't receive a heartbeat response from peer " + receiverID + ". Notifying all peers.";
+    }
+
+    public static String getTraderUpdatedMessage(int peerID, int newTraderID) {
+        return "Peer " + peerID + " updated trader to peer " + newTraderID + ".";
     }
 }

@@ -1,6 +1,6 @@
 package peer;
 
-import cache.CacheUpdateMessage;
+import cache.UpdateMessage;
 import product.Product;
 
 import java.rmi.Remote;
@@ -33,17 +33,15 @@ public interface IPeer extends Remote {
 
     /**
      * Make a buy request to the warehouse.
-     * @param product Product to buy.
-     * @param amount Amount to buy.
+     * @param updateMessage Message to send to the trader. Contains all necessary information for buying.
      */
-    ReplyStatus buy(Product product, int amount) throws RemoteException;
+    ReplyStatus buy(UpdateMessage updateMessage) throws RemoteException;
 
     /**
      * Make a sell request to the warehouse.
-     * @param product Product to sell.
-     * @param amount Amount to sell.
+     * @param updateMessage Message to send to the trader. Contains all necessary information for selling.
      */
-    ReplyStatus sell(Product product, int amount) throws RemoteException;
+    ReplyStatus sell(UpdateMessage updateMessage) throws RemoteException;
 
     // caching
 
@@ -51,7 +49,7 @@ public interface IPeer extends Remote {
      * Update cache of the peer.
      * @param cacheUpdateMessage The update message that contains the data necessary for the update.
      */
-    void updateCache(CacheUpdateMessage cacheUpdateMessage) throws RemoteException;
+    void updateCache(UpdateMessage cacheUpdateMessage) throws RemoteException;
 
     // getters
 
@@ -64,12 +62,27 @@ public interface IPeer extends Remote {
 
     /**
      * Sends a heartbeat message to check if the peer is alive.
-     * @throws RemoteException if the peer is not reachable.
      */
-    void heartbeat() throws RemoteException;
+    void sendHeartbeat() throws RemoteException;
 
     /**
-     * Starts heartbeat only in Traders.
+     * Respond to a heartbeat message to indicate that the peer is alive.
+     */
+    void respondToHeartbeat() throws RemoteException;
+
+    /**
+     * Starts the heartbeat mechanism.
      */
     void startHeartbeat() throws RemoteException;
+
+    /**
+     * Update the trader of the peer.
+     * @param traderID ID of the new trader.
+     */
+    void updateTrader(int traderID) throws RemoteException;
+
+    /**
+     * Simulate crash of the peer.
+     */
+    void crash() throws RemoteException;
 }

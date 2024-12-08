@@ -20,17 +20,17 @@ public class NoWarehouseCache implements IWarehouseCache {
     }
 
     @Override
-    public ReplyStatus buy(Product product, int quantity) throws RemoteException {
-        return warehouse.buy(product, quantity);
+    public ReplyStatus buy(UpdateMessage updateMessage) throws RemoteException {
+        return warehouse.buy(updateMessage);
     }
 
     @Override
-    public ReplyStatus sell(Product product, int quantity) throws RemoteException {
-        return warehouse.sell(product, quantity);
+    public ReplyStatus sell(UpdateMessage updateMessage) throws RemoteException {
+        return warehouse.sell(updateMessage);
     }
 
     @Override
-    public void updateCache(CacheUpdateMessage cacheUpdateMessage) {}
+    public void updateCache(UpdateMessage cacheUpdateMessage) {}
 
     @Override
     public int getNextSequenceNumber(int peerID) throws RemoteException {

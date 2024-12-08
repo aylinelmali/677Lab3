@@ -1,8 +1,7 @@
 package peer;
 
-import cache.CacheUpdateMessage;
+import cache.UpdateMessage;
 import cache.IWarehouseCache;
-import product.Product;
 import utils.Logger;
 import utils.Messages;
 
@@ -12,8 +11,6 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
 import java.util.Arrays;
-import java.util.Random;
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
@@ -21,25 +18,24 @@ import java.util.concurrent.TimeUnit;
 public abstract class APeer extends UnicastRemoteObject implements IPeer {
 
     public static final int REGISTRY_PORT = 1099;
-    private static final int HEARTBEAT_INTERVAL = 2000; // in milliseconds
-    private static final int HEARTBEAT_TIMEOUT = 4000; // in milliseconds
-    private boolean isAlive = true;
-    protected final ConcurrentHashMap<String, Integer> transactionRetries = new ConcurrentHashMap<>();
-    protected final ScheduledExecutorService retryExecutor = Executors.newScheduledThreadPool(1);
+    private static final int HEARTBEAT_INTERVAL = 5000; // in milliseconds
+    private static final int HEARTBEAT_TIMEOUT = 10500; // in milliseconds
 
     protected int peerID;
     public int[] traderIDs;
     public IPeer[] peers;
     public int traderPosition;
     protected IWarehouseCache warehouseCache;
-    private ScheduledExecutorService heartbeatExecutor;
+    private boolean receivedHeartbeatResponse;
+    private boolean crashed;
 
     public APeer(int peerID, IWarehouseCache warehouseCache, int peersAmt) throws RemoteException {
         this.peerID = peerID;
         this.warehouseCache = warehouseCache;
         this.traderPosition = 0;
         peers = new IPeer[peersAmt];
-        heartbeatExecutor = Executors.newScheduledThreadPool(1);
+        receivedHeartbeatResponse = true;
+        crashed = false;
     }
 
     @Override
@@ -57,6 +53,11 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
 
     @Override
     public final void election(int[] tags, int n) throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
 
         // check if election has reached every peer
         for (int tag : tags) {
@@ -93,10 +94,15 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
     @Override
     public final void coordinator(int[] traderIDs, int[] tags) throws RemoteException {
 
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
         // forward coordinator message to next peer in the tags array.
         Logger.log(Messages.getPeerUpdatesCoordinatorMessage(this.peerID, traderIDs), getPeerLogFile());
         this.traderIDs = traderIDs; // update coordinator
-        this.traderPosition = new Random().nextInt(0, traderIDs.length); // update trader position
+        this.traderPosition = (peerID / 2) % traderIDs.length; // update trader position
         int tagIndex = getPeerTagIndex(tags);
         if (tagIndex != -1 && tagIndex < tags.length-1) {
             peers[tags[tagIndex + 1]].coordinator(traderIDs, tags); // forward message
@@ -104,45 +110,175 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
     }
 
     @Override
-    public synchronized ReplyStatus buy(Product product, int amount) throws RemoteException {
+    public synchronized ReplyStatus buy(UpdateMessage updateMessage) throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
         if (!this.isTrader()) {
             return ReplyStatus.NOT_A_TRADER;
         }
 
-        ReplyStatus replyStatus = this.warehouseCache.buy(product, amount);
+        ReplyStatus replyStatus = this.warehouseCache.buy(updateMessage);
 
         if (replyStatus == ReplyStatus.SUCCESSFUL) {
             int sequenceNumber = this.warehouseCache.getNextSequenceNumber(this.peerID);
-            updateAllTraderCaches(new CacheUpdateMessage(sequenceNumber, this.peerID, product, -amount));
+            updateAllTraderCaches(new UpdateMessage(sequenceNumber, this.peerID, updateMessage.product(), -updateMessage.amount()));
         }
 
         return replyStatus;
     }
 
     @Override
-    public synchronized ReplyStatus sell(Product product, int amount) throws RemoteException {
+    public synchronized ReplyStatus sell(UpdateMessage updateMessage) throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
         if (!this.isTrader()) {
             return ReplyStatus.NOT_A_TRADER;
         }
 
-        ReplyStatus replyStatus = this.warehouseCache.sell(product, amount);
+        ReplyStatus replyStatus = this.warehouseCache.sell(updateMessage);
 
         if (replyStatus == ReplyStatus.SUCCESSFUL) {
             int sequenceNumber = this.warehouseCache.getNextSequenceNumber(this.peerID);
-            updateAllTraderCaches(new CacheUpdateMessage(sequenceNumber, this.peerID, product, amount));
+            updateAllTraderCaches(new UpdateMessage(sequenceNumber, this.peerID, updateMessage.product(), updateMessage.amount()));
         }
 
         return replyStatus;
     }
 
     @Override
-    public void updateCache(CacheUpdateMessage cacheUpdateMessage) throws RemoteException {
+    public void updateCache(UpdateMessage cacheUpdateMessage) throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
         warehouseCache.updateCache(cacheUpdateMessage);
     }
 
     @Override
-    public int getPeerID() {
+    public int getPeerID() throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
         return this.peerID;
+    }
+
+    @Override
+    public void sendHeartbeat() throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
+        Logger.log(Messages.getSendHeartbeatMessage(this.peerID, this.getOtherTraderID()), this.getPeerLogFile());
+        this.peers[getOtherTraderID()].respondToHeartbeat();
+    }
+
+    @Override
+    public void respondToHeartbeat() throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
+        Logger.log(Messages.getHeartbeatResponseMessage(this.peerID, this.getOtherTraderID()), this.getPeerLogFile());
+        this.receivedHeartbeatResponse = true;
+    }
+
+    @Override
+    public void startHeartbeat() throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
+        if (!isTrader()) {
+            return;
+        }
+
+        ScheduledExecutorService heartbeatExecutor = Executors.newScheduledThreadPool(1);
+        ScheduledExecutorService heartbeatTimeoutExecutor = Executors.newScheduledThreadPool(1);
+
+        heartbeatExecutor.scheduleAtFixedRate(() -> {
+
+            // crash simulation
+            if (crashed) {
+                heartbeatExecutor.shutdown();
+                heartbeatTimeoutExecutor.shutdown();
+                return;
+            }
+
+            try {
+                this.peers[getOtherTraderID()].sendHeartbeat();
+            } catch (RemoteException e) {
+                throw new RuntimeException(e);
+            }
+        }, HEARTBEAT_INTERVAL, HEARTBEAT_INTERVAL, TimeUnit.MILLISECONDS);
+
+        heartbeatTimeoutExecutor.scheduleAtFixedRate(() -> {
+
+            // crash simulation
+            if (crashed) {
+                heartbeatExecutor.shutdown();
+                heartbeatTimeoutExecutor.shutdown();
+                return;
+            }
+
+            if (this.receivedHeartbeatResponse) {
+                // do nothing because other is alive
+                this.receivedHeartbeatResponse = false;
+            } else {
+                // other is not alive, send change trader message to all peers.
+
+                Logger.log(Messages.getHeartbeatTimeoutMessage(this.peerID, getOtherTraderID()), getPeerLogFile());
+                sendUpdateTraderMessage();
+                heartbeatExecutor.shutdown();
+                heartbeatTimeoutExecutor.shutdown();
+            }
+        }, HEARTBEAT_TIMEOUT, HEARTBEAT_TIMEOUT, TimeUnit.MILLISECONDS);
+    }
+
+    @Override
+    public void updateTrader(int traderID) throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
+        for (int i = 0; i < this.traderIDs.length; i++) {
+            if (this.traderIDs[i] == traderID) {
+                Logger.log(Messages.getTraderUpdatedMessage(this.peerID, traderID), getPeerLogFile());
+                this.traderPosition = i;
+                break;
+            }
+        }
+    }
+
+    @Override
+    public void crash() throws RemoteException {
+
+        // crash simulation
+        if (crashed) {
+            throw new RemoteException();
+        }
+
+        crashed = true;
     }
 
     /**
@@ -155,12 +291,6 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         System.arraycopy(tags, 0, newSearchPath, 0, tags.length);
         newSearchPath[tags.length] = peerID;
         return newSearchPath;
-    }
-
-    @Override
-    public void heartbeat() throws RemoteException {
-        // Heartbeat response
-        isAlive = true;
     }
 
     /**
@@ -189,76 +319,41 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         this.peers = peers;
     }
 
-    public void updateAllTraderCaches(CacheUpdateMessage cacheUpdateMessage) throws RemoteException {
+    public void updateAllTraderCaches(UpdateMessage cacheUpdateMessage) {
         for (int traderID : this.traderIDs) {
             IPeer peer = this.peers[traderID];
-            peer.updateCache(cacheUpdateMessage);
+            try {
+                peer.updateCache(cacheUpdateMessage);
+            } catch (RemoteException ignored) {}
         }
     }
 
     public boolean isTrader() {
         boolean trader = false;
-
         for (int id : this.traderIDs) {
             if (this.peerID == id) {
                 trader = true;
                 break;
             }
         }
-
         return trader;
     }
 
-    // Start heartbeat
-    @Override
-    public void startHeartbeat() {
-        if (!isTrader()) return; // Only traders need heartbeat
-
-        heartbeatExecutor.scheduleAtFixedRate(() -> {
-            int partnerTraderID = traderIDs[(traderPosition + 1) % 2];
-            try {
-                IPeer partnerTrader = peers[partnerTraderID];
-                partnerTrader.heartbeat(); // send ping
-                isAlive = true; // Reset upon successful ping
-            } catch (RemoteException e) {
-                Logger.log("Trader " + partnerTraderID + " not responding. Taking over as sole trader.", getPeerLogFile());
-                isAlive = false; // Mark the peer as dead
-                handleTraderFailure();
-            }
-        }, HEARTBEAT_INTERVAL, HEARTBEAT_INTERVAL, TimeUnit.MILLISECONDS);
-    }
-
-    private void handleTraderFailure() {
-        traderIDs = new int[]{peerID}; // Become the sole trader
-        traderPosition = 0;
-
-        // Notify all peers about the change
-        for (IPeer peer : peers) {
-            if (peer != null) {
-                try {
-                    peer.coordinator(traderIDs, new int[]{peerID});
-                } catch (RemoteException e) {
-                    throw new RuntimeException(e);
-                }
-            }
+    private int getOtherTraderID() {
+        if (this.traderIDs.length < 2) {
+            throw new IllegalStateException("This is the only trader.");
         }
+        return this.peerID == this.traderIDs[0] ? this.traderIDs[1] : this.traderIDs[0];
     }
 
-    public void simulateFailure() {
-        isAlive = false;
-        heartbeatExecutor.shutdown();
-    }
-
-    public void retryTransaction(String transactionID, Runnable retryTask, int delay, int maxAttempts) {
-        int attempts = transactionRetries.getOrDefault(transactionID, 0);
-        if (attempts < maxAttempts) {
-            retryExecutor.schedule(() -> {
-                transactionRetries.put(transactionID, attempts + 1);
-                retryTask.run();
-            }, delay, TimeUnit.MILLISECONDS);
-        } else {
-            Logger.log("Transaction " + transactionID + " failed after " + maxAttempts + " attempts.", getPeerLogFile());
-            transactionRetries.remove(transactionID);
+    private void sendUpdateTraderMessage() {
+        for (IPeer peer : peers) {
+            try {
+                if (peer.getPeerID() == this.peerID) {
+                    continue;
+                }
+                peer.updateTrader(this.peerID);
+            } catch (RemoteException ignored) {}
         }
     }
 }

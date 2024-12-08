@@ -14,11 +14,11 @@ public interface IWarehouseCache {
 
     int lookup(Product product) throws RemoteException;
 
-    ReplyStatus buy(Product product, int quantity) throws RemoteException;
+    ReplyStatus buy(UpdateMessage updateMessage) throws RemoteException;
 
-    ReplyStatus sell(Product product, int quantity) throws RemoteException;
+    ReplyStatus sell(UpdateMessage updateMessage) throws RemoteException;
 
-    void updateCache(CacheUpdateMessage cacheUpdateMessage) throws RemoteException;
+    void updateCache(UpdateMessage cacheUpdateMessage) throws RemoteException;
 
     int getNextSequenceNumber(int peerID) throws RemoteException;
 }

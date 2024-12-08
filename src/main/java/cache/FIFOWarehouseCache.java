@@ -3,7 +3,6 @@ package cache;
 import peer.ReplyStatus;
 import product.Product;
 import warehouse.IWarehouse;
-import warehouse.Warehouse;
 
 import java.rmi.RemoteException;
 import java.util.ArrayList;
@@ -15,7 +14,7 @@ public class FIFOWarehouseCache implements IWarehouseCache {
 
     private final IWarehouse warehouse;
     private final Map<Product, Integer> inventoryCache;
-    private final List<CacheUpdateMessage> cacheUpdateMessages;
+    private final List<UpdateMessage> cacheUpdateMessages;
     private final Map<Integer, Integer> peerIDToSequenceNumber;
 
     public FIFOWarehouseCache(IWarehouse warehouse) {
@@ -31,30 +30,30 @@ public class FIFOWarehouseCache implements IWarehouseCache {
     }
 
     @Override
-    public synchronized ReplyStatus buy(Product product, int quantity) throws RemoteException {
-        if (inventoryCache.get(product) == null) {
-            inventoryCache.put(product, warehouse.lookup(product));
+    public synchronized ReplyStatus buy(UpdateMessage updateMessage) throws RemoteException {
+        if (inventoryCache.get(updateMessage.product()) == null) {
+            inventoryCache.put(updateMessage.product(), warehouse.lookup(updateMessage.product()));
         }
-        if (inventoryCache.get(product) < quantity) {
-            return ReplyStatus.UNSUCCESSFUL;
+        if (inventoryCache.get(updateMessage.product()) < updateMessage.amount()) {
+            return ReplyStatus.NOT_IN_STOCK;
         }
 
-        return warehouse.buy(product, quantity);
+        return warehouse.buy(updateMessage);
     }
 
     @Override
-    public synchronized ReplyStatus sell(Product product, int quantity) throws RemoteException {
-        return warehouse.sell(product, quantity);
+    public synchronized ReplyStatus sell(UpdateMessage updateMessage) throws RemoteException {
+        return warehouse.sell(updateMessage);
     }
 
     @Override
-    public synchronized void updateCache(CacheUpdateMessage cacheUpdateMessage) {
+    public synchronized void updateCache(UpdateMessage cacheUpdateMessage) {
         if (peerIDToSequenceNumber.getOrDefault(cacheUpdateMessage.peerID(), 0) == cacheUpdateMessage.sequenceNumber() - 1) {
             update(cacheUpdateMessage);
             boolean found = true;
             while (found) {
                 found = false;
-                for (CacheUpdateMessage queuedMessage : cacheUpdateMessages) {
+                for (UpdateMessage queuedMessage : cacheUpdateMessages) {
                     if (peerIDToSequenceNumber.get(cacheUpdateMessage.peerID()) == queuedMessage.sequenceNumber() - 1) {
                         update(queuedMessage);
                         cacheUpdateMessages.remove(queuedMessage);
@@ -74,7 +73,7 @@ public class FIFOWarehouseCache implements IWarehouseCache {
         return peerIDToSequenceNumber.getOrDefault(peerID, 0) + 1;
     }
 
-    private void update(CacheUpdateMessage cacheUpdateMessage) {
+    private void update(UpdateMessage cacheUpdateMessage) {
         int stock = this.inventoryCache.getOrDefault(cacheUpdateMessage.product(), 0);
         this.inventoryCache.put(cacheUpdateMessage.product(), stock + cacheUpdateMessage.amount());
         peerIDToSequenceNumber.put(cacheUpdateMessage.peerID(), cacheUpdateMessage.sequenceNumber());

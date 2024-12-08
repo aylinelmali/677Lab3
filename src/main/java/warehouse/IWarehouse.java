@@ -1,5 +1,6 @@
 package warehouse;
 
+import cache.UpdateMessage;
 import peer.ReplyStatus;
 import product.Product;
 
@@ -10,7 +11,7 @@ public interface IWarehouse extends Remote {
 
     int lookup(Product product) throws RemoteException;
 
-    ReplyStatus buy(Product product, int quantity) throws RemoteException;
+    ReplyStatus buy(UpdateMessage updateMessage) throws RemoteException;
 
-    ReplyStatus sell(Product product, int quantity) throws RemoteException;
+    ReplyStatus sell(UpdateMessage updateMessage) throws RemoteException;
 }

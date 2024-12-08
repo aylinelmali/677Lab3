@@ -18,7 +18,9 @@ public class Logger {
         String logMessage = timestamp + " " + message;
 
         // Print to console
-        System.out.println(logMessage);
+        synchronized (Logger.class) {
+            System.out.println(logMessage);
+        }
 
         // Append the message to the log file
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(logFile, true))) {

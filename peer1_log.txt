@@ -106,3 +106,1898 @@
 04.12.2024 17:28:26.990 Peer 1 successful sold 5 piece(s) of BOARS to trader 3.
 04.12.2024 17:28:36.980 Peer 1 attempts selling 5 piece(s) of SALT to trader 3.
 04.12.2024 17:28:36.989 Peer 1 successful sold 5 piece(s) of SALT to trader 3.
+07.12.2024 16:24:59.417 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 16:24:59.418 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 16:24:59.429 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 16:24:59.434 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 16:24:59.435 Peer 1 sets coordinators to [3].
+07.12.2024 16:24:59.437 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 16:24:59.437 Peer 1 sets coordinators to [2, 3].
+07.12.2024 16:24:59.438 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 16:25:04.558 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 16:25:04.559 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 16:28:34.941 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 16:28:34.941 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 18:05:42.049 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:05:42.050 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 18:05:42.054 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:05:42.055 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 18:05:42.059 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:05:42.060 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:05:42.060 Peer 1 sets coordinators to [3].
+07.12.2024 18:05:42.062 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:05:42.062 Peer 1 sets coordinators to [2, 3].
+07.12.2024 18:05:42.063 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 18:06:00.089 Peer 1 (Seller) started.
+07.12.2024 18:06:00.127 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:06:00.132 Peer 1 sets coordinators to [2, 3].
+07.12.2024 18:06:09.146 Peer 1 didn't receive a heartbeat response from peer 2. Notifying all peers.
+07.12.2024 18:06:10.104 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:06:10.148 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:06:20.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:06:20.106 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:06:30.097 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:06:30.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:06:40.094 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:06:40.098 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:06:50.098 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:06:50.107 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:07:00.097 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:07:00.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:07:10.097 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:07:10.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:07:20.093 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:07:20.098 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:07:28.122 Peer 1 (Seller) started.
+07.12.2024 18:07:28.162 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:07:28.166 Peer 1 sets coordinators to [2, 3].
+07.12.2024 18:07:30.097 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:07:30.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:07:37.176 Peer 1 didn't receive a heartbeat response from peer 2. Notifying all peers.
+07.12.2024 18:07:38.138 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:07:38.181 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:07:40.097 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:07:40.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:07:50.097 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:07:50.104 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:08:00.097 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:08:00.107 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:08:10.097 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:08:10.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:08:20.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:08:20.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:08:30.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:08:30.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:08:40.097 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:08:40.106 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:08:50.092 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:08:50.096 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:09:00.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:09:00.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:09:10.097 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:09:10.111 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:09:11.569 Peer 1 (Seller) started.
+07.12.2024 18:09:11.608 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:09:11.613 Peer 1 sets coordinators to [2, 3].
+07.12.2024 18:09:20.097 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:09:20.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:09:21.585 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:09:21.633 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:09:30.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:09:30.104 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:09:31.578 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:09:31.587 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:09:40.097 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:09:40.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:09:41.575 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:09:41.583 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:09:50.095 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:09:50.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:09:51.578 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:09:51.586 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:10:00.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:10:00.103 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:10:01.578 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:10:01.586 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:10:10.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:10:10.104 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:10:11.575 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:10:11.583 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:10:20.096 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:20.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:21.577 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:10:21.585 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:10:30.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:10:30.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:10:31.577 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:10:31.584 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:10:40.096 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:40.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:41.577 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:41.585 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:50.096 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:50.102 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:51.577 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:10:51.584 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:11:00.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:11:00.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:11:10.096 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:11:10.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:11:20.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:11:20.105 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:11:30.092 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:11:30.098 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:11:40.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:11:40.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:11:50.091 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:11:50.097 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:12:00.096 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:12:00.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:12:10.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:12:10.098 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:12:20.095 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:12:20.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:12:30.095 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:12:30.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:12:40.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:12:40.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:12:48.234 Peer 1 (Seller) started.
+07.12.2024 18:12:48.273 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:12:48.278 Peer 1 sets coordinators to [2, 3].
+07.12.2024 18:12:50.091 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:12:50.097 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:12:58.251 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:12:58.296 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:13:00.093 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:13:00.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:13:08.242 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:13:08.249 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:13:10.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:13:10.102 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:13:18.243 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:13:18.249 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:13:20.095 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:13:20.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:13:28.243 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:13:28.253 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:13:30.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:13:30.103 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:13:40.095 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:13:40.103 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:13:50.091 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:13:50.097 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:14:00.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:14:00.102 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:14:10.093 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:14:10.100 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:14:20.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:14:20.100 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:14:30.093 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:14:30.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:14:40.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:14:40.100 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:14:50.095 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:14:50.102 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:15:00.092 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:15:00.097 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:15:10.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:15:10.102 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:15:20.091 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:15:20.097 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:15:30.091 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:15:30.095 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:15:40.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:15:40.102 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:15:50.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:15:50.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:16:00.094 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:16:00.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:16:10.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:16:10.096 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:16:20.094 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:16:20.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:16:30.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:16:30.099 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:16:40.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:16:40.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:16:50.094 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:16:50.100 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:17:00.091 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:17:00.096 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:17:10.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:17:10.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:17:20.094 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:17:20.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:17:30.093 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:17:30.099 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:17:40.094 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:17:40.099 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:17:50.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:17:50.099 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:18:00.094 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:18:00.100 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:18:10.089 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:18:10.095 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:18:20.094 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:18:20.100 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:18:30.093 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:18:30.099 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:18:40.094 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:18:40.099 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:18:50.093 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:18:50.097 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:19:00.094 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:19:00.098 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:19:10.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:19:10.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:19:20.094 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:19:20.100 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:19:30.093 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:19:30.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:19:40.090 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:19:40.095 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:19:50.093 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:19:50.096 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:20:00.093 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:20:00.095 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:20:10.093 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:20:10.099 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:20:20.090 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:20:20.094 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:20:30.093 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:20:30.099 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:20:40.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:20:40.097 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:20:50.093 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:20:50.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:21:00.089 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:21:00.092 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:21:10.089 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:21:10.092 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:21:20.092 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:21:20.094 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:21:30.093 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:21:30.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:21:40.093 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:21:40.099 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:21:50.092 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:21:50.099 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:22:00.088 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:22:00.092 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:22:10.088 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:22:10.090 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:22:20.091 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:22:20.095 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:22:30.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:22:30.096 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:22:40.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:22:40.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:22:50.091 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:22:50.095 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:23:00.093 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:23:00.099 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:23:10.088 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:23:10.090 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:23:20.092 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:23:20.097 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:23:30.089 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:23:30.093 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:23:40.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:23:40.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:23:50.092 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:23:50.097 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:24:00.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:24:00.096 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:24:10.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:24:10.095 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:24:20.092 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:24:20.098 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:24:30.091 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:24:30.093 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:24:40.092 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:24:40.099 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:24:50.091 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:24:50.095 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:25:00.092 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:25:00.098 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:25:10.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:25:10.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:25:20.087 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:25:20.094 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:25:30.087 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:25:30.093 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:25:40.091 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:25:40.093 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:25:50.091 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:25:50.096 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:26:00.091 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:00.093 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:10.091 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:10.097 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:20.091 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:20.097 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:30.091 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:30.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:40.089 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:26:40.091 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:26:50.087 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:26:50.089 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:27:00.087 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:27:00.093 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:27:10.091 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:27:10.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:27:20.091 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:27:20.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:27:30.090 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:27:30.097 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:27:40.089 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:27:40.096 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:27:50.084 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:27:50.091 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:28:00.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:28:00.074 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:28:10.064 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:28:10.066 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:28:20.060 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:28:20.066 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:28:30.054 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:28:30.058 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:28:40.057 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:28:40.063 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:28:50.054 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:28:50.060 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:29:00.054 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:29:00.058 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:29:10.051 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:29:10.055 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:29:20.051 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:29:20.053 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:29:30.054 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:29:30.057 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:29:40.051 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:29:40.055 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:29:50.055 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:29:50.061 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:30:00.049 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:30:00.051 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:30:10.054 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:30:10.058 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:30:20.053 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:30:20.058 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:30:30.054 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:30:30.061 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:30:40.050 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:30:40.056 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:30:50.050 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:30:50.054 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:31:00.050 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:31:00.054 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:31:10.051 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:31:10.055 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:31:20.053 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:31:20.058 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:31:30.052 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:31:30.058 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:31:40.052 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:31:40.058 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:31:50.049 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:31:50.054 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:32:00.049 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:32:00.053 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:32:10.051 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:32:10.055 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:32:20.048 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:32:20.051 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:32:30.052 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:32:30.057 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:32:40.051 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:32:40.057 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:32:50.052 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:32:50.057 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:33:00.050 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:33:00.055 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:33:10.051 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:33:10.054 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:33:20.051 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:33:20.057 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:33:30.048 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:33:30.053 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:33:40.049 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:33:40.054 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:33:50.045 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:33:50.047 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:34:00.050 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:34:00.054 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:34:10.050 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:34:10.056 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:34:20.045 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:34:20.048 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:34:30.049 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:34:30.051 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:34:40.049 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:34:40.052 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:34:50.050 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:34:50.055 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:35:00.049 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:35:00.054 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:35:10.047 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:35:10.053 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:35:20.049 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:35:20.056 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:35:30.048 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:35:30.054 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:35:40.046 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:35:40.050 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:35:50.046 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:35:50.051 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:36:00.044 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:36:00.046 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:36:01.802 Peer 1 (Seller) started.
+07.12.2024 18:36:01.902 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:36:01.910 Peer 1 sets coordinators to [4, 5].
+07.12.2024 18:36:10.048 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:36:10.054 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:36:11.822 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:36:11.862 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:36:20.047 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:36:20.050 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:36:21.814 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 18:36:21.821 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 18:36:30.044 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:36:30.048 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:36:31.814 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 18:36:33.434 Peer 1 updated trader to peer 5.
+07.12.2024 18:36:33.435 Peer 1 updated trader to peer 4.
+07.12.2024 18:36:40.047 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:36:40.053 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:36:50.048 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:36:50.051 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:37:00.046 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:37:00.050 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:37:10.044 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:37:10.047 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:37:20.046 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:37:20.051 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:37:30.047 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:37:30.051 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:37:40.044 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:37:40.048 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:37:50.046 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:37:50.049 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:38:00.046 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:38:00.049 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:38:10.046 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:38:10.051 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:38:20.043 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:38:20.047 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:38:30.045 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:38:30.047 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:38:40.046 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:38:40.049 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:38:50.046 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:38:50.048 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:39:00.046 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:39:00.051 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:39:10.043 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:39:10.048 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:39:20.044 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:39:20.048 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:39:30.045 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:39:30.050 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:39:40.045 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:39:40.050 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:39:50.044 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:39:50.048 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:40:00.044 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:40:00.046 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:40:10.045 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:40:10.048 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:40:20.044 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:40:20.047 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:40:30.044 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:40:30.049 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:40:40.044 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:40:40.049 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:40:49.455 Peer 1 (Seller) started.
+07.12.2024 18:40:49.541 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:40:49.548 Peer 1 sets coordinators to [4, 5].
+07.12.2024 18:40:50.044 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:40:50.047 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:40:59.472 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:40:59.510 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:41:00.044 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:41:00.048 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:41:09.464 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:41:09.473 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:41:10.043 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:41:10.047 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:41:19.460 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 18:41:20.043 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:41:20.047 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:41:21.076 Peer 1 updated trader to peer 4.
+07.12.2024 18:41:30.043 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:41:30.047 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:41:40.041 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:41:40.045 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:41:50.043 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:41:50.047 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:42:00.043 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:00.047 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:10.039 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:10.045 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:20.039 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:42:20.044 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:42:30.043 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:30.047 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:40.041 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:40.044 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:50.042 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:42:50.047 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:43:00.042 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:43:00.046 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:43:10.037 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:43:10.039 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:43:20.037 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:43:20.040 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:43:22.303 Peer 1 (Seller) started.
+07.12.2024 18:43:22.389 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:43:22.397 Peer 1 sets coordinators to [4, 5].
+07.12.2024 18:43:30.042 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:43:30.048 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:43:33.187 Peer 1 (Seller) started.
+07.12.2024 18:43:33.271 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:43:33.278 Peer 1 sets coordinators to [4, 5].
+07.12.2024 18:43:40.042 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:43:40.047 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:43:43.203 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 18:43:43.241 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 18:43:50.038 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:43:50.043 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:43:53.196 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:43:54.306 Peer 1 updated trader to peer 4.
+07.12.2024 18:44:00.040 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:44:00.045 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:44:10.041 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:44:10.044 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:44:20.041 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:44:20.045 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:44:30.040 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:44:30.046 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:44:40.039 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:44:40.042 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:44:50.040 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:44:50.046 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:45:00.039 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:45:00.044 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:45:10.036 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:45:10.039 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:45:17.578 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:45:17.578 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 18:45:17.583 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:45:17.583 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 18:45:17.587 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:45:17.588 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:45:17.589 Peer 1 sets coordinators to [3].
+07.12.2024 18:45:17.590 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:45:17.591 Peer 1 sets coordinators to [2, 3].
+07.12.2024 18:45:17.591 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 18:45:20.040 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:45:20.045 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:45:24.398 Peer 1 (Seller) started.
+07.12.2024 18:45:24.486 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:45:24.493 Peer 1 sets coordinators to [4, 5].
+07.12.2024 18:45:30.038 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:45:30.043 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:45:40.039 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:45:40.044 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:45:45.523 Peer 1 updated trader to peer 4.
+07.12.2024 18:45:50.035 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:45:50.038 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:46:00.039 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:46:00.044 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:46:10.034 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:46:10.037 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:46:20.037 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:46:20.042 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:46:30.039 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:46:30.042 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:46:40.035 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:46:40.038 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:46:50.038 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:46:50.042 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:47:00.035 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:47:00.039 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:47:10.038 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:47:10.041 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:47:20.037 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:47:20.042 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:47:30.036 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:47:30.042 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:47:40.037 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:47:40.040 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:47:50.038 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:47:50.043 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:48:00.034 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:48:00.039 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:48:10.037 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:48:10.040 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:48:20.037 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:48:20.042 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:48:30.034 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:48:30.037 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:48:40.037 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:48:40.043 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:48:50.032 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:48:50.034 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:49:00.035 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:49:00.038 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:49:10.036 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:49:10.040 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:49:20.037 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:49:20.041 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:49:30.036 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:49:30.042 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:49:32.813 Peer 1 (Seller) started.
+07.12.2024 18:49:32.898 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:49:32.906 Peer 1 sets coordinators to [4, 5].
+07.12.2024 18:49:40.035 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:49:40.038 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:49:50.033 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:49:50.037 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:49:53.932 Peer 1 updated trader to peer 4.
+07.12.2024 18:50:00.033 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:50:00.037 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:50:10.033 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:50:10.037 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:50:20.032 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:50:20.035 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:50:30.032 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:50:30.037 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:50:40.030 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:50:40.034 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:50:50.031 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:50:50.034 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:51:00.035 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:51:00.039 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:51:10.035 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:51:10.039 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:51:20.032 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:51:20.036 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:51:30.032 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:51:30.036 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:51:40.033 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:51:40.038 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:51:50.034 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:51:50.037 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:52:00.034 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:52:00.038 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:52:10.030 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:52:10.034 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:52:18.494 Peer 1 (Seller) started.
+07.12.2024 18:52:18.578 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:52:18.585 Peer 1 sets coordinators to [4, 5].
+07.12.2024 18:52:20.034 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:52:20.039 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:52:28.510 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 18:52:28.549 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 18:52:30.033 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:52:30.037 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:52:38.503 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 18:52:39.610 Peer 1 updated trader to peer 4.
+07.12.2024 18:52:40.031 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:52:40.036 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:52:48.503 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 18:52:48.508 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 18:52:50.031 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:52:50.036 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:52:58.502 Peer 1 attempts selling 15 piece(s) of SALT to trader 4.
+07.12.2024 18:53:00.028 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:53:00.033 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:53:08.501 Peer 1 attempts selling 20 piece(s) of SALT to trader 4.
+07.12.2024 18:53:08.503 Peer 1 couldn't sell 20 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 18:53:10.029 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:53:10.033 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:53:18.502 Peer 1 attempts selling 25 piece(s) of SALT to trader 4.
+07.12.2024 18:53:20.031 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:53:20.035 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:53:28.502 Peer 1 attempts selling 30 piece(s) of SALT to trader 4.
+07.12.2024 18:53:28.504 Peer 1 couldn't sell 30 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 18:53:30.032 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:53:30.037 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:53:38.501 Peer 1 attempts selling 35 piece(s) of SALT to trader 4.
+07.12.2024 18:53:40.033 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:53:40.036 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:53:48.502 Peer 1 attempts selling 40 piece(s) of SALT to trader 4.
+07.12.2024 18:53:48.505 Peer 1 couldn't sell 40 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 18:53:50.028 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:53:50.031 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:54:00.030 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:54:00.033 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:54:10.032 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:54:10.034 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:54:20.032 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:54:20.036 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:54:30.032 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:54:30.037 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:54:40.031 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:54:40.037 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:54:50.031 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:54:50.037 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:55:00.030 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:55:00.034 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:55:10.031 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:55:10.036 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:55:20.028 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:55:20.032 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:55:30.031 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:55:30.036 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:55:40.028 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:55:40.032 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:55:50.033 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:55:50.038 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:56:00.052 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:56:00.056 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:56:10.063 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:56:10.065 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:56:20.069 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:56:20.074 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:56:30.068 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:56:30.071 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:56:40.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:56:40.075 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:56:50.073 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:56:50.078 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:57:00.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:57:00.077 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:57:10.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:57:10.078 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:57:20.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:57:20.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:57:30.074 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:57:30.078 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:57:40.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:57:40.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:57:50.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:57:50.079 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:58:00.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:58:00.077 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:58:10.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:58:10.078 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:58:20.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:58:20.078 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:58:30.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:58:30.075 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:58:40.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:58:40.077 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:58:50.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:58:50.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:58:52.209 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:58:52.209 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 18:58:52.213 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:58:52.214 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 18:58:52.217 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:58:52.218 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:58:52.219 Peer 1 sets coordinators to [3].
+07.12.2024 18:58:52.220 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:58:52.220 Peer 1 sets coordinators to [2, 3].
+07.12.2024 18:58:52.221 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 18:58:56.721 Peer 1 (Seller) started.
+07.12.2024 18:58:56.807 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 18:58:56.814 Peer 1 sets coordinators to [4, 5].
+07.12.2024 18:59:00.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:59:00.079 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 18:59:06.738 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:59:06.777 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 18:59:10.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:59:10.077 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:59:16.730 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 18:59:17.843 Peer 1 updated trader to peer 4.
+07.12.2024 18:59:20.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:59:20.077 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:59:26.731 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 18:59:26.736 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 18:59:30.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:59:30.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:59:36.727 Peer 1 attempts selling 15 piece(s) of SALT to trader 4.
+07.12.2024 18:59:40.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 18:59:40.074 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 18:59:46.730 Peer 1 attempts selling 20 piece(s) of SALT to trader 4.
+07.12.2024 18:59:46.734 Peer 1 couldn't sell 20 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 18:59:50.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 18:59:50.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 18:59:56.729 Peer 1 attempts selling 25 piece(s) of SALT to trader 4.
+07.12.2024 19:00:00.069 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:00:00.074 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:00:06.726 Peer 1 attempts selling 30 piece(s) of SALT to trader 4.
+07.12.2024 19:00:06.729 Peer 1 couldn't sell 30 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 19:00:10.074 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:00:10.078 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:00:16.729 Peer 1 attempts selling 35 piece(s) of SALT to trader 4.
+07.12.2024 19:00:20.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:00:20.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:00:26.730 Peer 1 attempts selling 40 piece(s) of SALT to trader 4.
+07.12.2024 19:00:26.732 Peer 1 couldn't sell 40 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 19:00:30.070 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:00:30.073 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:00:40.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:00:40.075 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:00:50.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:00:50.078 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:01:00.070 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:01:00.073 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:01:10.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:01:10.075 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:01:20.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:01:20.077 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:01:30.073 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:01:30.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:01:40.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:01:40.073 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:01:50.073 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:01:50.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:02:00.074 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:02:00.077 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:02:10.074 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:02:10.079 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:02:20.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:02:20.075 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:02:20.747 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:02:20.747 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 19:02:20.752 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:02:20.753 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 19:02:20.756 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:02:20.758 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:02:20.758 Peer 1 sets coordinators to [3].
+07.12.2024 19:02:20.759 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:02:20.760 Peer 1 sets coordinators to [2, 3].
+07.12.2024 19:02:20.760 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 19:02:25.960 Peer 1 (Seller) started.
+07.12.2024 19:02:26.044 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:02:26.051 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:02:30.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:02:30.077 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:02:35.977 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:02:36.017 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:02:40.070 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:02:40.073 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:02:45.969 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:02:47.080 Peer 1 updated trader to peer 4.
+07.12.2024 19:02:50.074 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:02:50.078 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:02:55.970 Peer 1 attempts selling 10 piece(s) of FISH to trader 4.
+07.12.2024 19:02:55.978 Peer 1 couldn't sell 10 piece(s) of FISH to trader 4. Too low sequence number.
+07.12.2024 19:03:00.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:03:00.079 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:03:05.965 Peer 1 attempts selling 15 piece(s) of FISH to trader 4.
+07.12.2024 19:03:10.069 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:03:10.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:03:15.969 Peer 1 attempts selling 20 piece(s) of FISH to trader 4.
+07.12.2024 19:03:15.972 Peer 1 couldn't sell 20 piece(s) of FISH to trader 4. Too low sequence number.
+07.12.2024 19:03:20.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:03:20.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:03:30.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:03:30.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:03:40.074 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:03:40.078 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:03:50.070 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:03:50.074 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:04:00.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:04:00.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:04:10.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:04:10.075 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:04:20.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:04:20.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:04:30.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:04:30.078 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:04:40.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:04:40.078 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:04:50.070 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:04:50.075 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:05:00.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:05:00.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:05:10.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:05:10.078 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:05:20.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:05:20.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:05:30.073 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:05:30.077 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:05:40.069 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:05:40.073 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:05:50.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:05:50.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:06:00.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:06:00.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:06:10.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:06:10.078 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:06:20.070 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:06:20.074 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:06:30.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:06:30.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:06:40.069 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:06:40.071 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:06:50.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:06:50.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:07:00.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:07:00.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:07:10.069 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:07:10.073 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:07:20.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:07:20.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:07:30.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:07:30.077 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:07:40.069 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:07:40.072 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:07:50.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:07:50.075 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:08:00.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:08:00.078 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:08:10.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:08:10.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:08:20.073 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:08:20.077 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:08:30.073 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:08:30.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:08:40.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:08:40.078 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:08:50.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:08:50.078 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:09:00.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:09:00.073 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:09:10.073 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:09:10.077 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:09:20.068 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:09:20.073 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:09:30.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:09:30.075 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:09:40.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:09:40.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:09:50.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:09:50.077 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:10:00.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:10:00.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:10:10.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:10:10.073 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:10:20.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:10:20.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:10:30.068 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:10:30.072 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:10:40.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:10:40.073 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:10:50.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:10:50.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:11:00.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:11:00.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:11:10.069 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:11:10.074 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:11:20.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:11:20.078 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:11:30.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:11:30.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:11:40.069 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:11:40.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:11:50.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:11:50.078 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:12:00.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:12:00.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:12:10.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:12:10.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:12:20.069 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:12:20.073 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:12:30.073 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:12:30.078 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:12:40.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:12:40.073 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:12:50.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:12:50.075 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:13:00.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:13:00.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:13:10.070 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:13:10.074 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:13:20.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:13:20.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:13:30.069 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:13:30.072 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:13:40.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:13:40.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:13:50.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:13:50.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:14:00.069 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:14:00.072 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:14:10.069 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:14:10.072 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:14:20.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:14:20.077 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:14:30.067 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:14:30.071 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:14:40.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:14:40.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:14:50.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:14:50.075 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:15:00.069 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:15:00.072 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:15:10.077 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:15:10.081 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:15:20.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:15:20.075 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:15:30.069 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:15:30.073 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:15:40.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:15:40.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:15:50.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:15:50.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:16:00.077 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:16:00.081 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:16:10.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:16:10.074 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:16:20.077 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:16:20.081 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:16:30.068 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:16:30.071 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:16:40.069 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:16:40.074 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:16:50.068 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:16:50.072 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:17:00.073 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:17:00.078 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:17:10.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:17:10.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:17:20.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:17:20.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:17:30.069 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:17:30.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:17:40.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:17:40.077 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:17:50.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:17:50.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:00.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:00.073 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:10.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:10.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:20.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:20.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:30.071 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:30.075 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:18:40.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:18:40.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:18:50.070 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:18:50.072 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:19:00.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:19:00.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:19:10.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:19:10.075 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:19:20.070 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:19:20.075 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:19:30.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:19:30.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:19:40.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:19:40.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:19:50.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:19:50.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:20:00.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:20:00.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:20:10.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:20:10.074 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:20:20.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:20:20.075 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:20:30.071 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:20:30.074 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:20:39.232 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:20:39.232 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 19:20:39.237 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:20:39.238 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 19:20:39.241 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:20:39.243 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:20:39.243 Peer 1 sets coordinators to [3].
+07.12.2024 19:20:39.245 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:20:39.245 Peer 1 sets coordinators to [2, 3].
+07.12.2024 19:20:39.246 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 19:20:40.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:20:40.074 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:20:44.275 Peer 1 (Seller) started.
+07.12.2024 19:20:44.363 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:20:44.371 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:20:50.072 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:20:50.076 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:20:54.291 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:20:54.329 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 19:21:00.071 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:21:00.075 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:21:04.284 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:21:05.395 Peer 1 updated trader to peer 4.
+07.12.2024 19:21:10.067 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:21:10.072 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:21:14.285 Peer 1 attempts selling 10 piece(s) of BOARS to trader 4.
+07.12.2024 19:21:14.294 Peer 1 couldn't sell 10 piece(s) of BOARS to trader 4. Too low sequence number.
+07.12.2024 19:21:20.072 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:21:20.076 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:21:24.285 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:21:30.072 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:21:30.076 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:21:34.285 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 19:21:34.290 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 19:21:40.067 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:21:40.071 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:21:44.279 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:21:50.074 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:21:50.078 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:21:54.296 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 19:21:54.300 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 19:22:00.086 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:22:00.090 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:22:04.301 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:22:10.092 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:22:10.097 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:22:14.306 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 19:22:14.310 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 19:22:20.094 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:22:20.098 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:22:30.095 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:22:30.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:22:40.097 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:22:40.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:22:42.564 Peer 1 (Seller) started.
+07.12.2024 19:22:42.625 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:22:42.631 Peer 1 sets coordinators to [4].
+07.12.2024 19:22:50.095 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:22:50.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:22:52.582 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:22:52.621 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 19:23:00.092 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:23:00.096 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:23:02.574 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:23:02.581 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 19:23:10.098 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:23:10.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:23:12.574 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:23:12.579 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:23:20.095 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:23:20.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:23:22.574 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:23:22.580 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 19:23:30.095 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:23:30.099 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:23:32.573 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:23:32.579 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:23:40.093 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:23:40.096 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:23:50.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:23:50.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:24:00.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:24:00.102 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:24:10.098 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:24:10.102 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:24:20.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:24:20.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:24:30.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:24:30.099 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:24:40.098 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:24:40.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:24:50.098 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:24:50.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:25:00.096 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:25:00.100 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:25:10.095 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:25:10.098 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:25:20.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:25:20.098 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:25:30.098 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:25:30.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:25:40.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:25:40.102 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:25:50.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:25:50.098 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:26:00.098 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:26:00.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:26:10.095 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:26:10.099 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:26:20.097 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:26:20.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:26:30.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:26:30.097 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:26:40.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:26:40.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:26:50.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:26:50.103 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:27:00.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:27:00.099 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:27:10.097 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:27:10.100 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:27:20.099 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:27:20.102 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:27:30.094 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:27:30.097 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:27:40.099 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:27:40.102 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:27:50.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:27:50.099 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:28:00.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:28:00.099 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:28:10.094 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:28:10.098 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:28:20.099 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:28:20.103 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:28:30.099 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:28:30.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:28:40.099 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:28:40.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:28:50.099 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:28:50.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:28:51.623 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:28:51.624 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 19:28:51.629 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:28:51.629 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 19:28:51.633 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:28:51.634 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:28:51.634 Peer 1 sets coordinators to [3].
+07.12.2024 19:28:51.635 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:28:51.636 Peer 1 sets coordinators to [2, 3].
+07.12.2024 19:28:51.636 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 19:28:55.464 Peer 1 (Seller) started.
+07.12.2024 19:28:55.552 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:28:55.559 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:29:00.099 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:29:00.103 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:29:05.481 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:29:05.523 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 19:29:10.095 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:29:10.099 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:29:15.474 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:29:16.592 Peer 1 updated trader to peer 4.
+07.12.2024 19:29:20.099 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:29:20.104 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:29:25.474 Peer 1 attempts selling 10 piece(s) of BOARS to trader 4.
+07.12.2024 19:29:25.483 Peer 1 couldn't sell 10 piece(s) of BOARS to trader 4. Too low sequence number.
+07.12.2024 19:29:30.099 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:29:30.103 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:29:35.473 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:29:40.096 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:29:40.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:29:45.474 Peer 1 attempts selling 10 piece(s) of FISH to trader 4.
+07.12.2024 19:29:45.479 Peer 1 couldn't sell 10 piece(s) of FISH to trader 4. Too low sequence number.
+07.12.2024 19:29:50.098 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:29:50.102 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:29:55.470 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:30:00.100 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:30:00.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:30:05.474 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 19:30:05.478 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 19:30:10.100 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:30:10.102 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:30:20.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:30:20.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:30:30.097 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:30:30.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:30:40.100 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:30:40.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:30:50.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:30:50.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:31:00.100 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:31:00.104 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:31:10.096 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:31:10.100 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:31:20.100 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:31:20.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:31:30.100 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:31:30.103 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:31:40.100 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:31:40.104 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:31:50.096 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:31:50.098 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:32:00.100 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:32:00.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:32:10.099 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:32:10.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:32:20.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:32:20.105 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:32:30.098 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:32:30.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:32:40.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:32:40.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:32:50.097 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:32:50.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:33:00.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:33:00.102 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:33:10.097 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:33:10.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:33:20.100 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:33:20.104 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:33:30.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:33:30.105 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:33:40.101 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:33:40.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:33:50.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:33:50.105 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:34:00.096 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:34:00.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:34:10.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:34:10.102 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:34:20.097 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:34:20.100 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:34:30.097 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:34:30.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:34:38.314 Peer 1 (Seller) started.
+07.12.2024 19:34:40.099 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:34:40.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:34:41.929 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:34:41.929 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 19:34:41.935 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:34:41.935 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 19:34:41.939 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:34:41.941 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:34:41.941 Peer 1 sets coordinators to [3].
+07.12.2024 19:34:41.943 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:34:41.943 Peer 1 sets coordinators to [2, 3].
+07.12.2024 19:34:41.944 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 19:34:46.564 Peer 1 (Seller) started.
+07.12.2024 19:34:46.650 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:34:46.657 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:34:50.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:34:50.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:34:56.580 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:34:56.619 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 19:35:00.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:35:00.105 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:35:06.574 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:35:07.682 Peer 1 updated trader to peer 4.
+07.12.2024 19:35:10.099 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:35:10.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:35:16.574 Peer 1 attempts selling 10 piece(s) of BOARS to trader 4.
+07.12.2024 19:35:16.581 Peer 1 couldn't sell 10 piece(s) of BOARS to trader 4. Too low sequence number.
+07.12.2024 19:35:20.100 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:35:20.103 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:35:26.573 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:35:30.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:35:30.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:35:36.574 Peer 1 attempts selling 10 piece(s) of BOARS to trader 4.
+07.12.2024 19:35:36.579 Peer 1 couldn't sell 10 piece(s) of BOARS to trader 4. Too low sequence number.
+07.12.2024 19:35:40.100 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:35:40.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:35:46.569 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:35:50.100 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:35:50.103 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:35:56.574 Peer 1 attempts selling 10 piece(s) of FISH to trader 4.
+07.12.2024 19:35:56.576 Peer 1 couldn't sell 10 piece(s) of FISH to trader 4. Too low sequence number.
+07.12.2024 19:36:00.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:00.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:06.573 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:36:10.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:10.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:16.573 Peer 1 attempts selling 10 piece(s) of FISH to trader 4.
+07.12.2024 19:36:16.576 Peer 1 couldn't sell 10 piece(s) of FISH to trader 4. Too low sequence number.
+07.12.2024 19:36:20.098 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:36:20.101 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:36:26.574 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:36:30.097 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:30.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:36.574 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 19:36:36.579 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Too low sequence number.
+07.12.2024 19:36:40.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:40.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:46.574 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:36:50.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:50.104 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:36:56.575 Peer 1 attempts selling 10 piece(s) of BOARS to trader 4.
+07.12.2024 19:36:56.579 Peer 1 couldn't sell 10 piece(s) of BOARS to trader 4. Too low sequence number.
+07.12.2024 19:37:00.102 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:37:00.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:37:06.572 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:37:10.099 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:37:10.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:37:20.097 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:37:20.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:37:30.102 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:37:30.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:37:40.102 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:37:40.106 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:37:50.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:37:50.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:38:00.098 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:38:00.100 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:38:10.102 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:38:10.107 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:38:14.142 Peer 1 (Seller) started.
+07.12.2024 19:38:14.206 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:38:14.212 Peer 1 sets coordinators to [4].
+07.12.2024 19:38:20.102 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:38:20.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:38:24.158 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:38:24.194 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 19:38:30.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:38:30.106 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:38:34.152 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:38:34.159 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:38:40.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:38:40.105 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:38:44.152 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:38:44.160 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 19:38:50.101 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:38:50.104 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:38:54.151 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:38:54.158 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 19:39:00.098 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:39:00.101 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:39:04.151 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:39:04.159 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 19:39:10.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:39:10.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:39:20.103 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:39:20.107 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:39:30.102 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:39:30.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:39:40.103 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:39:40.107 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:39:50.102 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:39:50.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:40:00.102 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:40:00.106 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:40:06.864 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:40:06.864 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 19:40:06.870 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:40:06.870 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 19:40:06.875 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:40:06.876 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:40:06.877 Peer 1 sets coordinators to [3].
+07.12.2024 19:40:06.878 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:40:06.878 Peer 1 sets coordinators to [2, 3].
+07.12.2024 19:40:06.879 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 19:40:10.098 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:40:10.100 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:40:12.315 Peer 1 (Seller) started.
+07.12.2024 19:40:12.403 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:40:12.411 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:40:20.103 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:40:20.107 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:40:22.333 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:40:22.372 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 19:40:30.103 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:40:30.108 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:40:32.325 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:40:33.436 Peer 1 updated trader to peer 4.
+07.12.2024 19:40:40.103 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:40:40.107 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:40:42.325 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 19:40:42.331 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Sequence number too low.
+07.12.2024 19:40:50.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:40:50.105 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:40:52.324 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:41:00.100 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:41:00.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:41:02.325 Peer 1 attempts selling 10 piece(s) of FISH to trader 4.
+07.12.2024 19:41:02.328 Peer 1 couldn't sell 10 piece(s) of FISH to trader 4. Sequence number too low.
+07.12.2024 19:41:10.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:41:10.104 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:41:12.324 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:41:20.099 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:41:20.101 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:41:30.103 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:41:30.106 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:41:40.104 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:41:40.107 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:41:50.099 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:41:50.102 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:42:00.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:42:00.104 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:42:10.104 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:42:10.107 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:42:20.103 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:42:20.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:42:30.104 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:42:30.108 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:42:40.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:42:40.104 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:42:50.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:42:50.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:43:00.103 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:43:00.109 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:43:06.588 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:43:06.588 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 19:43:06.594 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:43:06.595 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 19:43:06.598 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:43:06.600 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:43:06.600 Peer 1 sets coordinators to [3].
+07.12.2024 19:43:06.601 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:43:06.602 Peer 1 sets coordinators to [2, 3].
+07.12.2024 19:43:06.602 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 19:43:10.103 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:43:10.107 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:43:11.732 Peer 1 (Seller) started.
+07.12.2024 19:43:11.817 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:43:11.824 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:43:20.104 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:43:20.107 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:43:21.748 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:43:21.787 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 19:43:30.104 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:43:30.107 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:43:31.741 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:43:32.854 Peer 1 updated trader to peer 4.
+07.12.2024 19:43:40.102 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:43:40.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:43:41.743 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 19:43:41.752 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Sequence number too low.
+07.12.2024 19:43:50.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:43:50.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:43:51.741 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:44:00.104 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:44:00.108 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:44:10.102 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:44:10.106 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:44:20.102 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:44:20.104 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:44:30.104 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:44:30.109 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:44:40.101 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:44:40.104 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:44:50.104 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:44:50.107 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:45:00.104 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:45:00.108 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:45:10.102 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:45:10.106 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:45:20.105 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:45:20.109 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:45:30.101 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:45:30.104 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:45:40.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:45:40.103 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:45:50.105 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:45:50.107 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:46:00.105 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:46:00.108 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:46:10.103 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:46:10.106 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:46:20.105 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:46:20.107 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:46:30.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:46:30.103 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:46:40.100 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:46:40.103 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:46:50.105 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:46:50.109 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:46:53.898 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:46:53.898 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 19:46:53.903 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:46:53.903 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 19:46:53.907 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:46:53.908 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:46:53.909 Peer 1 sets coordinators to [3].
+07.12.2024 19:46:53.910 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:46:53.910 Peer 1 sets coordinators to [2, 3].
+07.12.2024 19:46:53.911 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 19:46:58.884 Peer 1 (Seller) started.
+07.12.2024 19:46:58.963 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:46:58.970 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:47:00.102 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:47:00.105 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:47:08.897 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:47:08.929 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 19:47:10.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:47:10.106 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:47:18.893 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:47:19.995 Peer 1 updated trader to peer 4.
+07.12.2024 19:47:20.103 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:47:20.106 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:47:28.892 Peer 1 attempts selling 10 piece(s) of FISH to trader 4.
+07.12.2024 19:47:28.900 Peer 1 couldn't sell 10 piece(s) of FISH to trader 4. Sequence number too low.
+07.12.2024 19:47:30.105 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:47:30.109 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:47:38.893 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 19:47:40.104 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:47:40.108 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:47:48.890 Peer 1 attempts selling 10 piece(s) of FISH to trader 4.
+07.12.2024 19:47:48.893 Peer 1 couldn't sell 10 piece(s) of FISH to trader 4. Sequence number too low.
+07.12.2024 19:47:50.103 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:47:50.106 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:48:00.102 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:48:00.105 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:48:10.105 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:48:10.109 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:48:20.105 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:48:20.108 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:48:30.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:48:30.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:48:40.101 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:48:40.105 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:48:50.106 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:48:50.109 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:49:00.104 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:49:00.106 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:49:10.105 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:49:10.108 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:49:20.106 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:49:20.110 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:49:30.103 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:49:30.107 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:49:40.099 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:49:40.102 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:49:50.093 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:49:50.097 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:50:00.087 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:50:00.091 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:50:10.088 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:50:10.091 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:50:20.087 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:50:20.091 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:50:30.085 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:50:30.088 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:50:40.086 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:50:40.090 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:50:50.084 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:50:50.088 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:51:00.084 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:51:00.087 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:51:10.082 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:51:10.086 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:51:20.087 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:51:20.091 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:51:30.082 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:51:30.085 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:51:40.084 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:51:40.087 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:51:50.086 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:51:50.088 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:52:00.086 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:52:00.090 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:52:09.065 Peer 1 (Seller) started.
+07.12.2024 19:52:09.153 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:52:09.161 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:52:10.082 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:52:10.084 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:52:20.084 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:52:20.086 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:52:20.136 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:52:20.137 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 19:52:20.141 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:52:20.142 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 19:52:20.146 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:52:20.147 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:52:20.148 Peer 1 sets coordinators to [3].
+07.12.2024 19:52:20.149 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:52:20.149 Peer 1 sets coordinators to [2, 3].
+07.12.2024 19:52:20.150 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 19:52:24.509 Peer 1 (Seller) started.
+07.12.2024 19:52:24.595 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 19:52:24.602 Peer 1 sets coordinators to [4, 5].
+07.12.2024 19:52:30.087 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:52:30.092 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:52:34.526 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:52:34.564 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 19:52:40.082 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:52:40.085 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:52:44.518 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:52:45.623 Peer 1 updated trader to peer 4.
+07.12.2024 19:52:50.086 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:52:50.090 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:52:54.520 Peer 1 attempts selling 10 piece(s) of SALT to trader 4.
+07.12.2024 19:52:54.526 Peer 1 couldn't sell 10 piece(s) of SALT to trader 4. Sequence number too low.
+07.12.2024 19:53:00.083 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:53:00.087 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:53:04.513 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 19:53:10.082 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:53:10.085 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:53:20.084 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:53:20.088 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:53:30.086 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:53:30.089 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:53:40.086 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:53:40.090 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:53:50.085 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:53:50.089 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:54:00.086 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:54:00.089 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:54:10.086 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:54:10.090 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:54:20.081 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:54:20.085 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:54:30.086 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:54:30.089 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:54:40.086 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:54:40.091 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:54:50.085 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:54:50.088 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:55:00.086 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:55:00.090 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:55:10.086 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:55:10.089 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:55:20.086 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:55:20.090 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:55:30.087 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:55:30.091 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:55:40.086 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:55:40.089 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:55:50.086 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:55:50.090 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:56:00.084 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:56:00.087 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:56:10.088 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:56:10.094 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:56:20.086 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:56:20.090 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:56:30.086 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:56:30.090 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:57:08.637 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:57:08.642 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:57:18.642 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:57:18.647 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:57:28.639 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 19:57:28.644 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 19:57:38.635 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 19:57:38.640 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 19:57:48.638 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 19:57:48.643 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:12:57.107 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:12:57.111 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:13:07.113 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:13:07.118 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:13:17.117 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:13:17.120 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:13:27.121 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:13:27.126 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:13:37.117 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:13:37.122 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:13:47.120 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:13:47.124 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:15:55.206 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:15:55.218 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:16:05.214 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:16:05.218 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:16:15.210 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:16:15.213 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:16:25.205 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:16:25.210 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:16:35.210 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:16:35.214 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:16:45.207 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:16:45.211 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:16:55.205 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:16:55.209 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:17:05.205 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:17:05.209 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:17:15.208 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:17:15.211 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:17:25.210 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:17:25.214 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:17:35.207 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:17:35.211 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:17:45.210 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:17:45.213 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:17:55.206 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:17:55.209 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:18:05.210 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:18:05.215 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:18:15.210 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:18:15.214 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:18:25.210 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:18:25.215 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:18:35.208 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:18:35.210 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:18:45.210 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:18:45.214 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:18:55.210 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:18:55.214 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:19:05.210 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:19:05.214 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:19:10.017 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:19:10.018 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 20:19:10.023 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:19:10.023 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 20:19:10.026 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:19:10.028 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:19:10.028 Peer 1 sets coordinators to [3].
+07.12.2024 20:19:10.029 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:19:10.030 Peer 1 sets coordinators to [2, 3].
+07.12.2024 20:19:10.030 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 20:19:15.210 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:19:15.213 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:19:25.210 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:19:25.214 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:19:35.210 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:19:35.215 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:19:45.207 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:19:45.210 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:19:55.211 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:19:55.217 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:20:05.210 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:20:05.213 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:20:14.916 Peer 1 (Seller) started.
+07.12.2024 20:20:15.001 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:20:15.009 Peer 1 sets coordinators to [4, 5].
+07.12.2024 20:20:15.208 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:20:15.210 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:20:24.932 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 20:20:24.972 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 20:20:25.208 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:20:25.211 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:20:34.922 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:20:34.929 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:20:35.208 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:20:35.211 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:20:36.037 Peer 1 updated trader to peer 4.
+07.12.2024 20:20:44.924 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 20:20:44.931 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 20:20:45.206 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:20:45.208 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:20:54.924 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 20:20:54.930 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 20:20:55.206 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:20:55.209 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:21:04.925 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 20:21:04.936 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 20:21:05.207 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:21:05.209 Peer 1 successful sold 5 piece(s) of SALT to trader 2.
+07.12.2024 20:21:15.210 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:21:15.214 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:21:25.210 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:21:25.214 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:21:35.207 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:21:35.208 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:21:45.211 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:21:45.215 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:21:55.208 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:21:55.210 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:22:05.211 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:05.216 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:15.206 Peer 1 attempts selling 5 piece(s) of FISH to trader 2.
+07.12.2024 20:22:15.210 Peer 1 successful sold 5 piece(s) of FISH to trader 2.
+07.12.2024 20:22:19.470 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:22:19.471 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 20:22:19.476 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:22:19.477 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 20:22:19.480 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:22:19.481 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:22:19.482 Peer 1 sets coordinators to [3].
+07.12.2024 20:22:19.483 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:22:19.483 Peer 1 sets coordinators to [2, 3].
+07.12.2024 20:22:19.484 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 20:22:25.208 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:25.212 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:35.211 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:35.215 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:45.211 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:45.215 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:55.210 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:22:55.215 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:23:05.208 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:23:05.212 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:23:15.206 Peer 1 attempts selling 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:23:15.210 Peer 1 successful sold 5 piece(s) of BOARS to trader 2.
+07.12.2024 20:23:25.206 Peer 1 attempts selling 5 piece(s) of SALT to trader 2.
+07.12.2024 20:25:51.390 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:25:51.390 Peer 1 sets coordinators to [0, 1, 2].
+07.12.2024 20:25:51.396 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:25:51.396 Peer 1 sets coordinators to [0, 1, 2, 3].
+07.12.2024 20:25:51.400 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:25:51.401 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:25:51.402 Peer 1 sets coordinators to [3].
+07.12.2024 20:25:51.403 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:25:51.403 Peer 1 sets coordinators to [2, 3].
+07.12.2024 20:25:51.404 Peer 1 is doing election. Tags: [2, 3, 0, 1].
+07.12.2024 20:25:56.252 Peer 1 (Seller) started.
+07.12.2024 20:25:56.341 Peer 1 is doing election. Tags: [0, 1].
+07.12.2024 20:25:56.349 Peer 1 sets coordinators to [4, 5].
+07.12.2024 20:26:06.269 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:26:06.308 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:26:16.261 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:26:16.270 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:26:26.256 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:26:26.265 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:26:27.874 Peer 1 updated trader to peer 4.
+07.12.2024 20:26:36.261 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 20:26:36.274 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 20:26:46.261 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 20:26:46.272 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 20:26:56.261 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 20:26:56.272 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 20:27:06.260 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:27:06.270 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:27:16.261 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 20:27:16.271 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 20:27:26.260 Peer 1 attempts selling 5 piece(s) of SALT to trader 4.
+07.12.2024 20:27:26.271 Peer 1 successful sold 5 piece(s) of SALT to trader 4.
+07.12.2024 20:27:36.261 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:27:36.268 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:27:46.259 Peer 1 attempts selling 5 piece(s) of FISH to trader 4.
+07.12.2024 20:27:46.267 Peer 1 successful sold 5 piece(s) of FISH to trader 4.
+07.12.2024 20:27:56.261 Peer 1 attempts selling 5 piece(s) of BOARS to trader 4.
+07.12.2024 20:27:56.267 Peer 1 successful sold 5 piece(s) of BOARS to trader 4.

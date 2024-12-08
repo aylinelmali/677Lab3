@@ -2,6 +2,7 @@ package peer;
 
 import cache.FIFOWarehouseCache;
 import cache.IWarehouseCache;
+import cache.UpdateMessage;
 import product.Product;
 import utils.Logger;
 import utils.Messages;
@@ -30,15 +31,17 @@ public class Buyer extends APeer{
     // CLASS
 
     public static final int BUY_PERIOD = 5000;
-    public static final int MAX_ATTEMPTS = 3;
 
-    public int retries;
     public Product product;
     public int amount;
+    public boolean bought;
+    public int buySequenceNumber;
 
     public Buyer(int peerID, IWarehouseCache warehouseCache, int peersAmt) throws RemoteException {
         super(peerID, warehouseCache, peersAmt);
-        retries = 0;
+        bought = false;
+        pickNewProduct();
+        buySequenceNumber = 1;
     }
 
     @Override
@@ -53,10 +56,10 @@ public class Buyer extends APeer{
                 return;
             }
 
-            // buy new product when retries equals 0
-            if (this.retries == 0 || this.retries >= MAX_ATTEMPTS) {
-                this.product = Product.pickRandomProduct();
-                this.amount = (int) (Math.random() * 5) + 1;
+            // pick new product when bought
+            if (this.bought) {
+                pickNewProduct();
+                this.bought = false;
             }
 
             initiateBuy();
@@ -65,31 +68,35 @@ public class Buyer extends APeer{
     }
 
     public void initiateBuy() {
-        String transactionID = peerID + "-BUY-" + System.currentTimeMillis();
         try {
             // attempt to buy product
             Logger.log(Messages.getBuyAttemptMessage(this.peerID, this.getCurrentTrader().getPeerID(), this.product, this.amount), getPeerLogFile());
-            ReplyStatus status = getCurrentTrader().buy(this.product, this.amount);
+            ReplyStatus status = getCurrentTrader().buy(new UpdateMessage(this.buySequenceNumber, this.peerID, this.product, this.amount));
 
             switch (status) {
                 case SUCCESSFUL -> {
                     // reset retries to pick a new product
-                    transactionRetries.remove(transactionID);
-                    this.retries = 0;
+                    this.bought = true;
+                    this.buySequenceNumber++;
                     Logger.log(Messages.getBuySuccessfulMessage(this.peerID, getCurrentTrader().getPeerID(), this.product, this.amount), getPeerLogFile());
                 }
-                case UNSUCCESSFUL -> {
-                    // buy unsuccessful, increment reset counter
-                    this.retries++;
-                    Logger.log(Messages.getBuyUnsuccessfulMessage(this.peerID, getCurrentTrader().getPeerID(), this.product, this.amount, this.retries < MAX_ATTEMPTS), getPeerLogFile());
-                    retryTransaction(transactionID, this::initiateBuy, BUY_PERIOD, MAX_ATTEMPTS);
+                case NOT_IN_STOCK -> // item not in stock
+                        Logger.log(Messages.getOutOfStockMessage(this.peerID, getCurrentTrader().getPeerID(), this.product, this.amount), getPeerLogFile());
+                case LOW_SEQUENCE_NUMBER -> { // sequence number too low. Warehouse already updated.
+                    this.bought = true;
+                    this.buySequenceNumber++;
+                    Logger.log(Messages.getBuyLowSequenceNumberMessage(this.peerID, getCurrentTrader().getPeerID(), this.product, this.amount), getPeerLogFile());
                 }
                 case NOT_A_TRADER -> // recipient is not a trader, do logging
                         Logger.log(Messages.getNotATraderMessage(this.peerID, getCurrentTrader().getPeerID()), getPeerLogFile());
+                case ERROR_DURING_WRITE -> // error during write to file, do logging
+                        Logger.log(Messages.getBuyErrorMessage(this.peerID, getCurrentTrader().getPeerID(), this.product, this.amount), getPeerLogFile());
             }
-        } catch (RemoteException e) {
-            Logger.log(e.getMessage(), getPeerLogFile());
-            retryTransaction(transactionID, this::initiateBuy, BUY_PERIOD, MAX_ATTEMPTS);
-        }
+        } catch (RemoteException ignored) {}
+    }
+
+    public void pickNewProduct() {
+        this.product = Product.pickRandomProduct();
+        this.amount = (int) (Math.random() * 5) + 1;
     }
 }
