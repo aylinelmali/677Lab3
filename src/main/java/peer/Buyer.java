@@ -95,6 +95,7 @@ public class Buyer extends APeer{
         } catch (RemoteException ignored) {}
     }
 
+    // Pick new product to buy
     public void pickNewProduct() {
         this.product = Product.pickRandomProduct();
         this.amount = (int) (Math.random() * 5) + 1;

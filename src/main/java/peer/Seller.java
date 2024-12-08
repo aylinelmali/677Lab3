@@ -66,6 +66,7 @@ public class Seller extends APeer {
         }, ACCRUAL_PERIOD, ACCRUAL_PERIOD, TimeUnit.MILLISECONDS);
     }
 
+    // Add goods to inventory
     private void accrueGoods() {
         inventory += GOODS_PER_PERIOD;
     }
@@ -90,6 +91,7 @@ public class Seller extends APeer {
                     currentProduct = Product.pickRandomProduct();
                     this.sellSequenceNumber++;
                 }
+                // Can only sell to traders
                 case NOT_A_TRADER ->
                     Logger.log(Messages.getNotATraderMessage(this.peerID, this.getCurrentTrader().getPeerID()), getPeerLogFile());
                 case ERROR_DURING_WRITE ->

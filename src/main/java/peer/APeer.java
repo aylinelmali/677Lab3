@@ -209,7 +209,7 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
         if (crashed) {
             throw new RemoteException();
         }
-        
+
         // Only traders need heartbeat
         if (!isTrader()) {
             return;
