@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class Logger {
-    public static final String STATS_FILE = "trading_post_stats.txt";
+    public static final String STATS_FILE = "trader_trouble_stats.txt";
 
     // Date and time formatter
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy HH:mm:ss.SSS");

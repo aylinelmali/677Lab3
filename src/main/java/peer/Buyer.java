@@ -25,7 +25,7 @@ public class Buyer extends APeer{
 
         Registry registry = LocateRegistry.getRegistry("127.0.0.1", REGISTRY_PORT);
         IWarehouse warehouse = (IWarehouse) registry.lookup(Warehouse.WAREHOUSE_NAME);
-        registry.rebind("" + peerID, new Buyer(peerID, new FIFOWarehouseCache(warehouse), peersAmt));
+        registry.rebind("" + peerID, new Buyer(peerID, IWarehouseCache.getNewWarehouseCache(warehouse), peersAmt));
     }
 
     // CLASS
@@ -51,19 +51,23 @@ public class Buyer extends APeer{
         ScheduledExecutorService executor = Executors.newScheduledThreadPool(1);
 
         executor.scheduleAtFixedRate(() -> {
-            // only buy something if not coordinator
-            if (this.isTrader()) {
-                return;
+            try {
+                // only buy something if not coordinator
+                if (this.isTrader()) {
+                    return;
+                }
+
+                // pick new product when bought
+                if (this.bought) {
+                    pickNewProduct();
+                    this.bought = false;
+                }
+
+                Logger.log("bought", Warehouse.STATS_FILE);
+                initiateBuy();
+            } catch (Exception e) {
+                e.printStackTrace();
             }
-
-            // pick new product when bought
-            if (this.bought) {
-                pickNewProduct();
-                this.bought = false;
-            }
-
-            initiateBuy();
-
         }, BUY_PERIOD, BUY_PERIOD, TimeUnit.MILLISECONDS);
     }
 

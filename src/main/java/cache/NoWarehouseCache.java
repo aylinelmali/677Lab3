@@ -2,15 +2,16 @@ package cache;
 
 import peer.ReplyStatus;
 import product.Product;
+import warehouse.IWarehouse;
 import warehouse.Warehouse;
 
 import java.rmi.RemoteException;
 
 public class NoWarehouseCache implements IWarehouseCache {
 
-    private Warehouse warehouse;
+    private final IWarehouse warehouse;
 
-    public NoWarehouseCache(Warehouse warehouse) {
+    public NoWarehouseCache(IWarehouse warehouse) {
         this.warehouse = warehouse;
     }
 

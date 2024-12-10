@@ -14,7 +14,6 @@ public class FIFOWarehouseCacheTest {
     public void sellTest() throws RemoteException {
         Warehouse warehouse = new Warehouse();
         IWarehouseCache cache = new FIFOWarehouseCache(warehouse);
-
         ReplyStatus buyStatus = cache.buy(new UpdateMessage(1, 1, Product.BOARS, 3));
         Assertions.assertEquals(ReplyStatus.NOT_IN_STOCK, buyStatus);
 

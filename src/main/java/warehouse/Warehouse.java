@@ -1,6 +1,9 @@
 package warehouse;
 
 import java.io.*;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
@@ -17,6 +20,9 @@ import utils.Logger;
 import utils.Messages;
 
 import java.io.BufferedWriter;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.TimeUnit;
 
 public class Warehouse extends UnicastRemoteObject implements IWarehouse {
 
@@ -24,6 +30,8 @@ public class Warehouse extends UnicastRemoteObject implements IWarehouse {
     private static final String INVENTORY_FILE = "warehouse_inventory.txt";
     public static final String WAREHOUSE_LOG_FILE = "warehouse_log.txt";
     public static final String WAREHOUSE_NAME = "warehouse";
+
+    public static final String STATS_FILE = "stats3.txt";
 
     public static void main(String[] args) throws RemoteException {
         Registry registry = LocateRegistry.getRegistry("127.0.0.1", REGISTRY_PORT);
@@ -63,8 +71,6 @@ public class Warehouse extends UnicastRemoteObject implements IWarehouse {
 
         // check if sequence number is valid
         if (updateMessage.sequenceNumber() <= peerIDtoSequenceNumber.getOrDefault(updateMessage.peerID(), 0)) {
-            System.out.println(peerIDtoSequenceNumber);
-            System.out.println("Peer " + updateMessage.peerID() + " has sequence number " + updateMessage.sequenceNumber());
             return ReplyStatus.LOW_SEQUENCE_NUMBER;
         }
 
@@ -72,6 +78,7 @@ public class Warehouse extends UnicastRemoteObject implements IWarehouse {
         int currentStock = inventory.getOrDefault(updateMessage.product(), 0);
         if (currentStock < updateMessage.amount()) {
             Logger.log(Messages.getOversoldMessage(), WAREHOUSE_LOG_FILE);
+            Logger.log("oversold", STATS_FILE);
             return ReplyStatus.NOT_IN_STOCK;
         }
         inventory.put(updateMessage.product(), currentStock - updateMessage.amount());
@@ -84,6 +91,7 @@ public class Warehouse extends UnicastRemoteObject implements IWarehouse {
 
         // update sequence number
         peerIDtoSequenceNumber.put(updateMessage.peerID(), updateMessage.sequenceNumber());
+
         return ReplyStatus.SUCCESSFUL;
     }
 

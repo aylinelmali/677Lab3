@@ -2,13 +2,13 @@ package cache;
 
 import peer.ReplyStatus;
 import product.Product;
-import warehouse.Warehouse;
+import warehouse.IWarehouse;
 
 import java.rmi.RemoteException;
 
 public interface IWarehouseCache {
 
-    static IWarehouseCache getNewWarehouseCache(Warehouse warehouse) {
+    static IWarehouseCache getNewWarehouseCache(IWarehouse warehouse) {
         return new FIFOWarehouseCache(warehouse);
     }
 

@@ -26,7 +26,7 @@ To see your Java version, run `java -version`.
 
 Here is an example of the last step:
 
-    java -jar ./build/libs/AsterixAndTheTradingPost-1.0-SNAPSHOT.jar 2 2 2
+    java -jar ./build/libs/AsterixAndMultiTraderTrouble-1.0-SNAPSHOT.jar 2 2 2
 
 ### Windows-based system:
 

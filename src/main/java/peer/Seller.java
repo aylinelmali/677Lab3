@@ -1,6 +1,5 @@
 package peer;
 
-import cache.FIFOWarehouseCache;
 import cache.IWarehouseCache;
 import cache.UpdateMessage;
 import product.Product;
@@ -25,12 +24,12 @@ public class Seller extends APeer {
 
         Registry registry = LocateRegistry.getRegistry("127.0.0.1", REGISTRY_PORT);
         IWarehouse warehouse = (IWarehouse) registry.lookup(Warehouse.WAREHOUSE_NAME);
-        registry.rebind("" + peerID, new Seller(peerID, new FIFOWarehouseCache(warehouse), peersAmt));
+        registry.rebind("" + peerID, new Seller(peerID, IWarehouseCache.getNewWarehouseCache(warehouse), peersAmt));
     }
 
     // CLASS
 
-    public static final int ACCRUAL_PERIOD = 10000; // Tg: time interval for accruing goods (in ms)
+    public static final int ACCRUAL_PERIOD = 5000; // Tg: time interval for accruing goods (in ms)
     public static final int GOODS_PER_PERIOD = 5; // Ng: number of goods accrued per period
     public int sellSequenceNumber;
 
@@ -51,17 +50,21 @@ public class Seller extends APeer {
         ScheduledExecutorService executor = Executors.newScheduledThreadPool(1);
         // Periodically accrue goods and attempt to sell them
         executor.scheduleAtFixedRate(() -> {
-            // Skip if this seller is a trader
-            if (this.isTrader()) {
-                return;
-            }
+            try {
+                // Skip if this seller is a trader
+                if (this.isTrader()) {
+                    return;
+                }
 
-            // Accrue goods
-            accrueGoods();
+                // Accrue goods
+                accrueGoods();
 
-            // Sell goods if inventory > 0
-            if (inventory > 0) {
-                initiateSell();
+                // Sell goods if inventory > 0
+                if (inventory > 0) {
+                    initiateSell();
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
             }
         }, ACCRUAL_PERIOD, ACCRUAL_PERIOD, TimeUnit.MILLISECONDS);
     }

@@ -16,9 +16,10 @@ public class AsterixAndTheMultiTraderTrouble {
     public static String BUYER_CLASS = "peer.Buyer";
     public static String SELLER_CLASS = "peer.Seller";
     public static String WAREHOUSE_CLASS = "warehouse.Warehouse";
+    public static String CORES_LIMIT =  "-XX:ActiveProcessorCount=1";
 
     public static boolean SEND_HEARTBEATS = true;
-    public static int TRADER_CRASH_TIME = 20000; // set higher than zero to simulate crash.
+    public static int TRADER_CRASH_TIME = 15000; // set higher than zero to simulate crash.
 
     public static void main(String[] args) throws IOException, InterruptedException, NotBoundException {
 
@@ -28,7 +29,7 @@ public class AsterixAndTheMultiTraderTrouble {
         int n = b + s; // number of peers
 
         Registry registry = LocateRegistry.createRegistry(REGISTRY_PORT);
-        runProcess("java", "-cp", CLASS_PATH, WAREHOUSE_CLASS);
+        runProcess("java", CORES_LIMIT, "-cp", CLASS_PATH, WAREHOUSE_CLASS);
 
         Thread.sleep(1000); // ensure that warehouse is bound
 
@@ -53,6 +54,7 @@ public class AsterixAndTheMultiTraderTrouble {
 
             Process process = runProcess(
                     "java",
+                    CORES_LIMIT,
                     "-cp",
                     CLASS_PATH,
                     className,
@@ -62,7 +64,7 @@ public class AsterixAndTheMultiTraderTrouble {
             processes[i] = process;
         }
 
-        Thread.sleep(1000); // ensure that all peers are bound
+        Thread.sleep(2000); // ensure that all peers are bound
 
         // retrieve proxies
         IPeer[] peers = new IPeer[n];
