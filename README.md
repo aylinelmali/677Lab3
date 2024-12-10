@@ -1,6 +1,6 @@
-# Asterix and the Trading Post
+# Asterix and the Multi-Trader Trouble
 
-This is the source code of the *Asterix and the Trading Post* lab.
+This is the source code of the *Asterix and the Multi-Trader Trouble* lab.
 
 ## How to run
 
