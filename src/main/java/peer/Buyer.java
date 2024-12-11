@@ -1,6 +1,5 @@
 package peer;
 
-import cache.FIFOWarehouseCache;
 import cache.IWarehouseCache;
 import cache.UpdateMessage;
 import product.Product;
@@ -62,8 +61,6 @@ public class Buyer extends APeer{
                     pickNewProduct();
                     this.bought = false;
                 }
-
-                Logger.log("bought", Warehouse.STATS_FILE);
                 initiateBuy();
             } catch (Exception e) {
                 e.printStackTrace();

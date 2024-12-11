@@ -39,31 +39,28 @@ public class Warehouse extends UnicastRemoteObject implements IWarehouse {
     }
 
     // CLASS
-
-    private final Map<Product, Integer> inventory;
     private final Map<Integer, Integer> peerIDtoSequenceNumber; // assures that there are no duplicate messages per peer.
 
     public Warehouse() throws RemoteException {
         super();
-        this.inventory = new EnumMap<>(Product.class);
-        loadInventory();
+        resetInventory();
         this.peerIDtoSequenceNumber = new HashMap<>();
     }
 
-    private void loadInventory() {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(INVENTORY_FILE))) {
-            for (Product product : Product.values()) {
-                inventory.put(product, 0); // start with zero stock
-                writer.write(product + ",0");
-                writer.newLine();
-            }
-        } catch (IOException ignored) {}
+    private void resetInventory() {
+        try {
+            writeInventoryFile(new HashMap<>());
+        } catch (IOException ignore) {}
     }
 
     @Override
     public synchronized int lookup(Product product) throws RemoteException {
         // read inventory file and return the count of itemType.
-        return inventory.getOrDefault(product, 0);
+        try {
+            Map<Product, Integer> inventory = readInventoryFile();
+            return inventory.getOrDefault(product, 0);
+        } catch (IOException ignore) {}
+        return 0;
     }
 
     @Override
@@ -75,16 +72,18 @@ public class Warehouse extends UnicastRemoteObject implements IWarehouse {
         }
 
         // decrement the count of itemType in the inventory file.
-        int currentStock = inventory.getOrDefault(updateMessage.product(), 0);
-        if (currentStock < updateMessage.amount()) {
-            Logger.log(Messages.getOversoldMessage(), WAREHOUSE_LOG_FILE);
-            Logger.log("oversold", STATS_FILE);
-            return ReplyStatus.NOT_IN_STOCK;
-        }
-        inventory.put(updateMessage.product(), currentStock - updateMessage.amount());
-        Logger.log(Messages.getWarehouseBuyMessage(updateMessage.product(), updateMessage.amount()), WAREHOUSE_LOG_FILE);
         try {
-            updateInventoryFile();
+            Map<Product, Integer> inventory = readInventoryFile();
+            int currentStock = inventory.getOrDefault(updateMessage.product(), 0);
+            // check if item is in stock
+            if (currentStock < updateMessage.amount()) {
+                Logger.log(Messages.getOversoldMessage(), WAREHOUSE_LOG_FILE);
+                return ReplyStatus.NOT_IN_STOCK;
+            }
+            // update inventory and save to file
+            inventory.put(updateMessage.product(), currentStock - updateMessage.amount());
+            Logger.log(Messages.getWarehouseBuyMessage(updateMessage.product(), updateMessage.amount()), WAREHOUSE_LOG_FILE);
+            writeInventoryFile(inventory);
         } catch (IOException e) {
             return ReplyStatus.ERROR_DURING_WRITE;
         }
@@ -103,11 +102,12 @@ public class Warehouse extends UnicastRemoteObject implements IWarehouse {
             return ReplyStatus.LOW_SEQUENCE_NUMBER;
         }
 
-        // increment the count of itemType in the inventory file.
-        inventory.put(updateMessage.product(), inventory.getOrDefault(updateMessage.product(), 0) + updateMessage.amount());
-        Logger.log(Messages.getWarehouseSellMessage(updateMessage.product(), updateMessage.amount()), WAREHOUSE_LOG_FILE);
+        // increment the count of itemType in the inventory and write to file.
         try {
-            updateInventoryFile();
+            Map<Product, Integer> inventory = readInventoryFile();
+            inventory.put(updateMessage.product(), inventory.getOrDefault(updateMessage.product(), 0) + updateMessage.amount());
+            Logger.log(Messages.getWarehouseSellMessage(updateMessage.product(), updateMessage.amount()), WAREHOUSE_LOG_FILE);
+            writeInventoryFile(inventory);
         } catch (IOException e) {
             return ReplyStatus.ERROR_DURING_WRITE;
         }
@@ -117,13 +117,67 @@ public class Warehouse extends UnicastRemoteObject implements IWarehouse {
         return ReplyStatus.SUCCESSFUL;
     }
 
-    // update the inventory file to reflect the current state
-    private void updateInventoryFile() throws IOException {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter(INVENTORY_FILE))) {
-            for (Map.Entry<Product, Integer> entry : inventory.entrySet()) {
-                writer.write(entry.getKey() + "," + entry.getValue());
-                writer.newLine();
-            }
+    // FILE MANAGEMENT
+
+    /**
+     * Takes the values of the inventory map and writes it into the warehouse file.
+     * @param inventory The inventory of the warehouse.
+     */
+    private void writeInventoryFile(Map<Product, Integer> inventory) throws IOException {
+        StringBuilder sb = new StringBuilder();
+        for (var entry : inventory.entrySet()) {
+            sb
+                    .append(entry.getKey())
+                    .append(",")
+                    .append(entry.getValue())
+                    .append("\n");
         }
+        createFile(sb.toString());
+    }
+
+    /**
+     * Reads the contents of the warehouse file and creates a HashMap.
+     * @return A map containing products and their respective amounts.
+     */
+    private Map<Product, Integer> readInventoryFile() throws IOException {
+        Map<Product, Integer> inventory = new HashMap<>();
+
+        String content = readFile();
+        for (String line : content.split("\n")) {
+            if (line.isBlank()) {
+                continue;
+            }
+            String[] parts = line.split(",");
+            Product product = Product.valueOf(parts[0].toUpperCase());
+            int amount = Integer.parseInt(parts[1]);
+            inventory.put(product, amount);
+        }
+
+        return inventory;
+    }
+
+    /**
+     * Writes a string to text file to save trader's current state.
+     * @param content Content to write to file.
+     */
+    private void createFile(String content) throws IOException {
+        BufferedWriter writer = Files.newBufferedWriter(Paths.get(INVENTORY_FILE), StandardCharsets.UTF_8);
+        writer.write(content);
+        writer.close();
+    }
+
+    /**
+     * Reads the contexts of text file into string.
+     * @return Content of the file.
+     */
+    private String readFile() throws IOException {
+        StringBuilder text = new StringBuilder();
+        BufferedReader reader = Files.newBufferedReader(Paths.get(INVENTORY_FILE), StandardCharsets.UTF_8);
+        for (String line = reader.readLine(); line != null; line = reader.readLine())
+            text.append(line).append("\n");
+
+        reader.close();
+
+        return text.toString();
     }
 }

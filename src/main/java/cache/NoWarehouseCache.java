@@ -7,6 +7,9 @@ import warehouse.Warehouse;
 
 import java.rmi.RemoteException;
 
+/**
+ * Implements no caching for the warehouse.
+ */
 public class NoWarehouseCache implements IWarehouseCache {
 
     private final IWarehouse warehouse;
@@ -16,25 +19,25 @@ public class NoWarehouseCache implements IWarehouseCache {
     }
 
     @Override
-    public int lookup(Product product) throws RemoteException {
+    public synchronized int lookup(Product product) throws RemoteException {
         return warehouse.lookup(product);
     }
 
     @Override
-    public ReplyStatus buy(UpdateMessage updateMessage) throws RemoteException {
+    public synchronized ReplyStatus buy(UpdateMessage updateMessage) throws RemoteException {
         return warehouse.buy(updateMessage);
     }
 
     @Override
-    public ReplyStatus sell(UpdateMessage updateMessage) throws RemoteException {
+    public synchronized ReplyStatus sell(UpdateMessage updateMessage) throws RemoteException {
         return warehouse.sell(updateMessage);
     }
 
     @Override
-    public void updateCache(UpdateMessage cacheUpdateMessage) {}
+    public synchronized void updateCache(UpdateMessage cacheUpdateMessage) {}
 
     @Override
-    public int getNextSequenceNumber(int peerID) throws RemoteException {
+    public synchronized int getNextSequenceNumber(int peerID) {
         return 0;
     }
 }

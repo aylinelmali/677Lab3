@@ -1,0 +1,20 @@
+10.12.2024 19:06:52.504 Peer 4 (Buyer) started.
+10.12.2024 19:06:52.535 Peer 4 is doing election. Tags: [0, 1, 2, 3, 4].
+10.12.2024 19:06:52.541 Peer 4 sets coordinators to [4, 5].
+10.12.2024 19:06:57.551 Peer 4 sends heartbeat message to 5.
+10.12.2024 19:06:57.553 Peer 5 responded to heartbeat message from peer 4.
+10.12.2024 19:07:02.551 Peer 4 sends heartbeat message to 5.
+10.12.2024 19:07:02.552 Peer 5 responded to heartbeat message from peer 4.
+10.12.2024 19:07:07.547 Peer 5 responded to heartbeat message from peer 4.
+10.12.2024 19:07:07.547 Peer 4 sends heartbeat message to 5.
+10.12.2024 19:07:24.049 Peer 4 didn't receive a heartbeat response from peer 5. Notifying all peers.
+10.12.2024 19:07:45.272 Peer 4 (Buyer) started.
+10.12.2024 19:07:45.299 Peer 4 is doing election. Tags: [0, 1, 2, 3, 4].
+10.12.2024 19:07:45.305 Peer 4 sets coordinators to [4, 5].
+10.12.2024 19:07:50.315 Peer 4 sends heartbeat message to 5.
+10.12.2024 19:07:50.316 Peer 5 responded to heartbeat message from peer 4.
+10.12.2024 19:07:55.314 Peer 5 responded to heartbeat message from peer 4.
+10.12.2024 19:07:55.315 Peer 4 sends heartbeat message to 5.
+10.12.2024 19:08:00.315 Peer 4 sends heartbeat message to 5.
+10.12.2024 19:08:00.315 Peer 5 responded to heartbeat message from peer 4.
+10.12.2024 19:08:16.813 Peer 4 didn't receive a heartbeat response from peer 5. Notifying all peers.

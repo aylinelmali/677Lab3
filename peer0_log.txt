@@ -1,0 +1,140 @@
+10.12.2024 19:03:23.772 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:03:23.777 Election done. New coordinators are peers [0].
+10.12.2024 19:03:23.778 Peer 0 sets coordinators to [0].
+10.12.2024 19:03:23.780 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:03:23.780 Election done. New coordinators are peers [0].
+10.12.2024 19:03:23.780 Peer 0 sets coordinators to [0].
+10.12.2024 19:03:23.781 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:03:23.782 Election done. New coordinators are peers [0, 1, 2].
+10.12.2024 19:03:23.782 Peer 0 sets coordinators to [0, 1, 2].
+10.12.2024 19:03:23.789 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:03:23.789 Election done. New coordinators are peers [0, 1, 2, 3].
+10.12.2024 19:03:23.789 Peer 0 sets coordinators to [0, 1, 2, 3].
+10.12.2024 19:03:23.791 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:03:23.791 Peer 1 doesn't respond.
+10.12.2024 19:03:23.792 Election done. New coordinators are peers [2].
+10.12.2024 19:03:23.792 Peer 0 sets coordinators to [2].
+10.12.2024 19:03:23.796 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:03:23.799 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:03:23.799 Election done. New coordinators are peers [3].
+10.12.2024 19:03:23.799 Peer 0 sets coordinators to [3].
+10.12.2024 19:03:23.801 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:03:23.801 Election done. New coordinators are peers [2, 3].
+10.12.2024 19:03:23.801 Peer 0 sets coordinators to [2, 3].
+10.12.2024 19:03:23.802 Peer 0 is doing election. Tags: [2, 3, 0].
+10.12.2024 19:06:03.319 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:03.321 Election done. New coordinators are peers [0].
+10.12.2024 19:06:03.321 Peer 0 sets coordinators to [0].
+10.12.2024 19:06:03.328 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:03.328 Election done. New coordinators are peers [0].
+10.12.2024 19:06:03.328 Peer 0 sets coordinators to [0].
+10.12.2024 19:06:03.331 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:03.332 Election done. New coordinators are peers [0, 1, 2].
+10.12.2024 19:06:03.332 Peer 0 sets coordinators to [0, 1, 2].
+10.12.2024 19:06:07.553 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:07.556 Election done. New coordinators are peers [0, 1, 2, 3].
+10.12.2024 19:06:07.556 Peer 0 sets coordinators to [0, 1, 2, 3].
+10.12.2024 19:06:07.563 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:07.564 Peer 1 doesn't respond.
+10.12.2024 19:06:07.564 Election done. New coordinators are peers [2].
+10.12.2024 19:06:07.565 Peer 0 sets coordinators to [2].
+10.12.2024 19:06:07.568 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:07.571 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:07.572 Election done. New coordinators are peers [3].
+10.12.2024 19:06:07.572 Peer 0 sets coordinators to [3].
+10.12.2024 19:06:07.574 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:07.575 Election done. New coordinators are peers [2, 3].
+10.12.2024 19:06:07.575 Peer 0 sets coordinators to [2, 3].
+10.12.2024 19:06:07.576 Peer 0 is doing election. Tags: [2, 3, 0].
+10.12.2024 19:06:42.327 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:42.327 Election done. New coordinators are peers [0].
+10.12.2024 19:06:42.328 Peer 0 sets coordinators to [0].
+10.12.2024 19:06:42.329 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:42.329 Election done. New coordinators are peers [0].
+10.12.2024 19:06:42.329 Peer 0 sets coordinators to [0].
+10.12.2024 19:06:42.331 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:42.331 Election done. New coordinators are peers [0, 1, 2].
+10.12.2024 19:06:42.332 Peer 0 sets coordinators to [0, 1, 2].
+10.12.2024 19:06:42.338 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:42.338 Election done. New coordinators are peers [0, 1, 2, 3].
+10.12.2024 19:06:42.338 Peer 0 sets coordinators to [0, 1, 2, 3].
+10.12.2024 19:06:42.340 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:42.340 Peer 1 doesn't respond.
+10.12.2024 19:06:42.340 Election done. New coordinators are peers [2].
+10.12.2024 19:06:42.340 Peer 0 sets coordinators to [2].
+10.12.2024 19:06:42.342 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:42.344 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:42.344 Election done. New coordinators are peers [3].
+10.12.2024 19:06:42.344 Peer 0 sets coordinators to [3].
+10.12.2024 19:06:42.345 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:42.346 Election done. New coordinators are peers [2, 3].
+10.12.2024 19:06:42.346 Peer 0 sets coordinators to [2, 3].
+10.12.2024 19:06:42.346 Peer 0 is doing election. Tags: [2, 3, 0].
+10.12.2024 19:06:52.424 Peer 0 (Buyer) started.
+10.12.2024 19:06:52.529 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:06:52.537 Election done. New coordinators are peers [4, 5].
+10.12.2024 19:06:52.537 Peer 0 sets coordinators to [4, 5].
+10.12.2024 19:06:57.444 Peer 0 attempts buying 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:06:57.458 Peer 0 couldn't buy 1 piece(s) of BOARS from trader 4. Item out of stock.
+10.12.2024 19:07:02.432 Peer 0 attempts buying 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:07:02.443 Peer 0 successful bought 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:07:07.433 Peer 0 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:07:07.438 Peer 0 successful bought 5 piece(s) of FISH from trader 4.
+10.12.2024 19:07:12.435 Peer 0 attempts buying 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:07:12.451 Peer 0 successful bought 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:07:17.435 Peer 0 attempts buying 2 piece(s) of SALT from trader 4.
+10.12.2024 19:07:17.448 Peer 0 successful bought 2 piece(s) of SALT from trader 4.
+10.12.2024 19:07:22.434 Peer 0 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:07:22.436 Peer 0 couldn't buy 5 piece(s) of FISH from trader 4. Item out of stock.
+10.12.2024 19:07:24.056 Peer 0 updated trader to peer 4.
+10.12.2024 19:07:27.432 Peer 0 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:07:27.433 Peer 0 couldn't buy 5 piece(s) of FISH from trader 4. Item out of stock.
+10.12.2024 19:07:32.430 Peer 0 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:07:32.431 Peer 0 couldn't buy 5 piece(s) of FISH from trader 4. Item out of stock.
+10.12.2024 19:07:45.194 Peer 0 (Buyer) started.
+10.12.2024 19:07:45.294 Peer 0 is doing election. Tags: [0].
+10.12.2024 19:07:45.301 Election done. New coordinators are peers [4, 5].
+10.12.2024 19:07:45.301 Peer 0 sets coordinators to [4, 5].
+10.12.2024 19:07:50.205 Peer 0 attempts buying 5 piece(s) of SALT from trader 4.
+10.12.2024 19:07:50.221 Peer 0 couldn't buy 5 piece(s) of SALT from trader 4. Item out of stock.
+10.12.2024 19:07:55.204 Peer 0 attempts buying 5 piece(s) of SALT from trader 4.
+10.12.2024 19:07:55.215 Peer 0 successful bought 5 piece(s) of SALT from trader 4.
+10.12.2024 19:08:00.200 Peer 0 attempts buying 3 piece(s) of SALT from trader 4.
+10.12.2024 19:08:00.203 Peer 0 couldn't buy 3 piece(s) of SALT from trader 4. Item out of stock.
+10.12.2024 19:08:05.200 Peer 0 attempts buying 3 piece(s) of SALT from trader 4.
+10.12.2024 19:08:05.213 Peer 0 successful bought 3 piece(s) of SALT from trader 4.
+10.12.2024 19:08:10.204 Peer 0 attempts buying 1 piece(s) of FISH from trader 4.
+10.12.2024 19:08:10.216 Peer 0 successful bought 1 piece(s) of FISH from trader 4.
+10.12.2024 19:08:15.203 Peer 0 attempts buying 5 piece(s) of BOARS from trader 4.
+10.12.2024 19:08:15.215 Peer 0 successful bought 5 piece(s) of BOARS from trader 4.
+10.12.2024 19:08:16.820 Peer 0 updated trader to peer 4.
+10.12.2024 19:08:20.204 Peer 0 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:08:20.215 Peer 0 successful bought 5 piece(s) of FISH from trader 4.
+10.12.2024 19:08:25.204 Peer 0 attempts buying 1 piece(s) of FISH from trader 4.
+10.12.2024 19:08:25.216 Peer 0 successful bought 1 piece(s) of FISH from trader 4.
+10.12.2024 19:08:30.204 Peer 0 attempts buying 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:08:30.215 Peer 0 successful bought 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:08:35.204 Peer 0 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:08:35.215 Peer 0 successful bought 5 piece(s) of FISH from trader 4.
+10.12.2024 19:08:40.201 Peer 0 attempts buying 4 piece(s) of SALT from trader 4.
+10.12.2024 19:08:40.204 Peer 0 couldn't buy 4 piece(s) of SALT from trader 4. Item out of stock.
+10.12.2024 19:08:45.198 Peer 0 attempts buying 4 piece(s) of SALT from trader 4.
+10.12.2024 19:08:45.199 Peer 0 couldn't buy 4 piece(s) of SALT from trader 4. Item out of stock.
+10.12.2024 19:08:50.204 Peer 0 attempts buying 4 piece(s) of SALT from trader 4.
+10.12.2024 19:08:50.215 Peer 0 successful bought 4 piece(s) of SALT from trader 4.
+10.12.2024 19:08:55.203 Peer 0 attempts buying 3 piece(s) of FISH from trader 4.
+10.12.2024 19:08:55.215 Peer 0 successful bought 3 piece(s) of FISH from trader 4.
+10.12.2024 19:09:00.200 Peer 0 attempts buying 2 piece(s) of FISH from trader 4.
+10.12.2024 19:09:00.212 Peer 0 successful bought 2 piece(s) of FISH from trader 4.
+10.12.2024 19:09:05.204 Peer 0 attempts buying 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:09:05.215 Peer 0 successful bought 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:09:10.199 Peer 0 attempts buying 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:09:10.209 Peer 0 successful bought 1 piece(s) of BOARS from trader 4.
+10.12.2024 19:09:15.204 Peer 0 attempts buying 3 piece(s) of SALT from trader 4.
+10.12.2024 19:09:15.216 Peer 0 successful bought 3 piece(s) of SALT from trader 4.
+10.12.2024 19:09:20.200 Peer 0 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:09:20.210 Peer 0 successful bought 5 piece(s) of FISH from trader 4.
+10.12.2024 19:09:25.204 Peer 0 attempts buying 2 piece(s) of FISH from trader 4.
+10.12.2024 19:09:25.215 Peer 0 successful bought 2 piece(s) of FISH from trader 4.
+10.12.2024 19:09:30.199 Peer 0 attempts buying 5 piece(s) of SALT from trader 4.
+10.12.2024 19:09:30.201 Peer 0 couldn't buy 5 piece(s) of SALT from trader 4. Item out of stock.

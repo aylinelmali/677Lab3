@@ -32,6 +32,7 @@ public class Logger {
 
     }
 
+    // Method for logging statistic messages.
     public synchronized static void logStats(String message) {
 
         // Print to console

@@ -117,12 +117,15 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
             throw new RemoteException();
         }
 
+        // check if trader
         if (!this.isTrader()) {
             return ReplyStatus.NOT_A_TRADER;
         }
 
+        // buy from warehouse cache
         ReplyStatus replyStatus = this.warehouseCache.buy(updateMessage);
 
+        // return result and update all other caches
         if (replyStatus == ReplyStatus.SUCCESSFUL) {
             int sequenceNumber = this.warehouseCache.getNextSequenceNumber(this.peerID);
             updateAllTraderCaches(new UpdateMessage(sequenceNumber, this.peerID, updateMessage.product(), -updateMessage.amount()));
@@ -139,12 +142,15 @@ public abstract class APeer extends UnicastRemoteObject implements IPeer {
             throw new RemoteException();
         }
 
+        // check if trader
         if (!this.isTrader()) {
             return ReplyStatus.NOT_A_TRADER;
         }
 
+        // sell to warehouse cache
         ReplyStatus replyStatus = this.warehouseCache.sell(updateMessage);
 
+        // return result and update all other caches
         if (replyStatus == ReplyStatus.SUCCESSFUL) {
             int sequenceNumber = this.warehouseCache.getNextSequenceNumber(this.peerID);
             updateAllTraderCaches(new UpdateMessage(sequenceNumber, this.peerID, updateMessage.product(), updateMessage.amount()));

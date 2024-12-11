@@ -1,0 +1,99 @@
+10.12.2024 19:03:23.781 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:03:23.783 Peer 2 sets coordinators to [0, 1, 2].
+10.12.2024 19:03:23.789 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:03:23.790 Peer 2 sets coordinators to [0, 1, 2, 3].
+10.12.2024 19:03:23.791 Peer 2 is doing election. Tags: [0, 2].
+10.12.2024 19:03:23.792 Peer 3 doesn't respond.
+10.12.2024 19:03:23.792 Peer 2 sets coordinators to [2].
+10.12.2024 19:03:23.797 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:03:23.799 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:03:23.800 Peer 2 sets coordinators to [3].
+10.12.2024 19:03:23.801 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:03:23.801 Peer 2 sets coordinators to [2, 3].
+10.12.2024 19:03:23.802 Peer 2 is doing election. Tags: [2].
+10.12.2024 19:03:23.802 Election done. New coordinators are peers [2, 3].
+10.12.2024 19:03:23.802 Peer 2 sets coordinators to [2, 3].
+10.12.2024 19:06:03.332 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:03.332 Peer 2 sets coordinators to [0, 1, 2].
+10.12.2024 19:06:07.555 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:07.556 Peer 2 sets coordinators to [0, 1, 2, 3].
+10.12.2024 19:06:07.564 Peer 2 is doing election. Tags: [0, 2].
+10.12.2024 19:06:07.564 Peer 3 doesn't respond.
+10.12.2024 19:06:07.565 Peer 2 sets coordinators to [2].
+10.12.2024 19:06:07.568 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:07.572 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:07.573 Peer 2 sets coordinators to [3].
+10.12.2024 19:06:07.575 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:07.576 Peer 2 sets coordinators to [2, 3].
+10.12.2024 19:06:07.576 Peer 2 is doing election. Tags: [2].
+10.12.2024 19:06:07.576 Election done. New coordinators are peers [2, 3].
+10.12.2024 19:06:07.576 Peer 2 sets coordinators to [2, 3].
+10.12.2024 19:06:42.331 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:42.332 Peer 2 sets coordinators to [0, 1, 2].
+10.12.2024 19:06:42.338 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:42.338 Peer 2 sets coordinators to [0, 1, 2, 3].
+10.12.2024 19:06:42.340 Peer 2 is doing election. Tags: [0, 2].
+10.12.2024 19:06:42.340 Peer 3 doesn't respond.
+10.12.2024 19:06:42.341 Peer 2 sets coordinators to [2].
+10.12.2024 19:06:42.343 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:42.344 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:42.345 Peer 2 sets coordinators to [3].
+10.12.2024 19:06:42.346 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:42.346 Peer 2 sets coordinators to [2, 3].
+10.12.2024 19:06:42.346 Peer 2 is doing election. Tags: [2].
+10.12.2024 19:06:42.346 Election done. New coordinators are peers [2, 3].
+10.12.2024 19:06:42.347 Peer 2 sets coordinators to [2, 3].
+10.12.2024 19:06:52.464 Peer 2 (Buyer) started.
+10.12.2024 19:06:52.532 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:06:52.539 Peer 2 sets coordinators to [4, 5].
+10.12.2024 19:06:57.475 Peer 2 attempts buying 1 piece(s) of BOARS from trader 5.
+10.12.2024 19:06:57.486 Peer 2 successful bought 1 piece(s) of BOARS from trader 5.
+10.12.2024 19:07:02.473 Peer 2 attempts buying 5 piece(s) of SALT from trader 5.
+10.12.2024 19:07:02.474 Peer 2 couldn't buy 5 piece(s) of SALT from trader 5. Item out of stock.
+10.12.2024 19:07:07.468 Peer 2 attempts buying 5 piece(s) of SALT from trader 5.
+10.12.2024 19:07:07.471 Peer 2 successful bought 5 piece(s) of SALT from trader 5.
+10.12.2024 19:07:24.067 Peer 2 updated trader to peer 4.
+10.12.2024 19:07:27.468 Peer 2 attempts buying 1 piece(s) of FISH from trader 4.
+10.12.2024 19:07:27.469 Peer 2 couldn't buy 1 piece(s) of FISH from trader 4. Item out of stock.
+10.12.2024 19:07:32.469 Peer 2 attempts buying 1 piece(s) of FISH from trader 4.
+10.12.2024 19:07:32.470 Peer 2 couldn't buy 1 piece(s) of FISH from trader 4. Item out of stock.
+10.12.2024 19:07:45.232 Peer 2 (Buyer) started.
+10.12.2024 19:07:45.297 Peer 2 is doing election. Tags: [0, 1, 2].
+10.12.2024 19:07:45.303 Peer 2 sets coordinators to [4, 5].
+10.12.2024 19:07:50.245 Peer 2 attempts buying 5 piece(s) of SALT from trader 5.
+10.12.2024 19:07:50.260 Peer 2 couldn't buy 5 piece(s) of SALT from trader 5. Item out of stock.
+10.12.2024 19:07:55.240 Peer 2 attempts buying 5 piece(s) of SALT from trader 5.
+10.12.2024 19:07:55.241 Peer 2 couldn't buy 5 piece(s) of SALT from trader 5. Item out of stock.
+10.12.2024 19:08:00.241 Peer 2 attempts buying 5 piece(s) of SALT from trader 5.
+10.12.2024 19:08:00.243 Peer 2 couldn't buy 5 piece(s) of SALT from trader 5. Item out of stock.
+10.12.2024 19:08:16.830 Peer 2 updated trader to peer 4.
+10.12.2024 19:08:20.241 Peer 2 attempts buying 5 piece(s) of SALT from trader 4.
+10.12.2024 19:08:20.242 Peer 2 couldn't buy 5 piece(s) of SALT from trader 4. Item out of stock.
+10.12.2024 19:08:25.240 Peer 2 attempts buying 5 piece(s) of SALT from trader 4.
+10.12.2024 19:08:25.241 Peer 2 couldn't buy 5 piece(s) of SALT from trader 4. Item out of stock.
+10.12.2024 19:08:30.240 Peer 2 attempts buying 5 piece(s) of SALT from trader 4.
+10.12.2024 19:08:30.241 Peer 2 couldn't buy 5 piece(s) of SALT from trader 4. Item out of stock.
+10.12.2024 19:08:35.240 Peer 2 attempts buying 5 piece(s) of SALT from trader 4.
+10.12.2024 19:08:35.241 Peer 2 couldn't buy 5 piece(s) of SALT from trader 4. Item out of stock.
+10.12.2024 19:08:40.239 Peer 2 attempts buying 5 piece(s) of SALT from trader 4.
+10.12.2024 19:08:40.245 Peer 2 successful bought 5 piece(s) of SALT from trader 4.
+10.12.2024 19:08:45.241 Peer 2 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:08:45.244 Peer 2 successful bought 5 piece(s) of FISH from trader 4.
+10.12.2024 19:08:50.241 Peer 2 attempts buying 2 piece(s) of BOARS from trader 4.
+10.12.2024 19:08:50.244 Peer 2 successful bought 2 piece(s) of BOARS from trader 4.
+10.12.2024 19:08:55.241 Peer 2 attempts buying 2 piece(s) of BOARS from trader 4.
+10.12.2024 19:08:55.243 Peer 2 successful bought 2 piece(s) of BOARS from trader 4.
+10.12.2024 19:09:00.241 Peer 2 attempts buying 3 piece(s) of FISH from trader 4.
+10.12.2024 19:09:00.244 Peer 2 successful bought 3 piece(s) of FISH from trader 4.
+10.12.2024 19:09:05.239 Peer 2 attempts buying 5 piece(s) of FISH from trader 4.
+10.12.2024 19:09:05.243 Peer 2 successful bought 5 piece(s) of FISH from trader 4.
+10.12.2024 19:09:10.241 Peer 2 attempts buying 1 piece(s) of FISH from trader 4.
+10.12.2024 19:09:10.243 Peer 2 successful bought 1 piece(s) of FISH from trader 4.
+10.12.2024 19:09:15.241 Peer 2 attempts buying 3 piece(s) of SALT from trader 4.
+10.12.2024 19:09:15.243 Peer 2 successful bought 3 piece(s) of SALT from trader 4.
+10.12.2024 19:09:20.241 Peer 2 attempts buying 3 piece(s) of BOARS from trader 4.
+10.12.2024 19:09:20.245 Peer 2 successful bought 3 piece(s) of BOARS from trader 4.
+10.12.2024 19:09:25.241 Peer 2 attempts buying 1 piece(s) of FISH from trader 4.
+10.12.2024 19:09:25.244 Peer 2 successful bought 1 piece(s) of FISH from trader 4.
+10.12.2024 19:09:30.241 Peer 2 attempts buying 2 piece(s) of FISH from trader 4.
+10.12.2024 19:09:30.244 Peer 2 successful bought 2 piece(s) of FISH from trader 4.

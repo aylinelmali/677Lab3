@@ -28,10 +28,6 @@ public class Messages {
         return "Peer " + peerID + " sets coordinators to " + Arrays.toString(traderIDs) + ".";
     }
 
-    public static String getNoInventoryMessage(int buyerID, int traderID, Product product) {
-        return "Trader " + traderID + " informed buyer " + buyerID + " that no " + product + " was available.";
-    }
-
     public static String getOversoldMessage(){
         return "Warehouse rejected buy request because inventory was oversold.";
     }
